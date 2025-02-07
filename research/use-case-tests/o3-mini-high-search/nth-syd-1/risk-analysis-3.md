@@ -1,4 +1,3 @@
-```markdown
 # Risk Analysis Document: Non-Renewal of Cammeray Golf Course Lease – Native Title and Related Risks
 
 This document provides a structured risk analysis focusing on the decision by North Sydney Council (NSC) not to renew the Cammeray Golf Course lease, with particular attention to risks arising under the Native Title Act 1996 as well as other related issues. The analysis evaluates key risk areas, estimates their likelihood and impact, and outlines mitigation strategies and monitoring measures.
@@ -51,4 +50,3 @@ The decision not to renew the Cammeray Golf Course lease without a clear alterna
 ---
 
 *This risk analysis document is intended to support NSC’s decision-making by providing a detailed overview of key risks, with a focus on native title considerations, and proposing actionable mitigation and monitoring strategies. It should serve as a foundation for further discussion and strategic planning.*
-```

@@ -1,4 +1,3 @@
-```markdown
 # Risk Analysis: Non-Renewal of the Cammeray Golf Course Lease
 
 This document presents an analysis of the risks associated with North Sydney Council’s (NSC) plan not to renew the Cammeray Golf Course lease in 2026—without a clear alternate plan of use for the Crown land. The analysis identifies key risk areas, evaluates their likelihood and potential impact, and outlines suggested mitigation strategies. This information is intended to assist NSC in making an informed, proactive decision.
@@ -65,4 +64,3 @@ The non-renewal of the Cammeray Golf Course lease without a clear alternate plan
 ---
 
 *This risk analysis document is intended to support NSC’s decision-making process by providing a structured assessment of key risks and corresponding mitigation strategies. It should be reviewed and updated as further details emerge during the consultation and planning phases.*
-```
