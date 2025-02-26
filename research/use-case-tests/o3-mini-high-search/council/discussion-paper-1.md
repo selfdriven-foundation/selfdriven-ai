@@ -4,7 +4,7 @@
 This paper outlines the key risks associated with North Sydney Council’s potential decision not to renew the Cammeray Golf Course lease in the absence of a well‐defined alternative plan for the land. The risks span community control, open space quality, planning and legal uncertainty, and financial and political implications. It is intended to guide council deliberations by highlighting areas for further consultation and strategic planning.
 
 ## 1. Background
-North Sydney Council currently leases part of Cammeray Reserve—the largest single parcel of open space in the local government area—to the Cammeray Golf Club. With the lease set to expire in May 2026, there is growing discussion about not renewing the lease. However, no clear alternative plan for the land’s future use has been established, which raises several risks:
+Council currently leases part of Cammeray Reserve—the largest single parcel of open space in the local government area—to the Cammeray Golf Club. With the lease set to expire in May 2026, there is growing discussion about not renewing the lease. However, no clear alternative plan for the land’s future use has been established, which raises several risks:
 - The possibility of secretive negotiations with the current leaseholder or third parties.
 - Potential deterioration in the quality or quantity of open space.
 - Uncertainty in planning outcomes and legal challenges.

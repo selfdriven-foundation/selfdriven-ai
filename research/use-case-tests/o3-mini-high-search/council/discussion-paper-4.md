@@ -1,4 +1,4 @@
-Below is a discussion paper designed for presentation to North Sydney Council members. It provides an in‐depth analysis of the risks associated with not renewing the Cammeray Golf Club’s lease over the Cammeray Golf Course (Council-managed Crown land) when the lease expires in 2026, and the implications of not having an immediate alternative recreational use plan in place.
+Below is a discussion paper designed for presentation to Council members. It provides an in‐depth analysis of the risks associated with not renewing the Cammeray Golf Club’s lease over the Cammeray Golf Course (Council-managed Crown land) when the lease expires in 2026, and the implications of not having an immediate alternative recreational use plan in place.
 
 ---
 

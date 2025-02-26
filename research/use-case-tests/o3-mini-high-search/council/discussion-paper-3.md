@@ -1,7 +1,7 @@
 # Discussion Paper: Risks of Not Renewing the Cammeray Golf Course Lease Without a Clear Alternate Plan
 
 ## Executive Summary
-North Sydney Council (NSC) is considering not renewing the lease for the Cammeray Golf Course, managed on Crown land, with the lease expiring in 2026. However, a clear alternate plan for the land’s future use has yet to be established. This paper examines the risks associated with this plan of action, taking into account the land’s Crown status, local council challenges, and the requirements and potential implications of the Native Title Act 1996.
+Council is considering not renewing the lease for the Cammeray Golf Course, managed on Crown land, with the lease expiring in 2026. However, a clear alternate plan for the land’s future use has yet to be established. This paper examines the risks associated with this plan of action, taking into account the land’s Crown status, local council challenges, and the requirements and potential implications of the Native Title Act 1996.
 
 ## 1. Background
 - **Lease and Land Status:**  
