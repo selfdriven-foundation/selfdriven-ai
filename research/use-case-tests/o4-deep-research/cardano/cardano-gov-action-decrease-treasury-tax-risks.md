@@ -4,11 +4,11 @@ ChatGPT-4o
 
 # Context:
 
-See cardano-gov-action-decrease-treasury-tax-cc-member.md
+See cardano-gov-action-decrease-treasury-tax.md
 
 # Prompt & Clarifications:
 
-GCan you list risks identitied and rate them with rationale using ISO31000
+Can you list risks identitied and rate them with rationale using ISO31000
 
 # URL:
 

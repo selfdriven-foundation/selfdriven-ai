@@ -2,10 +2,6 @@
 
 ChatGPT-4o / Deep Research
 
-# Also:
-
-For ISO31000 risk analysis see cardano-gov-action-decrease-treasury-tax-cc-member-risks.md
-
 # Prompt & Clarifications:
 
 Great can you do this analysis again, but thinking about it from a Constitutinal Committee Member's perspective - consider that the GA was put on-chain with no pre-socialisation with the community and does not include a risk assessment etc and how that relates to the constitution.

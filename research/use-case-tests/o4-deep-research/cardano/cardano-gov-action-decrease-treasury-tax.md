@@ -2,6 +2,10 @@
 
 ChatGPT-4o / Deep Research
 
+# Also:
+
+For ISO31000 risk analysis see cardano-gov-action-decrease-treasury-tax-cc-member-risks.md
+
 # Prompt:
 
 Using the constitution (attached) analysis the proposed Goverance Action that follows - with fully analysis including: Effect of the Change
