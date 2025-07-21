@@ -13,7 +13,7 @@ a {
 .header {
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
+	align-items: start;
 	background: #fff;
 	padding: 1rem 1.2rem;
 	padding-bottom: 0px;
