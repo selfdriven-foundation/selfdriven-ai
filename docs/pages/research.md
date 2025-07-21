@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research | selfdrivenAI
+title: Research - selfdrivenAI
 permalink: /research/
 ---
 

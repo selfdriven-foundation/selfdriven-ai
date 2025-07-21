@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tech | selfdrivenAI
+title: Tech - selfdrivenAI
 permalink: /tech/
 ---
 
