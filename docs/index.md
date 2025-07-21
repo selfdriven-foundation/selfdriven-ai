@@ -5,8 +5,8 @@ title: Home
 
 ## Combining the selfdriven Framework with the power of Generative AI to enable decentralised human/purpose driven communities
 
-- [Research](research/)
-- [Tech](tech/)
+- [Research](/research/)
+- [Tech](/tech/)
 
 ### Getting Involved / Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
