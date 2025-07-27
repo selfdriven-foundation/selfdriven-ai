@@ -14,8 +14,7 @@
 - [Use-Cases-Tests](https://github.com/selfdriven-foundation/selfdriven-ai/tree/main/research/use-case-tests)
 
 ### Getting Involved / Contact Us
-- [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
-- [selfdriven.foundation/connect](https://selfdriven.fyi/connect)
+- [selfdriven.fyi/connect](https://selfdriven.fyi/connect)
 
 ### Resources
 - [**GitHub Repo**](https://github.com/selfdriven-foundation/selfdriven-ai)
