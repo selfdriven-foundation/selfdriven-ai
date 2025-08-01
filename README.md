@@ -21,7 +21,7 @@
 - [selfdriven.ai](https://selfdriven.ai)
 - [selfdriven.foundation/intelligence](https://selfdriven.fyi/intelligence).
 - [selfdriven.social](https://selfdriven.social) - AT Protocol.
-- [skillzeb.io](https://skillseb.io) - templates.
+- [skillzeb.io](https://skillzeb.io) - templates.
 - [selfdriven.foundation](https://selfdriven.foundation) - framework.
 - [gitingest.com](https://gitingest.com/selfdriven-foundation/selfdriven-ai) - ingest github repo.
 
