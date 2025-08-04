@@ -20,6 +20,7 @@ permalink: /research/
 ## Reading
 - [Yuval Noah Harari; Nexus (Book)](https://www.ynharari.com/book/nexus/)
 - [Henry Kissinger; Genesis - AI & The Human Spirit (Book)](https://www.hachettebookgroup.com/titles/henry-a-kissinger/genesis/9780316581295/)
+- [Mo Gawdat; Scary Smart Book](https://www.mogawdat.com/scary-smart)
 
 ## Other Resources
 <div style="padding-left: 36px;">
@@ -28,16 +29,8 @@ permalink: /research/
 			<div><a href="https://youtu.be/C84SLJhhEpo" target="_blank">Mo Gawdat; Education
 					& AI (JUL2023)</a>
 			</div>
-			<div class="mt-0 text-secondary small">"The only human skill is
-				<em>human-connection</em>"
+			<div class="mt-0 text-secondary small">"The only human skill is <em>human-connection</em>"
 			</div>
-		</div>
-	</div>
-
-	<div class="row mb-2">
-		<div class="col-12">
-			<a href="https://www.mogawdat.com/scary-smart" target="_blank">Mo Gawdat; Scary
-				Smart Book</a>
 		</div>
 	</div>
 
@@ -46,10 +39,8 @@ permalink: /research/
 			<div><a href="https://youtu.be/zXd9ZwU8u5E" target="_blank">
 					Stability AI CEO Emad Mostaque (July 2023)</a>
 			</div>
-			<div class="mt-0 text-secondary small">The Full Interview</div>
 		</div>
 	</div>
-
 
 	<div class="row mb-2">
 		<div class="col-12">
