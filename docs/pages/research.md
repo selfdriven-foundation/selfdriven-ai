@@ -17,8 +17,12 @@ permalink: /research/
 ## Transformations
 - Traditional University: "To Create Practical Spaces For Young People To Practice Caring for Self & Others In Regards to Health, Building, Food, Play & Learning"
 
-## Resources
-<div>
+## Reading
+- [Yuval Noah Harari; Nexus (Book)](https://www.ynharari.com/book/nexus/)
+- [Henry Kissinger; Genesis - AI & The Human Spirit (Book)](https://www.hachettebookgroup.com/titles/henry-a-kissinger/genesis/9780316581295/)
+
+## Other Resources
+<div style="padding-left: 36px;">
 	<div class="row mt-2 mb-2">
 		<div class="col-12">
 			<div><a href="https://youtu.be/C84SLJhhEpo" target="_blank">Mo Gawdat; Education
@@ -190,19 +194,7 @@ permalink: /research/
 		</div>
 	</div>
 
-	<div class="row mb-2">
-		<div class="col-12">
-			<a href="https://www.ynharari.com/book/nexus/" target="_blank">
-				Yuval Noah Harari; Nexus (Book)</a>
-		</div>
-	</div>
-
-	<div class="row mb-2">
-		<div class="col-12">
-			<a href="https://www.hachettebookgroup.com/titles/henry-a-kissinger/genesis/9780316581295/" target="_blank">
-				Henry Kissinger; Genesis - AI & The Human Spirit (Book)</a>
-		</div>
-	</div>
+	
 
 
 </div>
