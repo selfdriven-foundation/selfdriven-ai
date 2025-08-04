@@ -26,6 +26,12 @@ permalink: /research/
 <div style="padding-left: 36px;">
 	<div class="row mt-2 mb-2">
 		<div class="col-12">
+			<div><a href="https://youtu.be/S9a1nLw70p0" target="_blank">Mo Gawdat (AUG2025)</a>
+			</div>
+		</div>
+	</div>
+	<div class="row mt-2 mb-2">
+		<div class="col-12">
 			<div><a href="https://youtu.be/C84SLJhhEpo" target="_blank">Mo Gawdat; Education
 					& AI (JUL2023)</a>
 			</div>
