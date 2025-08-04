@@ -19,6 +19,9 @@ permalink: /tech/
 - [Mistral](https://mistral.ai)
 - [DeepSeek](https://deepseek.com)
 
+### Other Services
+- [Google DeepMind](https://deepmind.google)
+
 ### Hardware
 - [Figure AI (Humanoids)](https://www.figure.ai/)
 - [Etched](https://www.etched.com/)
