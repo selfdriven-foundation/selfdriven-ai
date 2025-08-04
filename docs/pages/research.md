@@ -6,8 +6,7 @@ permalink: /research/
 
 ## Research into Generative AI to support human/purpose driven communities.
 
-> "What matters more than the output is the input".
->  "The only human skill is human-connection."
+"The only human skill is human-connection."
 
 ## Topics
 - How Can Generative AI Support Learner Specific Project Based Learning?
@@ -27,7 +26,7 @@ permalink: /research/
 - [Mo Gawdat; Education & AI (JUL2023)](https://youtu.be/C84SLJhhEpo)  
 - [Stability AI CEO Emad Mostaque (July 2023)](https://youtu.be/zXd9ZwU8u5E)
 - [Yuval Noah Harari & Mustafa Suleyman The Economist Interview (Sep 2023)](https://youtu.be/7JkPWHr7sTY?si=gwyxf6PLPZD-awJw)
-- [Emad Mostaque; Why AI Matters & How To Deal With The Coming Change (30min|July 2023)](https://www.youtube.com/watch?v=ciX_iFGyS0M)
+- [Emad Mostaque; Why AI Matters & How To Deal With The Coming Change (July 2023)](https://www.youtube.com/watch?v=ciX_iFGyS0M)
 - [Eliezer Yudkowsky & Rep. Dan Crenshaw (July 2023)](https://www.youtube.com/watch?v=uX9xkYDSPKA)
 - [Mo Gawdat; Talk on AI & why he left Google X](https://youtu.be/bk-nQ7HF6k4)
 - [Sam Harris Interview (AUG2023)](https://youtu.be/GmlrEgLGozw)
