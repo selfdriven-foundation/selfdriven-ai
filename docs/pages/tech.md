@@ -27,3 +27,6 @@ permalink: /tech/
 ### Hardware
 - [Figure AI (Humanoids)](https://www.figure.ai/)
 - [Etched](https://www.etched.com/)
+
+### heyOcto
+- [GitHub Repo - Models etc](https://github.com/selfdriven-foundation/octo/tree/main/heyocto)
