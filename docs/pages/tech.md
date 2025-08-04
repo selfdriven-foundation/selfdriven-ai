@@ -4,16 +4,20 @@ title: Tech - selfdrivenAI
 permalink: /tech/
 ---
 
-## The technology powering Generative AI for use within decentralised communities.
+## A selection of technology powering Generative AI for use within self-actuating communities.
 
 ### Models & Engines
 - [Hugging Face (Open-Source Model Repository)](https://huggingface.co/)
 
 ### Protocols
-- [Model Context Protocol]()
+- [Model Context Protocol](https://modelcontextprotocol.io)
 
-### Services
+### Foundation Services
 - [ChatGPT](https://chatgpt.com/)
+- [Google AI](https://ai.google)
+- [xAI](https://x.ai)
+- [Mistral](https://mistral.ai)
+- [DeepSeek](https://deepseek.com)
 
 ### Hardware
 - [Figure AI (Humanoids)](https://www.figure.ai/)
