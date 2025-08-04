@@ -15,13 +15,13 @@ permalink: /research/
 ## Transformations
 - Traditional University: "To Create Practical Spaces For Young People To Practice Caring for Self & Others In Regards to Health, Building, Food, Play & Learning"
 
-## Reading
+## Books
 - [Yuval Noah Harari; Nexus (Book)](https://www.ynharari.com/book/nexus/)
 - [Henry Kissinger; Genesis - AI & The Human Spirit (Book)](https://www.hachettebookgroup.com/titles/henry-a-kissinger/genesis/9780316581295/)
 - [Mo Gawdat; Scary Smart Book](https://www.mogawdat.com/scary-smart)
+- [Life 3.0 Book By Max Tegmark](https://en.wikipedia.org/wiki/Life_3.0)
 
-## Other Resources
-
+## Videos
 - [Mo Gawdat (AUG2025)](https://youtu.be/S9a1nLw70p0)
 - [Mo Gawdat; Education & AI (JUL2023)](https://youtu.be/C84SLJhhEpo)  
 - [Stability AI CEO Emad Mostaque (July 2023)](https://youtu.be/zXd9ZwU8u5E)
@@ -37,7 +37,6 @@ permalink: /research/
 - [Eliezer Yudkowsky with Lex Fridman](https://youtu.be/AaTRHFaaPG8)
 - [Donald Hoffman with Lex Fridman](https://youtu.be/reYdQYZ9Rj4)
 - [Sam Altman, CEO of OpenAI, Talking About ChatGPT](https://www.youtube.com/watch?v=L_Guz73e6fw)
-- [Life 3.0 Book By Max Tegmark](https://en.wikipedia.org/wiki/Life_3.0)
 - [Exponential Organisations 2.0 By Salim Ismail & Peter H. Diamondis](https://openexo.com/book)
 - [UN Gen-Sec Briefing on Digital Platforms / AI (June 2023)](https://www.youtube.com/watch?v=ktFF2dSH3oU)
 - [ABC(AUS); Generative AI in the Classroom](https://www.youtube.com/watch?v=eCa-JCr0v9c)
