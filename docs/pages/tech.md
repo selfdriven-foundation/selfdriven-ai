@@ -13,11 +13,13 @@ permalink: /tech/
 - [Model Context Protocol](https://modelcontextprotocol.io)
 
 ### Foundation Services
-- [ChatGPT](https://chatgpt.com/)
+- [OpenAI](https://openai.com)
 - [Google AI](https://ai.google)
 - [xAI](https://x.ai)
 - [Mistral](https://mistral.ai)
+- [Anthropic](https://anthropic.com)
 - [DeepSeek](https://deepseek.com)
+- [ASI](https://superintelligence.io)
 
 ### Other Services
 - [Google DeepMind](https://deepmind.google)
