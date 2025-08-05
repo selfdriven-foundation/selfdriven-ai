@@ -9,11 +9,11 @@ permalink: /research/
 "The only human skill is human-connection."
 
 ## Topics
-- How Can Generative AI Support Learner Specific Project Based Learning?
+- How Can Generative AI Support Communities Self-Actuate?
 - How Can Generative AI Support Governance of Decentralised Learning, Learning Communities & Society?
 
 ## Transformations
-- Traditional University: "To Create Practical Spaces For Young People To Practice Caring for Self & Others In Regards to Health, Building, Food, Play & Learning"
+- Traditional Education: "To Create Practical Spaces For Young People To Practice Caring for Self & Others In Regards to Health, Building, Food, Play & Learning"
 
 ## Books
 - [Yuval Noah Harari; Nexus (Book)](https://www.ynharari.com/book/nexus/)
