@@ -21,6 +21,8 @@ permalink: /tech/
 - [Mistral](https://mistral.ai)
 - [Anthropic](https://anthropic.com)
 - [DeepSeek](https://deepseek.com)
+- [Qwen](https://qwen.ai)
+- [Z AI](z.ai)
 - [ASI](https://superintelligence.io)
 
 ### Other Services
