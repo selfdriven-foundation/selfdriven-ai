@@ -19,7 +19,8 @@ permalink: /research/
 - [Yuval Noah Harari; Nexus (Book)](https://www.ynharari.com/book/nexus/)
 - [Henry Kissinger; Genesis - AI & The Human Spirit (Book)](https://www.hachettebookgroup.com/titles/henry-a-kissinger/genesis/9780316581295/)
 - [Mo Gawdat; Scary Smart Book](https://www.mogawdat.com/scary-smart)
-- [Life 3.0 Book By Max Tegmark](https://en.wikipedia.org/wiki/Life_3.0)
+- [Max Tegmark; Life 3.0](https://en.wikipedia.org/wiki/Life_3.0)
+- [Mustafa Suleyman; The Coming Wave](https://www.penguin.com.au/books/the-coming-wave-9781529923834)
 
 ## Videos
 - [Mo Gawdat (AUG2025)](https://youtu.be/S9a1nLw70p0)
