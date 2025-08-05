@@ -16,9 +16,9 @@ permalink: /research/
 - Traditional Education: "To Create Practical Spaces For Young People To Practice Caring for Self & Others In Regards to Health, Building, Food, Play & Learning"
 
 ## Books
-- [Yuval Noah Harari; Nexus (Book)](https://www.ynharari.com/book/nexus/)
-- [Henry Kissinger; Genesis - AI & The Human Spirit (Book)](https://www.hachettebookgroup.com/titles/henry-a-kissinger/genesis/9780316581295/)
-- [Mo Gawdat; Scary Smart Book](https://www.mogawdat.com/scary-smart)
+- [Yuval Noah Harari; Nexus](https://www.ynharari.com/book/nexus/)
+- [Henry Kissinger; Genesis - AI & The Human Spirit](https://www.hachettebookgroup.com/titles/henry-a-kissinger/genesis/9780316581295/)
+- [Mo Gawdat; Scary Smart](https://www.mogawdat.com/scary-smart)
 - [Max Tegmark; Life 3.0](https://en.wikipedia.org/wiki/Life_3.0)
 - [Mustafa Suleyman; The Coming Wave](https://www.penguin.com.au/books/the-coming-wave-9781529923834)
 
