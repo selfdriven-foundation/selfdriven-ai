@@ -47,7 +47,8 @@ permalink: /research/
 
 ## Other
 - [Use-Cases-Tests](https://github.com/selfdriven-foundation/selfdriven-ai/tree/main/research/use-case-tests)
-- Use of [skillzeb](https://skillseb.io) Community Templates for GenAI alignment
+- [skillzeb](https://skillseb.io) - Community Templates for GenAI alignment
+- [lifearchitect.ai](https://lifearchitect.ai) - Understanding, visualizing, and realizing the capabilities of post-2020 AI
 
 ## Models
 - [Hierarchical Reasoning Model](https://github.com/sapientinc/HRM)
