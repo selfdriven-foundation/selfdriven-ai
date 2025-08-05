@@ -17,6 +17,7 @@ permalink: /tech/
 - [OpenAI](https://openai.com)
 - [Google AI](https://ai.google)
 - [xAI](https://x.ai)
+- [Meta AI](https://meta.ai)
 - [Mistral](https://mistral.ai)
 - [Anthropic](https://anthropic.com)
 - [DeepSeek](https://deepseek.com)
