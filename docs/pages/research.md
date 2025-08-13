@@ -24,12 +24,12 @@ permalink: /research/
 
 ## Videos
 - [Mo Gawdat (AUG2025)](https://youtu.be/S9a1nLw70p0)
+- [Mo Gawdat; Talk on AI & why he left Google X (2023)](https://youtu.be/bk-nQ7HF6k4)
 - [Mo Gawdat; Education & AI (JUL2023)](https://youtu.be/C84SLJhhEpo)  
 - [Stability AI CEO Emad Mostaque (July 2023)](https://youtu.be/zXd9ZwU8u5E)
 - [Yuval Noah Harari & Mustafa Suleyman The Economist Interview (Sep 2023)](https://youtu.be/7JkPWHr7sTY?si=gwyxf6PLPZD-awJw)
 - [Emad Mostaque; Why AI Matters & How To Deal With The Coming Change (July 2023)](https://www.youtube.com/watch?v=ciX_iFGyS0M)
 - [Eliezer Yudkowsky & Rep. Dan Crenshaw (July 2023)](https://www.youtube.com/watch?v=uX9xkYDSPKA)
-- [Mo Gawdat; Talk on AI & why he left Google X](https://youtu.be/bk-nQ7HF6k4)
 - [Sam Harris Interview (AUG2023)](https://youtu.be/GmlrEgLGozw)
 - [Mustafa Suleyman (Google DeepMind Co-Founder) Interview (SEP2023)](https://www.youtube.com/watch?v=CTxnLsYHWuI)
 - [Mustafa Suleyman "The Coming Wave" Book (AUG2023)](https://www.the-coming-wave.com)
