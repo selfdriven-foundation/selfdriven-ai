@@ -22,6 +22,9 @@ permalink: /research/
 - [Max Tegmark; Life 3.0](https://en.wikipedia.org/wiki/Life_3.0)
 - [Mustafa Suleyman; The Coming Wave](https://www.penguin.com.au/books/the-coming-wave-9781529923834)
 
+## Channels
+    - [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)
+
 ## Videos
 - [Mo Gawdat (AUG2025)](https://youtu.be/S9a1nLw70p0)
 - [Mo Gawdat; Talk on AI & why he left Google X (2023)](https://youtu.be/bk-nQ7HF6k4)
