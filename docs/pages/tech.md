@@ -27,6 +27,7 @@ permalink: /tech/
 
 ### Other Services
 - [Google DeepMind](https://deepmind.google)
+- [liquid.ai](https://liquid.ai) - On-Device
 
 ### Hardware
 - [Figure AI (Humanoids)](https://www.figure.ai/)
