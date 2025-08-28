@@ -23,7 +23,7 @@ permalink: /research/
 - [Mustafa Suleyman; The Coming Wave](https://www.penguin.com.au/books/the-coming-wave-9781529923834)
 
 ## Channels
-    - [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/@NateBJones)
+- [AI News & Strategy Daily by Nate B Jones](https://www.youtube.com/@NateBJones)
 
 ## Videos
 - [Mo Gawdat (AUG2025)](https://youtu.be/S9a1nLw70p0)
