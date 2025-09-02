@@ -7,6 +7,7 @@ title: Home
 
 - [Research](/research/)
 - [Tech](/tech/)
+- [Thoughtd](/thoughts/)
 
 ### Related
 - [selfdriven.fyi/intelligence](https://selfdriven.fyi/intelligence)
