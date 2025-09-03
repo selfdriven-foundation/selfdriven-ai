@@ -8,6 +8,7 @@ title: Home
 - [Research](/research/)
 - [Tech](/tech/)
 - [Thoughts](/thoughts/)
+- [Emerging importance of Games](/games/)
 
 ### Related
 - [selfdriven.fyi/intelligence](https://selfdriven.fyi/intelligence)

@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Level Up - selfdrivenAI
-permalink: /levelup/
+title: Emerging importance of Games - selfdrivenAI
+permalink: /games/
 ---
 
-## Level Up
+## Emerging importance of Games (Level Up)
 
 ### In the end will it be just self-actualisation via games that will create the challenges.
+
+**In a solved worl, do we need more games to play?**
 
 Games are already the most powerful structured environments we’ve created for challenge, feedback, and progression. They’re basically synthetic “hero’s journeys” packaged in interactive loops. As AI + metaverse layers evolve, games can become fully personalised—dialling difficulty, narrative, and meaning to match each individual’s path toward self-actualisation.
 
@@ -68,3 +70,16 @@ Meta-Loop: Integration
 	- Civilisation → Personal: The grand narrative gives personal quests deeper meaning.
 
 This meta-loop is what prevents games from being just escapism: each layer “plugs into” the others.
+
+### Related
+- [selfdriven.fyi/levelup](https://selfdriven.fyi/levelup)
+- [octomics.io](https://octomics.io) -- incentives.
+- [octology.io](https://octology.io) -- ontology, templates, defining context
+- [selfdriven Level Up App](https://selfdriven.app)
+
+### Octology defining context:
+- Communities 
+- Network / Tech
+- Model
+- Experience
+- Value
