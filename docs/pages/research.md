@@ -11,6 +11,8 @@ permalink: /research/
 ## Topics
 - How Can Generative AI Support Communities Self-Actuate?
 - How Can Generative AI Support Governance of Decentralised Learning, Learning Communities & Society?
+- [Thoughts](/thoughts/)
+- [Emerging importance of Games](/games/)
 
 ## Transformations
 - Traditional Education: "To Create Practical Spaces For Young People To Practice Caring for Self & Others In Regards to Health, Building, Food, Play & Learning"
