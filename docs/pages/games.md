@@ -6,22 +6,22 @@ permalink: /games/
 
 ## Emerging importance of Games (Level Up)
 
-### In the end will it be just self-actualisation via games that will create the challenges.
+**In the end will it be just self-actualisation via games that will create the challenges?**
 
-**In a solved worl, do we need more games to play?**
+In a solved world, do we need more games to play?
 
 Games are already the most powerful structured environments we’ve created for challenge, feedback, and progression. They’re basically synthetic “hero’s journeys” packaged in interactive loops. As AI + metaverse layers evolve, games can become fully personalised—dialling difficulty, narrative, and meaning to match each individual’s path toward self-actualisation.
 
-1. Games as Structured Self-Actualisation
+### Games as Structured Self-Actualisation
 	- Challenge & flow: Mihaly Csikszentmihalyi’s “flow” model maps perfectly to game design—just hard enough to stretch you, not so hard it breaks you.
 	- Agency & mastery: Games give players agency, choices with consequences, and tangible progress markers—core drivers of self-actualisation.
 	- Safe failure: Unlike real-life stakes, games allow iterative learning without catastrophic costs.
 
-2. Expanding Beyond “Entertainment”
+### Expanding Beyond “Entertainment”
 	- Already we see games bleeding into education, work, and governance (e.g., simulations, DAOs with game-like quests, cooperative platforms).
 	- If communities and systems adopt game mechanics to coordinate action and growth, games stop being just “play” and start being containers for meaning.
 
-3. Potential Futures
+### Potential Futures
 	- Optimistic: Games evolve into adaptive self-actualisation engines—each person gets bespoke “quests” aligned to personal and communal flourishing.
 	- Pessimistic: We get trapped in escapist game loops that simulate self-actualisation but don’t integrate back into real-world growth.
 	- Middle path: Games become one of several primary modes for creating challenges—alongside real-world projects, relationships, and natural systems.
@@ -34,7 +34,7 @@ So—maybe not only games, but games could be the primary design language throug
 
 **Self-Actualisation Game Loops**
 
-1. Personal Level (Individual)
+### Personal Level (Individual)
 
 Core Loop: Challenge → Effort → Feedback → Mastery → New Challenge
 	- Quests: Fitness goals, learning a new skill, creative projects.
@@ -44,7 +44,7 @@ Core Loop: Challenge → Effort → Feedback → Mastery → New Challenge
 
 Example: Duolingo as a “language RPG,” but imagine it tuned to your life goals with adaptive AI narratives.
 
-2. Community Level (Collective)
+### Community Level (Collective)
 
 Core Loop: Shared Quest → Roles → Cooperation → Achievements → Renewed Quest
 	- Quests: Run a local BioHub, publish open research, organise a festival.
@@ -54,7 +54,7 @@ Core Loop: Shared Quest → Roles → Cooperation → Achievements → Renewed Q
 
 Example: A DAO or co-op where each member takes “quests” aligned with skills/passions, with reputation and trust as in-game stats.
 
-3. Civilisational Level (Planetary)
+### Civilisational Level (Planetary)
 
 Core Loop: Grand Narrative → Epochal Challenges → Collective Response → Cultural Evolution → New Narrative
 	- Quests: Climate restoration, space exploration, governance redesign.
@@ -64,7 +64,7 @@ Core Loop: Grand Narrative → Epochal Challenges → Collective Response → Cu
 
 Example: UN-style planetary quests reframed as “world raids” where states, orgs, and individuals play interlinked roles — with metrics visible as global progress bars.
 
-Meta-Loop: Integration
+### Meta-Loop: Integration
 	- Personal → Community: My skill quests fuel the guild’s shared projects.
 	- Community → Civilisation: Guild wins ripple into systemic change.
 	- Civilisation → Personal: The grand narrative gives personal quests deeper meaning.
