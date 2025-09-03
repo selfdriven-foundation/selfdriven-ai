@@ -11,7 +11,7 @@ permalink: /research/
 ## Topics
 - How Can Generative AI Support Communities Self-Actuate?
 - How Can Generative AI Support Governance of Decentralised Learning, Learning Communities & Society?
-- [Thoughts](/thoughts/)
+- [More Topics/Thoughts](/thoughts/)
 - [Emerging importance of Games](/games/)
 
 ## Transformations
