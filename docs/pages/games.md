@@ -69,7 +69,7 @@ Example: UN-style planetary quests reframed as “world raids” where states, o
 This meta-loop is what prevents games from being just escapism: each layer “plugs into” the others.
 
 ### Related
-- [selfdriven.fyi/levelup](https://selfdriven.fyi/levelup)
+- [selfdriven.fyi/levelup](https://selfdriven.fyi/levelup) - frameworks e.g. Improvement Cycle, The Three Laws of Performance.
 - [octomics.io](https://octomics.io) -- incentives.
 - [octology.io](https://octology.io) -- ontology, templates, defining context
 - [selfdriven Level Up App](https://selfdriven.app)
