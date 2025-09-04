@@ -29,9 +29,7 @@ So—maybe not only games, but games could be the primary design language throug
 
 ⸻
 
-### A map of self-actualisation game loops across three levels: personal, community, and civilisational. Think of it as concentric circles where the same design principles apply, just scaled.
-
-**Self-Actualisation Game Loops**
+## A map of self-actualisation game loops across three levels: personal, community, and civilisational. Think of it as concentric circles where the same design principles apply, just scaled.
 
 ### Personal Level (Individual)
 
