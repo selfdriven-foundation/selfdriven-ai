@@ -4,7 +4,7 @@ title: Emerging importance of Games - selfdrivenAI
 permalink: /games/
 ---
 
-## Emerging importance of Games (Level Up)
+## Emerging importance of Games
 
 - **In the end will it be just self-actualisation via games that will create the challenges?**
 - **In a solved world, do we need more games to play?**
