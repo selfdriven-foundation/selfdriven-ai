@@ -25,10 +25,11 @@ permalink: /research/
 - [Mustafa Suleyman; The Coming Wave](https://www.penguin.com.au/books/the-coming-wave-9781529923834)
 
 ## Channels
-- [AI News & Strategy Daily by Nate B Jones](https://www.youtube.com/@NateBJones)
+- [AI News & Strategy Daily by Nate B Jones](https://www.youtube.com/@NateBJones)[[
 
 ## Videos
-- [Mo Gawdat (AUG2025)](https://youtu.be/S9a1nLw70p0)
+- [Dr Roman Yampolskiy, SEP2025](https://youtu.be/UclrVWafRAI)
+- [Mo Gawdat, AUG2025](https://youtu.be/S9a1nLw70p0)
 - [Mo Gawdat; Talk on AI & why he left Google X (2023)](https://youtu.be/bk-nQ7HF6k4)
 - [Mo Gawdat; Education & AI (JUL2023)](https://youtu.be/C84SLJhhEpo)  
 - [Stability AI CEO Emad Mostaque (July 2023)](https://youtu.be/zXd9ZwU8u5E)
