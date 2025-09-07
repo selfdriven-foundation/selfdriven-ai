@@ -48,6 +48,9 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - Bigger question: why did we cook ourselves?
 - Was it always going to happen as a regenerative/reflective process?
 
+### Random
+- Humans will learn to love chores
+
 ---
 ## Thoughts as Narrative
 
