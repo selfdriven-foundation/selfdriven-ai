@@ -50,6 +50,7 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 
 ### Random
 - Humans will learn to love chores
+- In an era of abundant intelligence, stop generating and start defining.
 
 ---
 ## Thoughts as Narrative
