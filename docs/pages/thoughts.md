@@ -51,6 +51,16 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 ### Random
 - Humans will learn to love chores
 - In an era of abundant intelligence, stop generating and start defining.
+- All we care about at this moment is human-interface - persistence is secondary.
+- What happens when we push the mind beyond anything it has known?
+- Some people will miss the AI revolution because they were in meetings
+- Everything is simply a happening and all you are doing is observing it.
+- In a solved world we need more challenges/games to play.
+- Have we cooked ourselves? Why did we cook ourselves?
+- Soon you will not be able to tell what is the representation.
+- As human systems moving from representative to generative - 
+everything is a definition.
+- Practice losing
 
 ---
 ## Thoughts as Narrative
