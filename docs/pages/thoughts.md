@@ -15,6 +15,7 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - We don’t know who we are.
 - Digital sense of life; “being human” vs “human-being”.
 - Everyone in education is and has been in the AI business.
+- In a solved world what’s the next level?
 
 ### Compression & Transformation
 - Compression of Reality – for the human existence.
