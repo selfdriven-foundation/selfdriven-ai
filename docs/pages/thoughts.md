@@ -62,6 +62,7 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - As human systems moving from representative to generative - 
 everything is a definition.
 - Practice losing
+- [Taste is what is left](https://youtu.be/A_Lv0Ze272g?si=r2s8NLzytCbGlYuP)
 
 ---
 ## Thoughts as Narrative
