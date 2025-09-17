@@ -15,7 +15,7 @@ permalink: /research/practitioner-in-the-loop/
 
 **Key practitioner roles that focus on the partnership between GenAI and human practitioners.**
 
-### Survival (Foundation)
+### Survival (Societla Foundation)
 1. **Farmers & Food Producers**  
    - *GenAI*: Forecasts yields, pests, soil health.  
    - *Practitioner*: Adapts to land, culture, and human context — making decisions in the field, planting, harvesting, and working with local communities.  
