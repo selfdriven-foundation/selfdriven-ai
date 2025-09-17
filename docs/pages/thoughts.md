@@ -65,6 +65,8 @@ everything is a definition.
 - [Forget the stack, taste is what is left](https://youtu.be/A_Lv0Ze272g?si=r2s8NLzytCbGlYuP)
 - At this moment in time, everyone needs to know why they end up as they are.
 - Your skills and experience are no longer about income.
+- You can not derive and income of anything deterministic.
+
 ---
 ## Thoughts as Narrative
 
