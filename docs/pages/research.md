@@ -13,6 +13,7 @@ permalink: /research/
 - How Can Generative AI Support Governance of Decentralised Learning, Learning Communities & Society?
 - [More Topics/Thoughts](/thoughts/)
 - [Emerging importance of Games](/games/)
+- [Practitioner-In-The-Loop (PITL)](/research/practitioner-in-the-loop/)
 
 ## Transformations
 - Traditional Education: "To Create Practical Spaces For Young People To Practice Caring for Self & Others In Regards to Health, Building, Food, Play & Learning"
