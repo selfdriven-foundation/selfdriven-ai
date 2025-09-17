@@ -63,7 +63,8 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 everything is a definition.
 - Practice losing
 - [Forget the stack, taste is what is left](https://youtu.be/A_Lv0Ze272g?si=r2s8NLzytCbGlYuP)
-
+- At this moment in time, everyone needs to know why they end up as they are.
+- Your skills and experience are no longer about income.
 ---
 ## Thoughts as Narrative
 
