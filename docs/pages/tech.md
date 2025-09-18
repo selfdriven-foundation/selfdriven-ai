@@ -12,6 +12,8 @@ permalink: /tech/
 
 ### Protocols
 - [Model Context Protocol](https://modelcontextprotocol.io)
+- [Agent to Agent (A2A)](https://a2a-protocol.org/latest/)
+- [Agent Payments Protocol (AP2)](https://ap2-protocol.org)
 
 ### Foundation Services
 - [OpenAI](https://openai.com)
