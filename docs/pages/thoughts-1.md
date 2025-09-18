@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Thoughts - selfdrivenAI
-permalink: /thoughts/aug2025
+title: Thoughts 1 (AUG2025) - selfdrivenAI
+permalink: /thoughts/1
 ---
 
 ## Thoughts.

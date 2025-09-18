@@ -62,6 +62,10 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - Practice losing.  
 - [Forget the stack, taste is what is left](https://youtu.be/A_Lv0Ze272g?si=r2s8NLzytCbGlYuP). 
 
+### Random
+- Non-Determinisim is a function of optimisation.
+- Are we a function of optimisation?
+
 ---
 
 ## Thoughts as Narrative
