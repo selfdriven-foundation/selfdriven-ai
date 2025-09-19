@@ -24,6 +24,7 @@ permalink: /research/
 - [Mo Gawdat; Scary Smart](https://www.mogawdat.com/scary-smart)
 - [Max Tegmark; Life 3.0](https://en.wikipedia.org/wiki/Life_3.0)
 - [Mustafa Suleyman; The Coming Wave](https://www.penguin.com.au/books/the-coming-wave-9781529923834)
+- [If anyone builds it, everyone dies](https://ifanyonebuildsit.com)
 
 ## Channels
 - [AI News & Strategy Daily by Nate B Jones](https://www.youtube.com/@NateBJones)
