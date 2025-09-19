@@ -63,8 +63,12 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - [Forget the stack, taste is what is left](https://youtu.be/A_Lv0Ze272g?si=r2s8NLzytCbGlYuP). 
 
 ### Random
-- Non-Determinisim is a function of optimisation.
+- Optimisation is a cause of non determinism.
 - Are we a function of optimisation?
+- Specialisation is a human thing.
+- Are humans being pushed to the corner?
+- Existing as a series of eight second generations.
+- Latent space needs simulations to seek the truth - reality?
 
 ---
 
