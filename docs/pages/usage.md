@@ -4,14 +4,11 @@ title: Usage - selfdrivenAI
 permalink: /usage/
 ---
 
-## selfdriven AI Usage in Practice
+# selfdriven AI Usage
 
-### Implemented using a combination of:
-- [octology](https://octology.io/) - definitions, constraints
-- [selfdriven.network](https://selfdriven.network/) - Human, AI, SSI, Entity Interfaces
-- [selfdriven Progessive Self-Actuation Framework](https://onboarding.selfdriven.foundation/framework/) - Community 5W1H Sheet
+The **selfdriven AI** framework demonstrates how communities, organisations, and practitioners can apply artificial intelligence within trusted, context-aware systems. By combining human identity, community intent, and structured knowledge, selfdriven AI transforms static information into dynamic, verifiable intelligence.
 
-### Community-Based Intelligence
+## Community-Based Intelligence Usage
 
 **Community-Based Intelligence** is designed to help communities capture, organise, and activate their collective knowledge.
 
@@ -23,13 +20,13 @@ Community members, authenticated via their **selfdriven Identity (SSI DID)**, ca
 
 When appropriate, conversations can be shared with other community members — such as facilitators or practitioners — to enable collaboration, mentorship, or collective problem-solving.
 
+### Implemented using a combination of:
+- [octology](https://octology.io/) - definitions, constraints
+- [selfdriven.network](https://selfdriven.network/) - Human, AI, SSI, Entity Interfaces
+- [selfdriven Progessive Self-Actuation Framework](https://onboarding.selfdriven.foundation/framework/) - Community 5W1H Sheet
+
 ## Related
 - [selfdriven.health Practitioner-In-The-Loop Services (PITLS)](https://www.selfdriven.health/practitioner-in-the-loop-services/)
 - [selfdriven.network AI Interface](https://selfdriven.network/ai-interface/)
 - [Use-Cases-Tests](https://github.com/selfdriven-foundation/selfdriven-ai/tree/main/research/use-case-tests)
 - [skillzeb](https://skillseb.io) - Community Templates for GenAI alignment
-- [lifearchitect.ai](https://lifearchitect.ai) - Understanding, visualizing, and realizing the capabilities of post-2020 AI
-- [Virtual Agent Economies](https://arxiv.org/html/2509.10147v1)
-
-## Models
-- [Hierarchical Reasoning Model](https://github.com/sapientinc/HRM)
