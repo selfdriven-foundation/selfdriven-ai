@@ -29,6 +29,7 @@ permalink: /research/
 
 ## Channels
 - [AI News & Strategy Daily by Nate B Jones](https://www.youtube.com/@NateBJones)
+- [Peter Diamandis](https://www.youtube.com/@peterdiamandis)
 
 ## Videos
 - [Dr Roman Yampolskiy, SEP2025](https://youtu.be/UclrVWafRAI)
