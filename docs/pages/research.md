@@ -15,9 +15,6 @@ permalink: /research/
 - [Emerging importance of Games](/games/)
 - [Practitioner-In-The-Loop (PITL)](/research/practitioner-in-the-loop/)
 
-## Transformations
-- Traditional Education: "To Create Practical Spaces For Young People To Practice Caring for Self & Others In Regards to Health, Building, Food, Play & Learning"
-
 ## Books
 - [Yuval Noah Harari; Nexus](https://www.ynharari.com/book/nexus/)
 - [Henry Kissinger; Genesis - AI & The Human Spirit](https://www.hachettebookgroup.com/titles/henry-a-kissinger/genesis/9780316581295/)
@@ -63,3 +60,8 @@ permalink: /research/
 
 ## Models
 - [Hierarchical Reasoning Model](https://github.com/sapientinc/HRM)
+
+## Transformations
+- Traditional Education: "To Create Practical Spaces For Young People To Practice Caring for Self & Others In Regards to Health, Building, Food, Play & Learning"
+
+- Traditional Communities: "To create intelligent, cooperative spaces where communities practice self-organisation — caring for people, place, and purpose — through trusted digital actions in health, housing, food, work, and learning."
