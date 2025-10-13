@@ -6,8 +6,7 @@ permalink: /impact-on-mind-framework/
 
 # Impact On Mind Framework (Wellbeing Scale)
 
-**A 3-level reflective framework to introduce people to the impact of AI — from tangible effects to existential exploration.  
-You can self-select how deep they wish to go, balancing curiosity with wellbeing of mind.**
+**A 3-level reflective framework to introduce people to the impact of AI — from tangible effects to existential exploration. You can self-select how deep they wish to go, balancing curiosity with wellbeing of mind.**
 
 ---
 
