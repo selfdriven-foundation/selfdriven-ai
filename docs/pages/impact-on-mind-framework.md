@@ -66,7 +66,5 @@ Self-select on your comfort zone / level:
 | **2** | Go inward | Explore identity and emotion |
 | **3** | Go cosmic | Reflect on reality and existence |
 
----
-
 *AI doesn’t just change what we do — it changes how we see ourselves.  
 Curiosity, compassion, and grounding keep the journey human.*
