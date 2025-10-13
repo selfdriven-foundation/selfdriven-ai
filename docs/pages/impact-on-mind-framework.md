@@ -56,15 +56,15 @@ Expansive awareness — *AI as a lens for exploring existence itself.*
 
 ---
 
-## 🪶 Choose Your Depth
+## Choose Your Depth
 
 Invite participants to self-select their comfort zone:
 
-| Level | Focus | Symbol | Intention |
-|:------|:------|:-------|:-----------|
-| **1** | Stay grounded | 🌍 | Understand real-world impact |
-| **2** | Go inward | 🧠 | Explore identity and emotion |
-| **3** | Go cosmic | 🪞 | Reflect on reality and existence |
+| Level | Focus |  Intention |
+|:------|:------|:-----------|
+| **1** | Stay grounded | Understand real-world impact |
+| **2** | Go inward | Explore identity and emotion |
+| **3** | Go cosmic | Reflect on reality and existence |
 
 ---
 
