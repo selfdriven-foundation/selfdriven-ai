@@ -11,7 +11,7 @@ Participants can self-select how deep they wish to go, balancing curiosity with 
 
 ---
 
-## Level 1: Real-World Impact — “AI Around Us”
+## Level 1: Real-World Impact — “AI Around Us” 
 
 **Theme:** Practical awareness  
 **Focus:** Observable effects of AI on jobs, creativity, relationships, and learning.
@@ -58,7 +58,7 @@ Expansive awareness — *AI as a lens for exploring existence itself.*
 
 ## Choose Your Depth
 
-Invite participants to self-select their comfort zone:
+Self-select on your comfort zone / level:
 
 | Level | Focus |  Intention |
 |:------|:------|:-----------|
