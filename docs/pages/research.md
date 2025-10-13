@@ -8,6 +8,8 @@ permalink: /research/
 
 "The only human skill is human-connection."
 
+- [Impact on Mind Framework](/impact-on-mind-framework/).
+
 ## Topics
 - How Can Generative AI Support Communities Self-Actuate?
 - How Can Generative AI Support Governance of Decentralised Learning, Learning Communities & Society?
