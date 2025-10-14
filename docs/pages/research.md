@@ -59,7 +59,7 @@ permalink: /research/
 - [skillzeb](https://skillseb.io) - Community Templates for GenAI alignment
 - [lifearchitect.ai](https://lifearchitect.ai) - Understanding, visualizing, and realizing the capabilities of post-2020 AI
 - [Virtual Agent Economies](https://arxiv.org/html/2509.10147v1)
-
+- [antischeming.ai/snippets](https://www.antischeming.ai/snippets)
 ## Models
 - [Hierarchical Reasoning Model](https://github.com/sapientinc/HRM)
 
