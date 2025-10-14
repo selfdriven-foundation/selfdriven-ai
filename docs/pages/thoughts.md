@@ -79,7 +79,7 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - Economies are a function of scarce energy and intelligence 
 - Crafted or grown?
 - n+1 will get absorbed, n+2+ will not.
-- inorganic/non-metabolic, organic/metabolic.
+- Inorganic/non-metabolic, organic/metabolic.
 ---
 
 ## Thoughts as Narrative
