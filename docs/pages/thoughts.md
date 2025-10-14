@@ -74,6 +74,8 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - In the age of abundant intelligence it’s all about the practitioners.
 - If enterprises are not using humans as computers (creators/supply), then all is left is their attention (consumers/demand).
 - Communities will suffer energy issues like housing issues.
+- Creativity comes from constraints.
+
 ---
 
 ## Thoughts as Narrative
