@@ -75,7 +75,9 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - If enterprises are not using humans as computers (creators/supply), then all is left is their attention (consumers/demand).
 - Communities will suffer energy issues like housing issues.
 - Creativity comes from constraints.
-
+- Human existence is a function of how little we know - compression
+- Economies are a function of scarce energy and intelligence 
+- Crafted or grown?
 ---
 
 ## Thoughts as Narrative
