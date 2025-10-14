@@ -78,6 +78,8 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - Human existence is a function of how little we know - compression
 - Economies are a function of scarce energy and intelligence 
 - Crafted or grown?
+- n+1 will get absorbed, n+2+ will not.
+
 ---
 
 ## Thoughts as Narrative
