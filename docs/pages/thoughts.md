@@ -69,7 +69,9 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - Are humans being pushed to the corner?
 - Existing as a series of eight second generations.
 - Latent space needs simulations to seek the truth - reality?
-
+- "Agents" are a function of scarce intelligence.
+- If you think you understand the future, you probably don’t.
+- In the age of abundant intelligence it’s all about the practitioners.
 ---
 
 ## Thoughts as Narrative
