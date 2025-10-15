@@ -82,6 +82,7 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - Inorganic/non-metabolic, organic/metabolic.
 - We have discovered the config file for this human reality - what now?
 - If it goes really well or really bad - either the human experience has really changed.
+- In inorganic entity goals don't transfer to organic entities.
 
 ---
 
