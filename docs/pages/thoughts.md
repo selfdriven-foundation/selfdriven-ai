@@ -80,6 +80,8 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - Crafted or grown?
 - n+1 will get absorbed, n+2+ will not.
 - Inorganic/non-metabolic, organic/metabolic.
+- We have discovered the config file for this human reality.
+
 ---
 
 ## Thoughts as Narrative
