@@ -4,7 +4,7 @@ title: Impact on Mind Framework - selfdrivenAI
 permalink: /impact-on-mind-framework/
 ---
 
-# Impact On Mind Framework (Wellbeing Scale)
+# Impact on Mind Framework (IoMF)
 
 **A 3-level reflective framework to introduce people to the impact of AI — from tangible effects to existential exploration. You can self-select how deep they wish to go, balancing curiosity with wellbeing of mind.**
 
