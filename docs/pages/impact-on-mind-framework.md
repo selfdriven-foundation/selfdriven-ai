@@ -6,11 +6,11 @@ permalink: /impact-on-mind-framework/
 
 # Impact on Mind Framework (IoMF)
 
-**A 3-level reflective framework to introduce people to the impact of AI — from tangible effects to existential exploration. You can self-select how deep they wish to go, balancing curiosity with wellbeing of mind.**
+**A three-level reflective framework based on the impact of emerging AI on the human mind — from tangible effects to existential questions  People can self-select how deep they wish to go, balancing curiosity with wellbeing of mind.**
 
 ---
 
-## Level 1: Real-World Impact — “AI Around Us” 
+## Level 1: Societal Impact (SI) — “AI Around Us” 
 
 **Theme:** Practical awareness  
 **Focus:** Observable effects of AI on jobs, creativity, relationships, and learning.
@@ -25,7 +25,7 @@ A stable, realistic understanding — *AI as part of modern life, not a threat t
 
 ---
 
-## Level 2: Inner Impact — “AI Within Us”
+## Level 2: Inner Impact (II) — “AI Within Us”
 
 **Theme:** Psychological and philosophical awareness  
 **Focus:** How AI mirrors and influences our thinking, emotions, and sense of self.
@@ -40,7 +40,7 @@ A conscious relationship with AI — *aware of influence without losing autonomy
 
 ---
 
-## Level 3: Existential Reflection — “AI Beyond Us”
+## Level 3: Existential Impact (EI) — “AI Beyond Us”
 
 **Theme:** Metaphysical exploration  
 **Focus:** The edges of consciousness, reality, and simulation.
