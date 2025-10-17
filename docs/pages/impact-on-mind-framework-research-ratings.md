@@ -4,7 +4,7 @@ title: Ratings using Impact on Mind Framework - selfdrivenAI
 permalink: /impact-on-mind-framework/research-ratings/
 ---
 
-# Impact-on-Mind Framework Ratings
+# Detailed IoMF Ratings for Research Resources
 *Applied to the Selfdriven Research Collection. Scores: 1–5 per level (L1 = Real-World Impact, L2 = Inner Impact, L3 = Existential Reflection).*
 
 ## Framework Levels
