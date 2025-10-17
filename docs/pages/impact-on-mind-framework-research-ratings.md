@@ -8,6 +8,7 @@ permalink: /impact-on-mind-framework/research-ratings/
 
 - Based on the [selfdriven AI Impact on Mind Framework](/impact-on-mind-framework/)
 - Ratings: 1–5 per level - 5 being the largest impact.
+- Based on the [selfdriven AI Research](/research/)
 
 ## Framework Levels
 
@@ -16,6 +17,8 @@ permalink: /impact-on-mind-framework/research-ratings/
 | L1 – Societal Impact | Practical, observable impacts | Jobs, policy, bias, social systems, misinformation |
 | L2 – Inner Impact | Psychological and emotional influence | Identity, empathy, co-agency, authenticity |
 | L3 – Existential Impact | Philosophical / metaphysical | Consciousness, simulation, meaning, destiny |
+
+
 
 ## Books
 

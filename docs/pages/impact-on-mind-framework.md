@@ -67,3 +67,7 @@ Self-select on your comfort zone / level:
 
 *AI doesn’t just change what we do — it changes how we see ourselves.  
 Curiosity, compassion, and grounding keep the journey human.*
+
+---
+
+- [Detailed IoMF Ratings for selfdriven.ai Research Resources](/impact-on-mind-framework/research-ratings/)
