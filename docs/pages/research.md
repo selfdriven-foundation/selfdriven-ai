@@ -9,7 +9,7 @@ permalink: /research/
 "The only human skill is human-connection."
 
 - [IoMF, Impact on Mind Framework](/impact-on-mind-framework/)
-- [Detailed IoMF ratings for research resources](/impact-on-mind-framework/research-ratings)
+- [Detailed IoMF ratings for research resources](/impact-on-mind-framework/research-ratings/)
 
 ## Topics
 - How Can Generative AI Support Communities Self-Actuate?
