@@ -84,6 +84,8 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - If it goes really well or really bad - either the human experience has really changed.
 - In inorganic entity goals don't transfer to organic entities.
 - If your business is to help organise meat-computers - it’s gone.
+- As we approach the Singularity every is in superposition.
+- As we approach the Singularity, everything exists between silence and light — a boundless superposition where all realities await our attention to become real.
 
 ---
 
