@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Ratings using Impact on Mind Framework - selfdrivenAI
-permalink: /impact-on-mind-framework/ratings/
+permalink: /impact-on-mind-framework/research-ratings/
 ---
 
 # Impact-on-Mind Framework Ratings
 *Applied to the Selfdriven Research Collection. Scores: 1–5 per level (L1 = Real-World Impact, L2 = Inner Impact, L3 = Existential Reflection).*
 
 ## Framework Levels
+
 | Level | Focus | Description |
 |:--|:--|:--|
 | L1 – Real-World Impact | Practical, observable impacts | Jobs, policy, bias, social systems, misinformation |
@@ -15,6 +16,7 @@ permalink: /impact-on-mind-framework/ratings/
 | L3 – Existential Reflection | Philosophical / metaphysical | Consciousness, simulation, meaning, destiny |
 
 ## Books
+
 | Book | L1 | L2 | L3 | Notes |
 |:--|:--:|:--:|:--:|:--|
 | Yuval Noah Harari — *Nexus* | 4 | 4 | 2 | Collective cognition, networks; grounded yet reflective. |
@@ -24,6 +26,7 @@ permalink: /impact-on-mind-framework/ratings/
 | Mustafa Suleyman — *The Coming Wave* | 5 | 4 | 3 | Near-term systems/governance focus; strong practical lens. |
 
 ## Videos / Talks
+
 | Speaker / Interview | L1 | L2 | L3 | Notes |
 |:--|:--:|:--:|:--:|:--|
 | Roman Yampolskiy | 3 | 4 | 5 | Alignment and existential-risk theory. |
@@ -41,6 +44,7 @@ permalink: /impact-on-mind-framework/ratings/
 | Sam Altman — ChatGPT talks | 5 | 3 | 2 | Practical/policy-oriented; light philosophy. |
 
 ## Aggregate Profile
+
 | Level | Average Score | Emphasis |
 |:--|:--:|:--|
 | L1 – Real-World Impact | 4.3 / 5 | Strong practical and societal grounding. |
