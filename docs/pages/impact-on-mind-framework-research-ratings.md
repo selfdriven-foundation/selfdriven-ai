@@ -5,19 +5,19 @@ permalink: /impact-on-mind-framework/research-ratings/
 ---
 
 # Detailed IoMF Ratings for Research Resources
-*Scores: 1–5 per level (L1 = Real-World Impact, L2 = Inner Impact, L3 = Existential Reflection).*
+*Scores: 1–5 per level - 5 being the largest impact.*
 
 ## Framework Levels
 
 | Level | Focus | Impact |
 |:--|:--|:--|
-| L1 – External Impact | Practical, observable impacts | Jobs, policy, bias, social systems, misinformation |
+| L1 – Societal Impact | Practical, observable impacts | Jobs, policy, bias, social systems, misinformation |
 | L2 – Inner Impact | Psychological and emotional influence | Identity, empathy, co-agency, authenticity |
 | L3 – Existential Impact | Philosophical / metaphysical | Consciousness, simulation, meaning, destiny |
 
 ## Books
 
-| Book | L1 (EI) | L2 (II) | L3 (EI)| Notes |
+| Book | L1 (SI) | L2 (II) | L3 (EI)| Notes |
 |:--|:--:|:--:|:--:|:--|
 | Yuval Noah Harari — *Nexus* | 4 | 4 | 2 | Collective cognition, networks; grounded yet reflective. |
 | Henry Kissinger — *Genesis: AI & The Human Spirit* | 3 | 4 | 5 | Philosophical/spiritual implications of AI; speculative depth. |
@@ -27,7 +27,7 @@ permalink: /impact-on-mind-framework/research-ratings/
 
 ## Videos / Talks
 
-| Speaker / Interview | L1 (EI) | L2 (II) | L3 (EI)| Notes |
+| Speaker / Interview | L1 (SI) | L2 (II) | L3 (EI)| Notes |
 |:--|:--:|:--:|:--:|:--|
 | Roman Yampolskiy | 3 | 4 | 5 | Alignment and existential-risk theory. |
 | Mo Gawdat (interviews) | 5 | 4 | 3 | Mindfulness and ethics tied to real-world impact. |
@@ -47,6 +47,6 @@ permalink: /impact-on-mind-framework/research-ratings/
 
 | Level | Average Score | Emphasis |
 |:--|:--:|:--|
-| L1 – External Impact | 4.3 / 5 | Strong practical and societal grounding. |
+| L1 – Societal Impact | 4.3 / 5 | Strong practical and societal grounding. |
 | L2 – Inner Impact | 4.1 / 5 | Consistent human-centred reflection. |
 | L3 – Existential Impact | 3.8 / 5 | Thoughtful but selectively represented. |
