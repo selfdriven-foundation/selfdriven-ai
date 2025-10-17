@@ -8,7 +8,7 @@ permalink: /research/
 
 "The only human skill is human-connection."
 
-- [Impact on Mind Framework](/impact-on-mind-framework/)
+- [IoMF, Impact on Mind Framework](/impact-on-mind-framework/)
 
 ## Topics
 - How Can Generative AI Support Communities Self-Actuate?
@@ -18,23 +18,24 @@ permalink: /research/
 - [Practitioner-In-The-Loop (PITL)](/research/practitioner-in-the-loop/)
 
 ## Books
-- [Yuval Noah Harari; Nexus](https://www.ynharari.com/book/nexus/)
-- [Henry Kissinger; Genesis - AI & The Human Spirit](https://www.hachettebookgroup.com/titles/henry-a-kissinger/genesis/9780316581295/)
-- [Mo Gawdat; Scary Smart](https://www.mogawdat.com/scary-smart)
-- [Max Tegmark; Life 3.0](https://en.wikipedia.org/wiki/Life_3.0)
-- [Mustafa Suleyman; The Coming Wave](https://www.penguin.com.au/books/the-coming-wave-9781529923834)
-- [If anyone builds it, everyone dies](https://ifanyonebuildsit.com)
-- [The Last Economy](https://thelastecononmy.com)
+- [Yuval Noah Harari; Nexus](https://www.ynharari.com/book/nexus/) [IoMF:2]
+- [Henry Kissinger; Genesis - AI & The Human Spirit](https://www.hachettebookgroup.com/titles/henry-a-kissinger/genesis/9780316581295/) [IoMF:2]
+- [Mo Gawdat; Scary Smart](https://www.mogawdat.com/scary-smart) [IoMF:2]
+- [Max Tegmark; Life 3.0](https://en.wikipedia.org/wiki/Life_3.0) [IoMF:2]
+- [Mustafa Suleyman; The Coming Wave](https://www.penguin.com.au/books/the-coming-wave-9781529923834) [IoMF:2]
+- [If anyone builds it, everyone dies](https://ifanyonebuildsit.com) [IoMF:3]
+- [The Last Economy](https://thelastecononmy.com) [IoMF:3]
+- [Mo Gawdat; Alive](https://mogawdat.substack.com/p/alive) [IoMF:2/3?]
 
 ## Channels
 - [AI News & Strategy Daily by Nate B Jones](https://www.youtube.com/@NateBJones)
 - [Peter Diamandis](https://www.youtube.com/@peterdiamandis)
 
 ## Videos
-- [Dr Roman Yampolskiy, SEP2025](https://youtu.be/UclrVWafRAI)
-- [Mo Gawdat, AUG2025](https://youtu.be/S9a1nLw70p0)
-- [Mo Gawdat; Talk on AI & why he left Google X (2023)](https://youtu.be/bk-nQ7HF6k4)
-- [Mo Gawdat; Education & AI (JUL2023)](https://youtu.be/C84SLJhhEpo)  
+- [Dr Roman Yampolskiy, SEP2025](https://youtu.be/UclrVWafRAI) [IoMF:3]
+- [Mo Gawdat, AUG2025](https://youtu.be/S9a1nLw70p0) [IoMF:3]
+- [Mo Gawdat; Talk on AI & why he left Google X (2023)](https://youtu.be/bk-nQ7HF6k4) [IoMF:2]
+- [Mo Gawdat; Education & AI (JUL2023)](https://youtu.be/C84SLJhhEpo) [IoMF:2]
 - [Stability AI CEO Emad Mostaque (July 2023)](https://youtu.be/zXd9ZwU8u5E)
 - [Yuval Noah Harari & Mustafa Suleyman The Economist Interview (Sep 2023)](https://youtu.be/7JkPWHr7sTY?si=gwyxf6PLPZD-awJw)
 - [Emad Mostaque; Why AI Matters & How To Deal With The Coming Change (July 2023)](https://www.youtube.com/watch?v=ciX_iFGyS0M)
