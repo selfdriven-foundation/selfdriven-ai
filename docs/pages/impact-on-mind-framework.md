@@ -6,7 +6,7 @@ permalink: /impact-on-mind-framework/
 
 # Impact on Mind Framework (IoMF)
 
-**A three-level reflective framework based on the impact of emerging AI on the human mind — from tangible effects to existential questions  People can self-select how deep they wish to go, balancing curiosity with wellbeing of mind.**
+**A three-level framework based on the impact of emerging AI on the human mind — from tangible effects to existential questions  People can self-select how deep they wish to go, balancing curiosity with wellbeing of mind.**
 
 ---
 
