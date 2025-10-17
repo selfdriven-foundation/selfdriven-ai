@@ -18,7 +18,7 @@ permalink: /research/
 - [Practitioner-In-The-Loop (PITL)](/research/practitioner-in-the-loop/)
 
 ## Books
-- [Yuval Noah Harari; Nexus](https://www.ynharari.com/book/nexus/) [IoMF:2]
+- [Yuval Noah Harari; Nexus](https://www.ynharari.com/book/nexus/) <span style="color:#888888;font-size:0.8rem;">[IoMF:2]</span>
 - [Henry Kissinger; Genesis - AI & The Human Spirit](https://www.hachettebookgroup.com/titles/henry-a-kissinger/genesis/9780316581295/) [IoMF:2]
 - [Mo Gawdat; Scary Smart](https://www.mogawdat.com/scary-smart) [IoMF:2]
 - [Max Tegmark; Life 3.0](https://en.wikipedia.org/wiki/Life_3.0) [IoMF:2]
