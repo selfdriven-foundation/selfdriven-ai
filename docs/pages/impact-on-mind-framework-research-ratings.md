@@ -5,7 +5,9 @@ permalink: /impact-on-mind-framework/research-ratings/
 ---
 
 # Detailed IoMF Ratings for Research Resources
-*Scores: 1–5 per level - 5 being the largest impact.*
+
+- Based on the [selfdriven AI Impact on Mind Framework](/impact-on-mind-framework/)
+- Ratings: 1–5 per level - 5 being the largest impact.
 
 ## Framework Levels
 
