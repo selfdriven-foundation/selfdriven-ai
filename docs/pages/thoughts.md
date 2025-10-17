@@ -83,6 +83,7 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - We have discovered the config file for this human reality - what now?
 - If it goes really well or really bad - either the human experience has really changed.
 - In inorganic entity goals don't transfer to organic entities.
+- If your business is to help organise meat-computers - it’s gone.
 
 ---
 
