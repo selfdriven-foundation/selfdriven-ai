@@ -24,6 +24,7 @@ permalink: /research/
 - [Mo Gawdat; Scary Smart](https://www.mogawdat.com/scary-smart) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 - [Max Tegmark; Life 3.0](https://en.wikipedia.org/wiki/Life_3.0) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 - [Mustafa Suleyman; The Coming Wave](https://www.penguin.com.au/books/the-coming-wave-9781529923834) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
+- [The Beginning of Infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)
 - [If anyone builds it, everyone dies](https://ifanyonebuildsit.com) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [The Last Economy](https://thelastecononmy.com) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [Mo Gawdat; Alive](https://mogawdat.substack.com/p/alive) <span style="color:#888888;font-size:0.68rem;">[IoMF:2/3?]</span>
