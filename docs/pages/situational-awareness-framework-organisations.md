@@ -33,7 +33,7 @@ permalink: /situational-awareness-framework/organisations/
 ---
 
 ## 2. Transitional — "Human + Machine Collaboration"
-> "We decide with the machine, not just through it."
+"We decide with the machine, not just through it."
 
 ### Mindset Characteristics
 - AI is treated as a partner in decision-making.
