@@ -79,7 +79,7 @@ permalink: /situational-awareness-framework/organisations/
 ## Summary
 
 | Level | Situation | Description | Strategic Risk | Relevance Horizon | Evolution Focus |
-|:------|:---------------|:---------- |:---------------|:------------------|:----------------|
-| 1 | Legacy, Human-in-Control | Humans make all decisions; tools follow | Obsolescence | 2–3 years | AI literacy, data integration        |
-| 2 | Transitional, Human + Machine  | Shared decisions; humans interpret AI | Bias / drift | 3–5 years | Explainability, oversight, provenance|
-| 3 | Emerging, Machine-in-Control | Machines act autonomously within human ethics | Alignment loss | Long-term | Trust frameworks, ethical governance |
+|:------:|:---------------|:---------- |:---------------|:------------------|:----------------|
+| **1** | Legacy, Human-in-Control | Humans make all decisions; tools follow | Obsolescence | 2–3 years | AI literacy, data integration        |
+| **2** | Transitional, Human + Machine  | Shared decisions; humans interpret AI | Bias / drift | 3–5 years | Explainability, oversight, provenance|
+| **3** | Emerging, Machine-in-Control | Machines act autonomously within human ethics | Alignment loss | Long-term | Trust frameworks, ethical governance |
