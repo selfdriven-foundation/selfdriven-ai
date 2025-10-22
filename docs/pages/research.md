@@ -10,6 +10,7 @@ permalink: /research/
 
 - [IoMF, Impact on Mind Framework](/impact-on-mind-framework/)
 - [Detailed IoMF ratings for research resources](/impact-on-mind-framework/research-ratings/)
+- [Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/)
 
 ## Topics
 - How Can Generative AI Support Communities Self-Actuate?
