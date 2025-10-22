@@ -35,7 +35,7 @@ permalink: /research/
 - [Peter Diamandis](https://www.youtube.com/@peterdiamandis) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Videos
-- [Why 2025 is the single most pivotal year in our lifetime | Peter Leyden](https://youtu.be/w5k72A30kUc)
+- [Why 2025 is the single most pivotal year in our lifetime by Peter Leyden](https://youtu.be/w5k72A30kUc)
 - [Dr Roman Yampolskiy, SEP2025](https://youtu.be/UclrVWafRAI) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [Mo Gawdat, AUG2025](https://youtu.be/S9a1nLw70p0)<span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 - [Mo Gawdat; Talk on AI & why he left Google X (2023)](https://youtu.be/bk-nQ7HF6k4) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
