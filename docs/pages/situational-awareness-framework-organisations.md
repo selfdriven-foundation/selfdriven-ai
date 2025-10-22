@@ -6,9 +6,9 @@ permalink: /situational-awareness-framework/organisations/
 
 # Situational Awareness Framework for Organisations
 
-*Levels represent the situation and mindset.*
-
 <img src="/assets/img/selfdriven-ai-before-after-situational-awareness-level.png" style="border-radius: 12px; width:100%; max-width: 800px;">
+
+*Levels represent the situation and mindset.*
 
 ## 1. Legacy — "Human in Control"
 "We make all the decisions. The tools just do what we say."
