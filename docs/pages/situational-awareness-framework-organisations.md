@@ -4,13 +4,14 @@ title: Situational-awareness-framework - selfdrivenAI
 permalink: /situational-awareness-framework/organisations/
 ---
 
-# Organisational Mindset Evolution Framework
-_Adapting from "Tool Control" to "Cognitive Partnership"_
+# Situational Awareness Framework for Organisations
 
-<img src="/assets/img/selfdriven-ai-before-after-situational-awareness-level.png" style="border-radius: 12px; width:100%; max-width: 800px;"></div>
+*Levels represent the situation and mindset.*
 
-## 1. Legacy Mindset — "Human in Control" (Before 2022)
-> "We make all the decisions. The tools just do what we say."
+<img src="/assets/img/selfdriven-ai-before-after-situational-awareness-level.png" style="border-radius: 12px; width:100%; max-width: 800px;">
+
+## 1. Legacy Mindset — "Human in Control"
+"We make all the decisions. The tools just do what we say."
 
 ### Mindset Characteristics
 - Technology is a support function.
@@ -29,7 +30,9 @@ _Adapting from "Tool Control" to "Cognitive Partnership"_
 - Start data integration and cross-department collaboration.
 - Pilot decision-support AI to augment (not replace) human expertise.
 
-## 2. Transitional Mindset — "Human + Machine Collaboration" (2023 onward)
+---
+
+## 2. Transitional Mindset — "Human + Machine Collaboration"
 > "We decide with the machine, not just through it."
 
 ### Mindset Characteristics
@@ -51,8 +54,8 @@ _Adapting from "Tool Control" to "Cognitive Partnership"_
 
 ---
 
-## 3. Emerging Mindset — "Machine in Control / Human in Context" (Future)
-> "We define direction, not decisions."
+## 3. Emerging Mindset — "Machine in Control / Human in Context"
+"We define direction, not decisions."
 
 ### Mindset Characteristics
 - Machines execute adaptive strategies within human-defined boundaries.
@@ -73,7 +76,7 @@ _Adapting from "Tool Control" to "Cognitive Partnership"_
 
 ---
 
-## Summary Table
+## Summary
 
 | Mindset Level | Description                                           | Strategic Risk      | Relevance Horizon | Evolution Focus                      |
 |---------------|-------------------------------------------------------|---------------------|-------------------|--------------------------------------|
