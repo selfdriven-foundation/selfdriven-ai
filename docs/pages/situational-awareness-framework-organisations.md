@@ -10,7 +10,7 @@ permalink: /situational-awareness-framework/organisations/
 
 <img src="/assets/img/selfdriven-ai-before-after-situational-awareness-level.png" style="border-radius: 12px; width:100%; max-width: 800px;">
 
-## 1. Legacy Mindset — "Human in Control"
+## 1. Legacy — "Human in Control"
 "We make all the decisions. The tools just do what we say."
 
 ### Mindset Characteristics
@@ -32,7 +32,7 @@ permalink: /situational-awareness-framework/organisations/
 
 ---
 
-## 2. Transitional Mindset — "Human + Machine Collaboration"
+## 2. Transitional — "Human + Machine Collaboration"
 > "We decide with the machine, not just through it."
 
 ### Mindset Characteristics
@@ -54,7 +54,7 @@ permalink: /situational-awareness-framework/organisations/
 
 ---
 
-## 3. Emerging Mindset — "Machine in Control / Human in Context"
+## 3. Emerging — "Machine in Control / Human in Context"
 "We define direction, not decisions."
 
 ### Mindset Characteristics
