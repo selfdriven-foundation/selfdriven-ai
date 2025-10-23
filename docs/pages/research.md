@@ -29,6 +29,7 @@ permalink: /research/
 - [If anyone builds it, everyone dies](https://ifanyonebuildsit.com) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [The Last Economy](https://thelastecononmy.com) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [Mo Gawdat; Alive](https://mogawdat.substack.com/p/alive) <span style="color:#888888;font-size:0.68rem;">[IoMF:2/3?]</span>
+- [Playing with Reality](https://www.penguinrandomhouse.com/books/700440/playing-with-reality-by-kelly-clancy/) <span style="color:#888888;font-size:0.68rem;">[IoMF:2?]</span>
 
 ## Channels
 - [AI News & Strategy Daily by Nate B Jones](https://www.youtube.com/@NateBJones) <span style="color:#888888;font-size:0.68rem;">[IoMF:1]</span>

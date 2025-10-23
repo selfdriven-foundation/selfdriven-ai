@@ -74,6 +74,9 @@ This meta-loop is what prevents games from being just escapism: each layer “pl
 - [octology.io](https://octology.io) -- ontology, templates, defining context
 - [selfdriven Level Up App](https://selfdriven.app)
 
+### References
+- [Playing with Reality (Book)](https://www.penguinrandomhouse.com/books/700440/playing-with-reality-by-kelly-clancy/)
+
 ### Octology defining context:
 - Communities 
 - Network / Tech
