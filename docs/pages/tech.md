@@ -35,6 +35,7 @@ permalink: /tech/
 ### Hardware
 - [Figure AI (Humanoids)](https://www.figure.ai/)
 - [Etched](https://www.etched.com/)
+- [Modular Robot D1](https://www.youtube.com/watch?v=GbL3mjoZtOA)
 
 ### heyOcto.ai
 - [GitHub Repo - Models etc](https://github.com/selfdriven-foundation/octo/tree/main/heyocto)
