@@ -37,5 +37,8 @@ permalink: /tech/
 - [Etched](https://www.etched.com/)
 - [Modular Robot D1](https://www.youtube.com/watch?v=GbL3mjoZtOA)
 
+### Networks
+- [ASI:chain DevHub](https://superintelligence.io/dev-hub/)
+
 ### heyOcto.ai
 - [GitHub Repo - Models etc](https://github.com/selfdriven-foundation/octo/tree/main/heyocto)
