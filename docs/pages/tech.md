@@ -16,6 +16,9 @@ permalink: /tech/
 - [Agent Payments Protocol (AP2)](https://ap2-protocol.org)
 - [Agent Skills Protocol (SKILL.md)](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview)
 
+### Kits
+- [openAI Apps SDK](https://developers.openai.com/apps-sdk)
+
 ### Foundation Services
 - [OpenAI](https://openai.com)
 - [Google AI](https://ai.google)
