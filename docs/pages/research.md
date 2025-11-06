@@ -33,7 +33,6 @@ permalink: /research/
 
 ## Channels
 - [AI News & Strategy Daily by Nate B Jones](https://www.youtube.com/@NateBJones) <span style="color:#888888;font-size:0.68rem;">[IoMF:1]</span>
-- [Peter Diamandis](https://www.youtube.com/@peterdiamandis) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Videos
 - [Mo Gowlet, How to stay Human in the age of AI](https://youtu.be/gcAUc0EzzTY)
