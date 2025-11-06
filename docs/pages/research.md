@@ -55,6 +55,7 @@ permalink: /research/
 - [Donald Hoffman with Lex Fridman](https://youtu.be/reYdQYZ9Rj4) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [UN Gen-Sec Briefing on Digital Platforms / AI (June 2023)](https://www.youtube.com/watch?v=ktFF2dSH3oU) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 - ["Her" Movie](https://www.imdb.com/title/tt1798709/) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
+- [Our inability to understand the exponential function ... by Prof Albert Bartlett](https://youtu.be/1bvwOrGn1Zs?si=gYSMhf01vw0fBIM0) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Other
 - [Use-Cases-Tests](https://github.com/selfdriven-foundation/selfdriven-ai/tree/main/research/use-case-tests)
