@@ -9,7 +9,6 @@ permalink: /tech/
 ### Models & Engines
 - [Hugging Face (Open-Source Model Repository)](https://huggingface.co/)
 - [Hierarchical Reasoning Model](https://github.com/sapientinc/HRM)
-- [Marble World Model](https://marble.worldlabs.ai)
 
 ### Protocols
 - [Model Context Protocol](https://modelcontextprotocol.io)
@@ -31,6 +30,7 @@ permalink: /tech/
 - [Qwen](https://qwen.ai)
 - [Z AI](z.ai)
 - [ASI](https://superintelligence.io)
+- [Marble World Model](https://marble.worldlabs.ai)
 
 ### Other Services
 - [Google DeepMind](https://deepmind.google)
