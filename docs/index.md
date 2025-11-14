@@ -17,7 +17,7 @@ title: Home
 - [selfdriven.fyi/cog-assist](https://selfdriven.fyi/cog-assist)
 - [selfdriven.network AI Interface](https://selfdriven.network)
 - [selfdriven.id](https://selfdriven.id) - Identity & Trust
-- [skillzeb.io](https://skillzeb.io) - templates
+- [octology.io](https://octology.io) - templates
 - [heyOcto.ai](https://heyocto.ai) - templates
 - [selfdriven.social](https://selfdriven.social) - AT Protocol
 - [selfdriven Research](https://research.selfdriven.foundation)
