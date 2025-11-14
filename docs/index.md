@@ -8,6 +8,7 @@ title: Home
 - [Research](/research/)
 - [Tech](/tech/)
 - [Usage](/usage/)
+- [Resources](/resources/)
 
 ### Related
 - [selfdriven AI Impact on Mind Framework](/impact-on-mind-framework/)
@@ -19,6 +20,6 @@ title: Home
 - [skillzeb.io](https://skillzeb.io) - templates
 - [heyOcto.ai](https://heyocto.ai) - templates
 - [selfdriven.social](https://selfdriven.social) - AT Protocol
-- [selfdriven.fyi/research](https://selfdriven.fyi/research)
+- [selfdriven Research](https://research.selfdriven.foundation)
 
 
