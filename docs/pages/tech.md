@@ -44,6 +44,7 @@ permalink: /tech/
 
 ### Networks
 - [ASI:chain DevHub](https://superintelligence.io/dev-hub/)
+- [ASI:chain Devnet](https://superintelligence.io/products/asi-chain/)
 
 ### heyOcto.ai
 - [GitHub Repo - Models etc](https://github.com/selfdriven-foundation/octo/tree/main/heyocto)
