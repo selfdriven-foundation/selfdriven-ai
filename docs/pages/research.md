@@ -36,6 +36,7 @@ permalink: /research/
 - [AI news & more by Dylan Curious](https://www.youtube.com/@dylan_curious) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Videos
+- [Ilya Sutskever – We're moving from the age of scaling to the age of research](https://youtu.be/aR20FWCCjAs) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [Dr Yampolski & Tom Bilyeu, NOV2025](https://youtu.be/2bbSgSIQsac) <span style="color:#888888;font-size:0.68rem;">[IoMF:3+]</span>
 - [Mo Gowlet, How to stay Human in the age of AI](https://youtu.be/gcAUc0EzzTY) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 - [Why 2025 is the single most pivotal year in our lifetime by Peter Leyden](https://youtu.be/w5k72A30kUc) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
