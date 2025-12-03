@@ -28,7 +28,7 @@ permalink: /tech/
 - [Anthropic](https://anthropic.com)
 - [DeepSeek](https://deepseek.com)
 - [Qwen](https://qwen.ai)
-- [Z AI](z.ai)
+- [NEAR AI](https://near.ai)
 - [ASI](https://superintelligence.io)
 - [Marble World Model](https://marble.worldlabs.ai)
 
@@ -48,3 +48,6 @@ permalink: /tech/
 
 ### heyOcto.ai
 - [GitHub Repo - Models etc](https://github.com/selfdriven-foundation/octo/tree/main/heyocto)
+
+### lab: selfdriven AI & ...
+- [NEAR AI](/tech/lab/near-ai)
