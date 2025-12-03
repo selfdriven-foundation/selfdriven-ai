@@ -188,7 +188,7 @@ Handles:
 
 ---
 
-# ⭐ Final Summary
+# Summary
 
 **selfdriven (ecosystem)**  
 = philosophical framework + governance + identity + community operating system.
