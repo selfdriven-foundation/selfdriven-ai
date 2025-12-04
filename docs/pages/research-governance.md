@@ -341,12 +341,10 @@ By adopting and co-shaping ecosystems like selfdriven, governments and communiti
 | **Canada** | Pan-Canadian Artificial Intelligence Strategy | [Info](https://ised-isde.canada.ca/site/ai-strategy/en/pan-canadian-artificial-intelligence-strategy) |
 | **Chile** | National AI Policy of Chile | [Info](https://www.unesco.org/en/articles/chile-launches-national-ai-policy-and-introduces-ai-bill-following-unescos-recommendations-0) |
 | **China** | Next Generation AI Development Plan (2017) | [Info](http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm) |
-| **Czech Republic** | National Artificial Intelligence Strategy Czech Republic 2030 | [Info*](https://www.mpo.cz/en/guidepost/for-the-media/press-releases/the-strategy-for-artificial-intelligence-in-the-czech-republic-253798/) |
-| **Denmark** | Denmark’s National Strategy for Artificial Intelligence | [Info*](https://eng.em.dk/responsible-growth/artificial-intelligence/) |
-| **Estonia** | Estonia’s National AI Strategy (KrattAI) | [Info*](https://www.kratid.ee/en) |
-| **Finland** | Finland’s Age of Artificial Intelligence Strategy | [Info*](https://vnk.fi/en/artificial-intelligence-programme) |
-| **France** | AI for Humanity Strategy | [Info*](https://www.aiforhumanity.fr) |
-| **Germany** | National AI Strategy (2018) | [Info*](https://www.ki-strategie-deutschland.de/home.html) |
+| **Czech Republic** | National Artificial Intelligence Strategy Czech Republic 2030 | [Info](https://mpo.gov.cz/assets/cz/rozcestnik/pro-media/tiskove-zpravy/2019/6/NAIS_eng_korektura_06-19_web.pdf) |
+| **Denmark** | Denmark’s National Strategy for Artificial Intelligence | [Info](https://en.digst.dk/media/lz0fxbt4/305755_gb_version_final-a.pdf) |
+| **Estonia** | Estonia’s National AI Strategy (KrattAI) | [Info](https://www.kratid.ee/en/kratt-visioon) |
+| **Germany** | National AI Strategy (2018) | [Info](https://www.ki-strategie-deutschland.de/files/downloads/Fortschreibung_KI-Strategie_engl.pdf) |
 | **Hungary** | Artificial Intelligence Strategy of Hungary | [Info*](https://ai-hungary.com) |
 | **India** | India National AI Strategy (#AIforAll) | [Info*](https://www.niti.gov.in/verticals/artificial-intelligence) |
 | **Indonesia** | Indonesia National AI Strategy (2020–2045) | [Info*](https://ai-innovation.id/strategy) |
