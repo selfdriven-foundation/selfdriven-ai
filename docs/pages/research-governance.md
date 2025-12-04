@@ -334,7 +334,7 @@ By adopting and co-shaping ecosystems like selfdriven, governments and communiti
 
 | Country / State | AI Plan / Strategy Name | Source |
 |-----------------|-------------------------|--------|
-| **Australia** | National National AI Plan | [Info](https://www.industry.gov.au/publications/national-ai-plan/ai-strategies-across-the-five-eyes-nations) |
+| **Australia** | National National AI Plan | [Info](https://www.industry.gov.au/publications/national-ai-plan) |
 | **Austria** | Artificial Intelligence Mission Austria 2030 | [Info](https://digital-skills-jobs.europa.eu/en/actions/national-initiatives/national-strategies/austria-artificial-intelligence-mission-2030-aim) |
 | **Belgium** | AI 4 Belgium Strategy | [Info](https://oecd.ai/en/dashboards/policy-initiatives/ai-4-belgium-3862) |
 | **Brazil** | Brazilian Artificial Intelligence Strategy (EBIA) | [Info](https://www.oecd.org/en/publications/access-to-public-research-data-toolkit_a12e8998-en/brazilian-strategy-for-artificial-intelligence_936c5793-en.html) |
