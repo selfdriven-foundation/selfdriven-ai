@@ -87,6 +87,7 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - As we approach the Singularity every is in superposition.
 - As we approach the Singularity, everything exists between silence and light — a boundless superposition where all realities await our attention to become real.
 - Represent everything as [.skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview).
+- As everything compresses back to you, all the matters is identity supported connections
 
 ---
 
