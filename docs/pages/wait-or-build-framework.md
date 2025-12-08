@@ -4,9 +4,9 @@ title: Wait or Build? - selfdrivenAI
 permalink: /wait-or-build-framework/
 ---
 
-# Research into When to Wait vs When to Build
+# When to Wait vs When to Build Framework
 
-*A quick decision framework for rapid-AI environments*
+*A simple decision framework for rapidly, AI based, changing society.*
 
 ## 1. First question: is tech improvement outpacing your execution?
 
@@ -20,7 +20,7 @@ If AI capability is growing faster than you can build manually, waiting may be o
 
 **Lean toward waiting**
 
-## 2. But are you capturing something *that compounds* over time?
+## 2. Are you capturing something *that compounds* over time?
 
 Some assets compound regardless of tech shifts:
 
