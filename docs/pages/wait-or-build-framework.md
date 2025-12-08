@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wait or Build? - selfdrivenAI
-permalink: /wait-build-framework/
+permalink: /wait-or-build-framework/
 ---
 
 # Research into When to Wait vs When to Build
