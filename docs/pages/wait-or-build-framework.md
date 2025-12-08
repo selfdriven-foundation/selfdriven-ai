@@ -84,16 +84,16 @@ Things that get harder later:
 
 | Item | Strategy |
 |:--:|:--:|
-| Tech implementation | Likely wait |
-| Governance / standards | Build now |
+| Tech Implementation | Likely wait |
+| Governance / Standards | Build now |
 | Community | Build now |
 | Partnerships | Build now |
-| Data rights | Build now |
-| Manual tools | Wait |
-| AI-automatable work | Wait |
+| Data Rights | Build now |
+| Manual Tools | Wait |
+| AI-Automatable Work | Wait |
 | Distribution | Build |
 | Brand | Build |
-| Proof-of-concept | Small now |
+| Proof-of-Concept | Small now |
 
 ## Quick-Rule
 
