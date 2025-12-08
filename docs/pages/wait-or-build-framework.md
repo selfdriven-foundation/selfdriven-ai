@@ -18,7 +18,7 @@ If AI capability is growing faster than you can build manually, waiting may be o
 - tools automating what you’re building
 - your roadmap looks manual + labour heavy
 
-**Lean toward waiting**
+**→ Lean toward waiting**
 
 ## 2. Are you capturing something *that compounds* over time?
 
@@ -33,7 +33,7 @@ Some assets compound regardless of tech shifts:
 - data you have permission to use
 - distribution channels
 
-**Build these immediately**
+**→ Build these immediately**
 
 ## 3. Is there a land-grab or a standards moment happening?
 
@@ -43,7 +43,7 @@ Early movers win when:
 - ecosystems are emerging
 - protocols and norms are still flexible
 
-**Move now**
+**→ Move now**
 (even if technology isn’t ready)
 
 ## 4. Will your work be leapfrogged soon?
@@ -95,9 +95,10 @@ Things that get harder later:
 | Brand | Build |
 | Proof-of-concept | Small now |
 
-## Single rule
+## Quick-Rule
 
 **If AI will do this better than you soon → wait.**
+
 **If humans and relationships are the advantage → build.**
 
 ---
@@ -113,13 +114,9 @@ If you leave now, a future mission might actually pass you on the way and arrive
 This creates a weird implication:
 **sometimes waiting gets you there sooner.**
 
----
-
-$$
-T = W + \frac{D}{S(t + W)}
-$$
+T = W + ( D / ( S(t + W) ) )
 
 - W = how long you wait for better tech
 - D = task size (distance to Mars, capability gap, etc.)
-- S(t) = speed/capability you’ll have at time t
+- S(t + W) = speed/capability you’ll have at time t
 - T = total arrival time
