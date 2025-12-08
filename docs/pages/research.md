@@ -11,6 +11,7 @@ permalink: /research/
 - [IoMF, Impact on Mind Framework](/impact-on-mind-framework/)
 - [Detailed IoMF ratings for research resources](/impact-on-mind-framework/research-ratings/)
 - [Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/)
+- [Wait or Build Framework](/wait-or-build-framework/)
 
 ## Topics
 - How Can Generative AI Support Communities Self-Actuate?
@@ -34,7 +35,7 @@ permalink: /research/
 
 ## Channels
 - [AI News & Strategy Daily by Nate B Jones](https://www.youtube.com/@NateBJones) <span style="color:#888888;font-size:0.68rem;">[IoMF:1]</span>
-- [AI news & more by Dylan Curious](https://www.youtube.com/@dylan_curious) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
+- [AI News & more by Dylan Curious](https://www.youtube.com/@dylan_curious) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Videos
 - [Ilya Sutskever – We're moving from the age of scaling to the age of research](https://youtu.be/aR20FWCCjAs) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
