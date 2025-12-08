@@ -103,7 +103,7 @@ Things that get harder later:
 
 ---
 
-**The Mars analogy**
+**The Travelling to Mars Analogy**
 
 If you want to go to Mars, and every year rockets get ~10% faster, should you:
 - launch now (taking longer), OR
