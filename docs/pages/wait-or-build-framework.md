@@ -220,3 +220,12 @@ If you leave now, a future mission might actually pass you on the way and arrive
 
 This creates a weird implication:
 **sometimes waiting gets you there sooner.**
+
+---
+
+T = W + \frac{D}{S(t + W)}
+
+- W = how long you wait for better tech
+- D = task size (distance to Mars, capability gap, etc.)
+- S(t) = speed/capability you’ll have at time t
+- T = total arrival time
