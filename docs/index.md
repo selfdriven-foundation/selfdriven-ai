@@ -13,6 +13,7 @@ title: Home
 ### Related
 - [selfdriven AI Impact on Mind Framework](/impact-on-mind-framework/)
 - [Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/)
+- [Wait or Build? Framework](/wait-or-build-framework/)
 - [selfdriven.fyi/intelligence](https://selfdriven.fyi/intelligence)
 - [selfdriven.fyi/cog-assist](https://selfdriven.fyi/cog-assist)
 - [selfdriven.network AI Interface](https://selfdriven.network)
