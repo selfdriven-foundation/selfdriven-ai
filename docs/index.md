@@ -12,7 +12,7 @@ title: Home
 
 ### Frameworks
 
-- [selfdriven AI Impact on Mind Framework](/impact-on-mind-framework/)
+- [Impact on Mind Framework](/impact-on-mind-framework/)
 - [Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/)
 - [Wait or Build Framework](/wait-or-build-framework/)
 
@@ -26,5 +26,4 @@ title: Home
 - [heyOcto.ai](https://heyocto.ai) - templates
 - [selfdriven.social](https://selfdriven.social) - AT Protocol
 - [selfdriven Research](https://research.selfdriven.foundation)
-
 
