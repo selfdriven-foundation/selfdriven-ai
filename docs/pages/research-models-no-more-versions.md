@@ -139,3 +139,6 @@ The real challenge is not technological capability—it is determining how we sh
 - [DeepMind Titans & MIRAS - AI Long Term Memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 - [Situational Awareness Framework for Organisations, selfdriven Foundation](/situational-awareness-framework/organisations/)
 - [Wait or Build Framework, selfdriven Foundation](/wait-or-build-framework/)
+- [The Last Economy](https://thelasteconomy.com) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
+- [Henry Kissinger; Genesis - AI & The Human Spirit](https://www.hachettebookgroup.com/titles/henry-a-kissinger/genesis/9780316581295/) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
+- [IoMF, Impact on Mind Framework](/impact-on-mind-framework/)
