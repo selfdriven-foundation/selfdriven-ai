@@ -68,7 +68,7 @@ permalink: /research/
 - [lifearchitect.ai](https://lifearchitect.ai) - Understanding, visualizing, and realizing the capabilities of post-2020 AI
 - [Virtual Agent Economies](https://arxiv.org/html/2509.10147v1)
 - [antischeming.ai/snippets](https://www.antischeming.ai/snippets)
-- [Alan's Conservative Countfown to AGI](https://lifearchitect.ai/agi/)
+- [Alan's Conservative Countdown to AGI](https://lifearchitect.ai/agi/)
 
 ## Models
 - [Hierarchical Reasoning Model](https://github.com/sapientinc/HRM)

@@ -131,3 +131,12 @@ This moment is the crossing point where technologies stop being just tools and b
 
 When intelligence becomes continuous, humanity enters a continuous-intelligence era.  
 The real challenge is not technological capability—it is determining how we shape the direction of an intelligence that increasingly shapes itself.
+
+---
+
+## Related
+
+- [Alan's Conservative Countdown to AGI](https://lifearchitect.ai/agi/)
+- [Introducing Nested Learning: A new ML paradigm for continual learning, Google DeepMind](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/)
+- [Situational Awareness Framework for Organisations, selfdriven Foundation](/situational-awareness-framework/organisations/)
+- [Wait or Build Framework, selfdriven Foundation](/wait-or-build-framework/)
