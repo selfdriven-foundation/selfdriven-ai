@@ -136,5 +136,6 @@ The real challenge is not technological capability—it is determining how we sh
 
 - [Alan's Conservative Countdown to AGI](https://lifearchitect.ai/agi/)
 - [Introducing Nested Learning: A new ML paradigm for continual learning, Google DeepMind](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/)
+- [DeepMind Titans & MIRAS - AI Long Term Memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 - [Situational Awareness Framework for Organisations, selfdriven Foundation](/situational-awareness-framework/organisations/)
 - [Wait or Build Framework, selfdriven Foundation](/wait-or-build-framework/)
