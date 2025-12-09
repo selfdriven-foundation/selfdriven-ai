@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Combining the selfdriven Framework with the power of Generative AI to enable decentralised human/purpose driven communities
+## Generative AI and Self-Actuating Communities
 
 - [Research](/research/)
 - [Tech](/tech/)
