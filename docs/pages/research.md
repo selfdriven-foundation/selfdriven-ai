@@ -71,10 +71,12 @@ permalink: /research/
 - [antischeming.ai/snippets](https://www.antischeming.ai/snippets)
 - [Alan's Conservative Countdown to AGI](https://lifearchitect.ai/agi/)
 
+## Benchmarks & Arenas
+- [Alpha Arena](https://nof1.ai/) - trading .
+
 ## Models
 - [Hierarchical Reasoning Model](https://github.com/sapientinc/HRM)
 - [Tiny Reasoning Model](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
-- [Alpha Arena](https://nof1.ai/) - benchmarks.
 
 ## Transformations
 - Traditional Education: "To Create Practical Spaces For Young People To Practice Caring for Self & Others In Regards to Health, Building, Food, Play & Learning"
