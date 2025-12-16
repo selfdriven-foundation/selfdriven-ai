@@ -23,6 +23,7 @@ permalink: /research/
 - [No More Versions](/research/no-more-versions/) - The Impact of Models with Adaptive/Nested Learning
 - [Societal Metamorphosis](/research/metamorphosis/) - Do the rules for the Caterpillar apply to the Butterfly?
 - [Societal Useful Tasks](/research/useful-tasks) - Can inorganic intelligence do useful work? (GDPVal)
+- [Friction](/research/friction) - Epistemological Friction in the Age of Generative Abundance.
 
 ## Books
 - [Yuval Noah Harari; Nexus](https://www.ynharari.com/book/nexus/) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>

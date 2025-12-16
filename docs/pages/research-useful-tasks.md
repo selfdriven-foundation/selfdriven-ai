@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Useful Tasks - Research - selfdrivenAI
-subtitle: "Can inorganic intelligence do useful work?"
+subtitle: "Can inorganic intelligence do useful tasks?"
 tags:
   - metamorphosis
   - societal-transition
   - transformation
-  - imaginal-cells
   - governance
   - future
 summary: >
   Can inorganic intelligence do useful work?
+  GDPval measures **real-world, economically valuable professional work**, not academic puzzles.
 permalink: /research/useful-tasks
 ---
 
-# Can inorganic intelligence do useful work?
+# Can Inorganic Intelligence Do Useful Tasks?
 
 For this research topic, GDPVal is used as a framework for useful tasks, even though GDP itself may not be the best measure of societal output.
 
