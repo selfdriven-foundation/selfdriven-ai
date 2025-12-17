@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Emerging importance of Games - selfdrivenAI
-permalink: /games/
+title: Emerging importance of Games - selfdriven AI
+permalink: /games
 ---
 
 ## Emerging importance of Games

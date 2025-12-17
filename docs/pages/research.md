@@ -14,10 +14,8 @@ permalink: /research/
 - [Wait or Build Framework](/wait-or-build-framework/)
 
 ## Topics
-- How Can Generative AI Support Communities Self-Actuate?
-- How Can Generative AI Support Governance of Decentralised Learning, Learning Communities & Society?
-- [More Topics/Thoughts](/thoughts/)
-- [Emerging importance of Games](/games/)
+- [How Can Generative AI Support Communities to Self-Actuate?](/research/ai-support-communities)
+- [Emerging importance of Games](/games)
 - [Practitioner-In-The-Loop (PITL)](/research/practitioner-in-the-loop/)
 - [Governance Frameworks](/research/governance/) - inc. Sovereign State Plans etc
 - [No More Versions](/research/no-more-versions/) - The Impact of Models with Adaptive/Nested Learning
@@ -26,6 +24,7 @@ permalink: /research/
 - [Friction](/research/friction) - Epistemological Friction in the Age of Generative Abundance.
 - [Sovereignity](/research/sovereignity)
 - [Who Is I](/research/who-is-i)
+- [More Topics/Thoughts](/thoughts/)
 
 ## Books
 - [Yuval Noah Harari; Nexus](https://www.ynharari.com/book/nexus/) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
