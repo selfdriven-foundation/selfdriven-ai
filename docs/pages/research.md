@@ -45,8 +45,10 @@ permalink: /research/
 - [Google DeepMind: The Podcast with Hannah Fry](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Videos
-- [Dennis of DeepMind & Hannah](https://youtu.be/PqVbypvxDto)
-- [The arrival of AGI - Shane Legg (co-founder of DeepMind)](https://www.youtube.com/watch?v=l3u_FAv33G0) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
+
+- [Mustafa Suleyman of Microsoft AI](https://youtu.be/XWGnWcmns_M) <span style="color:#888888;font-size:0.68rem;">[IoMF:2+]</span>
+- [Dennis of DeepMind & Hannah](https://youtu.be/PqVbypvxDto) <span style="color:#888888;font-size:0.68rem;">[IoMF:2+]</span>
+- [Shane Legg (co-founder of DeepMind) & Hannah](https://www.youtube.com/watch?v=l3u_FAv33G0) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 - [Ilya Sutskever – We're moving from the age of scaling to the age of research](https://youtu.be/aR20FWCCjAs) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [Dr Yampolski & Tom Bilyeu, NOV2025](https://youtu.be/2bbSgSIQsac) <span style="color:#888888;font-size:0.68rem;">[IoMF:3+]</span>
 - [Mo Gowlet, How to stay Human in the age of AI](https://youtu.be/gcAUc0EzzTY) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
