@@ -37,8 +37,6 @@ But focusing on agents creates three blind spots:
 
 Agents matter — but only as *participants*.
 
----
-
 ## 2. What Orchestration Actually Means
 
 **Orchestration** is the design of:
@@ -56,8 +54,6 @@ In an orchestrated system:
 - Outputs flow forward, not sideways
 
 Orchestration is *coordination with guarantees*.
-
----
 
 ## 3. From Monolithic Agents to Composed Intelligence
 
@@ -78,8 +74,6 @@ Think less “AI butler” and more “distributed workflow”.
 
 The intelligence emerges from **composition**, not autonomy.
 
----
-
 ## 4. The Hidden Role of Constraints
 
 Orchestration is powered by constraints, not creativity.
@@ -95,12 +89,10 @@ AI performs best **inside rails**, not outside them.
 Agents improvise.  
 Orchestration governs.
 
----
-
 ## 5. Orchestration Is Where Trust Lives
 
 In agent narratives, trust is implicit:
-> “The agent decided correctly.”
+“The agent decided correctly.”
 
 In orchestrated systems, trust is explicit:
 - Inputs are signed
@@ -115,8 +107,6 @@ This is why orchestration aligns naturally with:
 - Policy-driven execution
 
 Trust shifts from belief to evidence.
-
----
 
 ## 6. Humans Don’t Disappear — They Move Upstream
 
@@ -134,8 +124,6 @@ to
 AI fills the middle.
 Humans own the edges.
 
----
-
 ## 7. The Real Competitive Advantage
 
 The winners in the AI era will not be those with:
@@ -152,21 +140,15 @@ They will be those with:
 Orchestration scales.
 Agents saturate.
 
----
-
 ## 8. A Simple Reframe
 
 Instead of asking:
-
-> “What can this AI agent do?”
+“What can this AI agent do?”
 
 Ask:
-
-> “Where does intelligence enter, transform, and exit this system — and who remains accountable?”
+“Where does intelligence enter, transform, and exit this system — and who remains accountable?”
 
 That question leads to better architecture, safer systems, and more durable value.
-
----
 
 ## Conclusion
 
