@@ -1,6 +1,10 @@
-# It’s Not About AI Agents — It’s About Orchestration
+---
+layout: default
+title: Agents vs Orchestration - selfdriven AI
+permalink: /research/agents-vs-orchestration
+---
 
-## Executive Summary
+# It’s Not About AI Agents — It’s About Orchestration
 
 The current conversation around AI is fixated on *agents*: autonomous systems that plan, act, and execute tasks on our behalf.  
 That framing is incomplete.
