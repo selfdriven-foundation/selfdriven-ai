@@ -25,6 +25,7 @@ permalink: /research/
 - [Sovereignity](/research/sovereignity)
 - [Who Is I](/research/who-is-i)
 - [Agents vs Orchestration](/research/agents-vs-orchestration)
+- [Pixels to Proofs](/research/pixels-to-proofs)
 - [More Topics/Thoughts](/thoughts/)
 
 ## Books
