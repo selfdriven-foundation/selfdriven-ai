@@ -79,6 +79,7 @@ permalink: /research/
 - [Virtual Agent Economies](https://arxiv.org/html/2509.10147v1)
 - [antischeming.ai/snippets](https://www.antischeming.ai/snippets)
 - [Alan's Conservative Countdown to AGI](https://lifearchitect.ai/agi/)
+- [LawZero](https://lawzero.org)
 
 ## Benchmarks & Arenas
 - [Alpha Arena](https://nof1.ai/) - trading .
