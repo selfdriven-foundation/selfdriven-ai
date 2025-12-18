@@ -24,6 +24,7 @@ permalink: /research/
 - [Friction](/research/friction) - Epistemological Friction in the Age of Generative Abundance.
 - [Sovereignity](/research/sovereignity)
 - [Who Is I](/research/who-is-i)
+- [Agents vs Orchestration](/research/agents-vs-orchestration)
 - [More Topics/Thoughts](/thoughts/)
 
 ## Books
