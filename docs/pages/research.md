@@ -45,7 +45,7 @@ permalink: /research/
 - [Google DeepMind: The Podcast with Hannah Fry](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Videos
-
+- [Yoshua Bengio with Steven Bartlett](https://youtu.be/zQ1POHiR8m8) <span style="color:#888888;font-size:0.68rem;">[IoMF:3+]</span>
 - [Mustafa Suleyman of Microsoft AI](https://youtu.be/XWGnWcmns_M) <span style="color:#888888;font-size:0.68rem;">[IoMF:2+]</span>
 - [Dennis of DeepMind & Hannah](https://youtu.be/PqVbypvxDto) <span style="color:#888888;font-size:0.68rem;">[IoMF:2+]</span>
 - [Shane Legg (co-founder of DeepMind) & Hannah](https://www.youtube.com/watch?v=l3u_FAv33G0) <span style="color:#888888;font-size:0.68rem;">[IoMF:2+]</span>
