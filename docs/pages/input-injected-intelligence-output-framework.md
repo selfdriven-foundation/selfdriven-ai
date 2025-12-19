@@ -379,3 +379,9 @@ Production delivers outcomes with proof.**
 The future organisation is not agent-run or fully autonomous.
 
 It is a **human-intent system** with **selectively injected inorganic intelligence**, optimised for flow, trust, and accountability.
+
+---
+
+### Related
+
+- [Agents vs Orchestration](/research/agents-vs-orchestration)
