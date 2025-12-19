@@ -171,6 +171,8 @@ It is:
 
 Organisations that understand this will out-learn, out-adapt, and out-deliver those still optimising for labour.
 
+---
+
 # Mapping Organisational Flow to Engagement → Lab → Production
 
 This paper maps the modern organisational flow  
