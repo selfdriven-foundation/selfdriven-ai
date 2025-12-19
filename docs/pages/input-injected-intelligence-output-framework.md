@@ -17,6 +17,8 @@ Input → Injected Inorganic Intelligence → Output
 
 This model reframes organisations not as collections of roles and departments, but as **flows of intent, context, and verification**, with intelligence acting as an augmenting layer rather than a replacement for human agency.
 
+<img src="/assets/img/selfdriven-ai-input-injected-intelligence-output.png" style="border-radius: 12px; width:100%; max-width: 600px; margin-top:14px; margin-bottom:14px;">
+
 ## 1. The Legacy Organisational Model (Why It Breaks)
 
 Traditional organisations are designed around:
