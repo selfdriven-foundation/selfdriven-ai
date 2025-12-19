@@ -12,6 +12,7 @@ permalink: /research/
 - [Detailed IoMF ratings for research resources](/impact-on-mind-framework/research-ratings/)
 - [Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/)
 - [Wait or Build Framework](/wait-or-build-framework/)
+- [Input, Injected-Intelligence, Output Framework](/input-injected-intelligence-output-framework)
 
 ## Topics
 - [How Can Generative AI Support Communities to Self-Actuate?](/research/ai-support-communities)
