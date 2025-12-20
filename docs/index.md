@@ -15,6 +15,7 @@ title: Home
 - [Impact on Mind Framework](/impact-on-mind-framework/)
 - [Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/)
 - [Wait or Build Framework](/wait-or-build-framework/)
+- [Input, Injected-Intelligence, Output Framework](/input-injected-intelligence-output-framework)
 
 ### Related
 
