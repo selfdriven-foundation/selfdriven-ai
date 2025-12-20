@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Impact on Mind Framework - selfdrivenAI
+title: Input, Injected-Intelligence, Output - selfdriven AI
 permalink: /input-injected-intelligence-output-framework
 ---
 
@@ -116,17 +116,17 @@ Departments dissolve into:
 ### 6.3 From Management to Orchestration
 
 Management shifts from:
-- Assigning tasks  
+Assigning tasks  
 
 to:
-- Designing where and how intelligence is injected
+Designing where and how intelligence is injected
 
 ## 7. Control, Agency, and Responsibility
 
 A critical principle:
 
-> **Humans retain intent and accountability.  
-> AI provides capability.**
+**Humans retain intent and accountability.  
+AI provides capability.**
 
 This requires:
 - Clear ownership of inputs
