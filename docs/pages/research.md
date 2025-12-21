@@ -27,6 +27,7 @@ permalink: /research/
 - [Who Is I](/research/who-is-i)
 - [Agents vs Orchestration](/research/agents-vs-orchestration)
 - [Pixels to Proofs](/research/pixels-to-proofs)
+- [The Present as Unspent State](/research/present-as-unspent-state)
 - [More Topics/Thoughts](/thoughts/)
 
 ## Books
