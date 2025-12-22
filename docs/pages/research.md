@@ -28,6 +28,7 @@ permalink: /research/
 - [Agents vs Orchestration](/research/agents-vs-orchestration)
 - [Pixels to Proofs](/research/pixels-to-proofs)
 - [The Present as Unspent State](/research/present-as-unspent-state)
+- [The Transition](/research/transition) - The Transformation of Society in the Age of Post-Scarce Resources
 - [More Topics/Thoughts](/thoughts/)
 
 ## Books
