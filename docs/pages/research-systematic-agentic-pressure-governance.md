@@ -14,8 +14,8 @@ What used to be a weeks-long campaign can become a continuous, automated loop: p
 
 For boards, the practical implication is simple:
 
-> **Central cloud is a trust concentrator.**  
-> If identity/control-plane is compromised, the blast radius is cross-system and often cross-vendor.
+**Central cloud is a trust concentrator.**  
+If identity/control-plane is compromised, the blast radius is cross-system and often cross-vendor.
 
 Recent national and standards bodies are explicitly treating AI (including agents) as a cybersecurity risk driver that requires updated controls and governance.
 
@@ -95,7 +95,7 @@ ENISA’s threat landscape work highlights the increasing systemic nature of att
    - assume attackers will try to blind you  
    - measure: logging coverage; alerts on log disable/delete; retention integrity
 
-NIST’s preliminary Cybersecurity Framework Profile for AI emphasizes securing AI systems, AI-enabled defense, and resilience to AI-enabled attacks—useful framing for governance and control selection.  [oai_citation:3‡nvlpubs.nist.gov](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf)
+NIST’s preliminary Cybersecurity Framework Profile for AI emphasizes securing AI systems, AI-enabled defense, and resilience to AI-enabled attacks—useful framing for governance and control selection.  [nvlpubs.nist.gov](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf)
 
 ---
 

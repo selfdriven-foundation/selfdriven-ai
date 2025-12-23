@@ -16,9 +16,11 @@ This paper describes why AI-enabled attackers disproportionately threaten centra
 
 ### 1.1 The attacker advantage is now *iteration speed*
 
-Generative AI already lowers the cost of producing credible phishing, exploit variants, and operational playbooks. More importantly, **agentic** systems can *chain* these steps and run them continuously with feedback from results.
+Generative AI already lowers the cost of producing credible phishing, exploit variants, and operational playbooks. More importantly, agentic systems can *chain* these steps and run them continuously with feedback from results.
 
-Recent reporting highlights accelerating attack conditions and AI being used in real campaigns (e.g., AI-generated decoys).  [oai_citation:0‡Reuters](https://www.reuters.com/world/europe/russian-defense-firms-targeted-by-hackers-using-ai-other-tactics-2025-12-19/m)
+Recent reporting highlights accelerating attack conditions and AI being used in real campaigns (e.g., AI-generated decoys).
+
+- [Reuters](https://www.reuters.com/world/europe/russian-defense-firms-targeted-by-hackers-using-ai-other-tactics-2025-12-19/m)
 
 ### 1.2 Central cloud is a “trust concentrator”  
 Cloud concentrates:
@@ -27,7 +29,7 @@ Cloud concentrates:
 - **Data gravity** (object stores, warehouses, logs)
 - **Software supply chains** (registries, CI/CD, artifact stores)
 
-So compromise isn’t just “one org breached”—it can become a **cross-tenant or ecosystem event** when shared dependencies or identity layers are abused.
+So compromise isn’t just “one org breached”—it can become a *cross-tenant or ecosystem event* when shared dependencies or identity layers are abused.
 
 ### 1.3 The attack surface is expanding faster than teams can govern  
 Enterprise AI adoption expands API surfaces, permissions, plugins/tools, and data movement. Security organizations report frequent attacks against AI services and growing API/IAM exposure.
@@ -79,7 +81,7 @@ Attack agents are excellent at:
 - Testing common IaC patterns for privilege mistakes
 - Re-checking targets repeatedly (because configs drift)
 
-The key change is **persistence**: agents don’t “finish”—they keep watching for a momentary opening.
+The key change is persistence: agents don’t “finish”—they keep watching for a momentary opening.
 
 ### 3.4 Supply-chain automation (CI/CD, dependencies, artifacts)
 
@@ -109,7 +111,7 @@ This is uniquely cloud-shaped: the meter is part of the attack surface.
 
 ## 4. Systemic risk: multi-tenant blast radius and correlated failure
 
-Central cloud concentrates not just compute, but **shared assumptions**:
+Central cloud concentrates not just compute, but shared assumptions:
 - Common identity providers
 - Shared third-party libraries and registries
 - Standard reference architectures (same mistakes repeated)
@@ -126,7 +128,7 @@ Government threat reporting shows rising volumes of proactive notifications and 
 
 ## 5. What “good” defense looks like when attackers are agentic
 
-This is not about one silver bullet. It’s about **changing the shape of the system** so automation can’t chain small wins into total compromise.
+This is not about one silver bullet. It’s about changing the shape of the system so automation can’t chain small wins into total compromise.
 
 ### 5.1 Assume breach of identity; design for containment
 
@@ -193,7 +195,7 @@ Industry and government guidance is increasingly converging on AI-specific secur
 
 ## 7. Conclusion
 
-AI-enabled attack agents don’t create entirely new categories of cloud risk; they **weaponize the gaps** already present—over-permissive IAM, sprawling APIs, supply-chain trust, configuration drift—by applying relentless, adaptive iteration.
+AI-enabled attack agents don’t create entirely new categories of cloud risk; they weaponise the gaps already present—over-permissive IAM, sprawling APIs, supply-chain trust, configuration drift—by applying relentless, adaptive iteration.
 
 Central cloud services are uniquely exposed because they are *hubs of trust and control*. The correct response is not to abandon cloud, but to rebuild cloud security assumptions around:
 - containment over prevention,
