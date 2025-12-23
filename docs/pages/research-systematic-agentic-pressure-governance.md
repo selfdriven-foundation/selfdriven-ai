@@ -8,7 +8,8 @@ permalink: /research/systematic-agentic-pressure/governance
 
 ### What Changes Now
 
-AI-enabled attack agents don’t “create a new threat category” — they **compress time and scale**.  
+**AI-enabled attack agents don’t “create a new threat category” — they compress time and scale**.  
+
 What used to be a weeks-long campaign can become a continuous, automated loop: probe → learn → adapt → re-attack.
 
 For boards, the practical implication is simple:
@@ -16,12 +17,16 @@ For boards, the practical implication is simple:
 > **Central cloud is a trust concentrator.**  
 > If identity/control-plane is compromised, the blast radius is cross-system and often cross-vendor.
 
-Recent national and standards bodies are explicitly treating AI (including agents) as a cybersecurity risk driver that requires updated controls and governance.  [oai_citation:0‡nvlpubs.nist.gov](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf)
+Recent national and standards bodies are explicitly treating AI (including agents) as a cybersecurity risk driver that requires updated controls and governance.
+
+- [nvlpubs.nist.gov](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf)
 
 ---
 
 ### Why cloud hubs are disproportionately exposed
+
 **Cloud concentrates:**
+
 - Identity (SSO, OAuth tokens, service accounts)
 - Control planes (IAM, org policies, Kubernetes, serverless)
 - Supply chain (CI/CD, registries, artifacts)
@@ -33,7 +38,9 @@ So a “minor” compromise (token theft, CI runner access, mis-scoped role) can
 - persistence via federated identity,
 - and high-confidence exfiltration using “normal” APIs.
 
-Threat reporting shows material scale and cost impacts already at national level (e.g., high report volume and rising average losses).  [oai_citation:1‡Cyber Security Australia](https://www.cyber.gov.au/sites/default/files/2025-10/Annual%20Cyber%20Threat%20Report%202024-25%20factsheet%20for%20businesses%20and%20organisations.pdf?utm_source=chatgpt.com)
+Threat reporting shows material scale and cost impacts already at national level (e.g., high report volume and rising average losses).
+
+- [Cyber Security Australia](https://www.cyber.gov.au/sites/default/files/2025-10/Annual%20Cyber%20Threat%20Report%202024-25%20factsheet%20for%20businesses%20and%20organisations.pdf)
 
 ---
 
@@ -60,7 +67,9 @@ Threat reporting shows material scale and cost impacts already at national level
 **Scenario:** attacker iterates faster than human response loops.  
 **Impact:** incident decisions degrade; “manual approval everywhere” becomes impossible.
 
-ENISA’s threat landscape work highlights the increasing systemic nature of attacks and supply-chain dependency effects across sectors.  [oai_citation:2‡enisa.europa.eu](https://www.enisa.europa.eu/sites/default/files/2025-10/ENISA%20Threat%20Landscape%202025.pdf?utm_source=chatgpt.com)
+ENISA’s threat landscape work highlights the increasing systemic nature of attacks and supply-chain dependency effects across sectors.
+
+- [enisa.europa.eu](https://www.enisa.europa.eu/sites/default/files/2025-10/ENISA%20Threat%20Landscape%202025.pdf)
 
 ---
 
@@ -86,7 +95,7 @@ ENISA’s threat landscape work highlights the increasing systemic nature of att
    - assume attackers will try to blind you  
    - measure: logging coverage; alerts on log disable/delete; retention integrity
 
-NIST’s preliminary Cybersecurity Framework Profile for AI emphasizes securing AI systems, AI-enabled defense, and resilience to AI-enabled attacks—useful framing for governance and control selection.  [oai_citation:3‡nvlpubs.nist.gov](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf?utm_source=chatgpt.com)
+NIST’s preliminary Cybersecurity Framework Profile for AI emphasizes securing AI systems, AI-enabled defense, and resilience to AI-enabled attacks—useful framing for governance and control selection.  [oai_citation:3‡nvlpubs.nist.gov](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf)
 
 ---
 
@@ -106,7 +115,9 @@ NIST’s preliminary Cybersecurity Framework Profile for AI emphasizes securing 
 4) Fund **immutable logging + response automation** with human gating.  
 5) Require a written policy: **“No long-lived keys in production by default.”**
 
-CISA’s joint guidance explicitly includes AI agents in the security integration scope—use it as an external anchor for internal requirements.  [oai_citation:4‡cisa.gov](https://www.cisa.gov/news-events/alerts/2025/12/03/cisa-australia-and-partners-author-joint-guidance-securely-integrating-artificial-intelligence?utm_source=chatgpt.com)
+CISA’s joint guidance explicitly includes AI agents in the security integration scope—use it as an external anchor for internal requirements.
+
+- [cisa.gov](https://www.cisa.gov/news-events/alerts/2025/12/03/cisa-australia-and-partners-author-joint-guidance-securely-integrating-artificial-intelligence)
 
 ---
 

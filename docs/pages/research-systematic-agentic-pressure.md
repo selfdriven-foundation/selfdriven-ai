@@ -4,223 +4,210 @@ title: Systematic Agentic Pressure - Research - selfdriven AI
 permalink: /research/systematic-agentic-pressure
 ---
 
-# The Transformation of Society in the Age of Post-Scarce Resources
+# Systematic Agentic (AI-automated Attack) Pressure
 
-**From Labour for Scarcity to Life in Abundance**
+**How automated AI attack agents increase systemic risk for “hub” infrastructure.**
 
-Human society has been organised for millennia around a single constraint: scarcity.
+Central cloud services (hyperscalers, major SaaS platforms, identity providers, CI/CD hosts, API gateways, observability stacks) have always been high-value targets. What changes in an “agentic” era is **tempo and scale**: automated AI attack agents compress the full kill chain—recon → initial access → privilege escalation → lateral movement → persistence → monetisation—into continuous, adaptive loops.
 
-Because resources were limited, people traded labour for access to food, shelter, safety, and status. Work was not optional; it was the price of survival.
+This paper describes why AI-enabled attackers disproportionately threaten central cloud, the dominant agent-driven attack vectors, the systemic “blast radius” problem created by multi-tenant hubs, and a practical defense posture that assumes attackers can iterate faster than humans.
 
-This paper explores the ongoing transition from that scarcity-based model toward a world of increasing abundance—driven by automation, AI, energy scale, and networked coordination—and the profound social, economic, and psychological consequences of that shift.
+## 1. Why central cloud becomes more fragile in an AI-agent era
 
-The core claim is simple:
+### 1.1 The attacker advantage is now *iteration speed*
 
-**When survival is no longer tied to labour, society must reorganise around *agency, meaning, and stewardship*, not employment.**
+Generative AI already lowers the cost of producing credible phishing, exploit variants, and operational playbooks. More importantly, **agentic** systems can *chain* these steps and run them continuously with feedback from results.
 
-## 1. The Scarcity Contract
+Recent reporting highlights accelerating attack conditions and AI being used in real campaigns (e.g., AI-generated decoys).  [oai_citation:0‡Reuters](https://www.reuters.com/world/europe/russian-defense-firms-targeted-by-hackers-using-ai-other-tactics-2025-12-19/m)
 
-### 1.1 Labour as the Access Mechanism
+### 1.2 Central cloud is a “trust concentrator”  
+Cloud concentrates:
+- **Identity** (SSO, OAuth, API keys, service accounts)
+- **Control planes** (IAM, Kubernetes, serverless, infra APIs)
+- **Data gravity** (object stores, warehouses, logs)
+- **Software supply chains** (registries, CI/CD, artifact stores)
 
-In scarcity societies:
-- Resources are finite  
-- Production is slow and human-bound  
-- Coordination is expensive  
+So compromise isn’t just “one org breached”—it can become a **cross-tenant or ecosystem event** when shared dependencies or identity layers are abused.
 
-The solution was labour exchange.
+### 1.3 The attack surface is expanding faster than teams can govern  
+Enterprise AI adoption expands API surfaces, permissions, plugins/tools, and data movement. Security organizations report frequent attacks against AI services and growing API/IAM exposure.
 
-*Labour → Wages → Resources → Survival*
+- [IT Pro](https://www.itpro.com/cloud/cloud-security/cloud-security-teams-are-in-turmoil-as-attack-surfaces-expand-at-an-alarming-rate)
 
-This created the **scarcity contract**:
-- You contribute effort  
-- Society grants you access  
-- Those who cannot work become dependent or excluded  
+## 2. Threat model: the automated attack-agent loop
 
-This model shaped:
-- Class systems  
-- Education (training for employability)  
-- Identity (“What do you do?”)  
-- Moral worth (“hard-working”, “unproductive”)  
+An AI attack agent (or swarm) is best modeled as:
 
-### 1.2 Why the Model Held for So Long
+**Goal → Plan → Execute → Observe → Adapt → Repeat**
 
-The labour-for-resources system worked because:
-- Intelligence was scarce  
-- Energy was costly  
-- Tools amplified effort only marginally  
+Key properties:
+- **Autonomy**: chooses next actions without human prompting
+- **Parallelism**: runs thousands of experiments concurrently
+- **Adaptation**: mutates payloads/paths to evade controls
+- **Tool use**: natively integrates scanners, cloud CLIs, exploit kits, credential checkers, and OSINT
 
-Human labour was the bottleneck.
+This shifts the defender’s problem from “stop a campaign” to “withstand continuous probing.”
 
-## 2. The Collapse of Labour Scarcity
+Regulators and government guidance increasingly emphasize that autonomy and speed change operational risk assumptions.
 
-### 2.1 Automation Breaks the Equation
+- [Reuters](https://www.reuters.com/markets/funds/agentic-ai-race-by-british-banks-raises-new-risks-regulator-2025-12-17/)
 
-Automation and AI remove human labour from the production function:
+## 3. The most dangerous AI-amplified vectors against cloud hubs
 
-*Capital + Energy + Code → Output*
+### 3.1 Identity compromise at scale (the control-plane key)  
+**Why it worsens with agents**: AI boosts phishing quality and can dynamically tailor lures, pretexts, and timing using OSINT; agents can also automate MFA fatigue attempts, token theft workflows, and OAuth consent traps.
 
-Key changes:
-- Marginal cost of production trends toward zero  
-- Intelligence becomes non-rival  
-- Scale no longer requires proportional labour  
+Impact:
+- Stolen SSO session → access to cloud consoles
+- OAuth token abuse → persistence without passwords
+- Service account key exposure → machine-speed exploitation
 
-This does not eliminate all work—but it **breaks the necessity of work for survival**.
+### 3.2 API abuse and “permission-shaped” attacks  
+Modern cloud is an API. Attack agents can:
+- Enumerate endpoints and permissions
+- Discover weak auth or overly-broad scopes
+- Chain misconfigurations into privilege escalation
 
-### 2.2 Abundance Is Uneven, but Real
+Cloud/API attack growth is frequently called out as a leading risk area.
 
-Abundance arrives asymmetrically:
-- Information: already abundant  
-- Energy: scaling rapidly  
-- Goods: increasingly automated  
-- Services: increasingly agentic  
+- [IT Pro](https://www.itpro.com/cloud/cloud-security/cloud-security-teams-are-in-turmoil-as-attack-surfaces-expand-at-an-alarming-rate)
 
-Scarcity shifts from *production* to *distribution and governance*.
+### 3.3 Misconfiguration exploitation as a continuous harvest
 
-## 3. The Identity Crisis of a Post-Labour World
+Attack agents are excellent at:
+- Scanning for exposed buckets, dashboards, admin ports
+- Testing common IaC patterns for privilege mistakes
+- Re-checking targets repeatedly (because configs drift)
 
-### 3.1 When Work Stops Defining Worth
+The key change is **persistence**: agents don’t “finish”—they keep watching for a momentary opening.
 
-If survival is guaranteed:
-- Employment loses its moral status  
-- Productivity no longer equals value  
-- Idleness is no longer failure  
+### 3.4 Supply-chain automation (CI/CD, dependencies, artifacts)
 
-This creates a vacuum.
+Centralized build systems and registries create leverage:
+- Dependency confusion/typosquatting
+- Poisoned container images
+- Compromised CI runners
+- Secrets exfiltration from pipelines
 
-Humans ask:
-- Who am I without my job?  
-- Why should I act at all?  
-- What does contribution mean?  
+An agent can generate convincing PRs, craft malicious packages, and iterate until it finds a project with weaker review gates.
 
-### 3.2 The Psychological Shock
+### 3.5 Data exfiltration with camouflage
 
-Societies built on labour experience:
-- Loss of status hierarchies  
-- Anxiety from unstructured time  
-- Resistance framed as “laziness” or “degeneracy”  
+Agents can:
+- Select high-value datasets automatically (contracts, credentials, PII, key material)
+- Exfiltrate slowly using “normal-looking” API patterns
+- Use living-off-the-land cloud actions (snapshot/copy/export) to blend in
 
-This is not decay—it is **transition pain**.
+### 3.6 “Economic denial of service” (cost attacks)
 
-## 4. From Labour to Agency
+Instead of knocking you offline, agents can:
+- Trigger serverless invocations, GPU jobs, or egress-heavy workflows
+- Inflate bills or exhaust quotas
+- Create internal pressure to disable protections “to restore service”
 
-### 4.1 Agency Replaces Employment
+This is uniquely cloud-shaped: the meter is part of the attack surface.
 
-In an abundant society, the core unit is not the worker, but the **agent**.
+## 4. Systemic risk: multi-tenant blast radius and correlated failure
 
-Agency means:
-- Intentional action  
-- Choice, not coercion  
-- Self-directed contribution  
+Central cloud concentrates not just compute, but **shared assumptions**:
+- Common identity providers
+- Shared third-party libraries and registries
+- Standard reference architectures (same mistakes repeated)
+- Centralized monitoring pipelines (if logs are impaired, everyone is blind)
 
-The new equation becomes:
+That creates correlated failure modes:
+- One exploited zero-day affects thousands of tenants
+- One compromised upstream dependency fans out widely
+- One identity layer incident locks out critical services
 
-*Agency → Impact → Meaning*
+Government threat reporting shows rising volumes of proactive notifications and confirmed incidents—evidence that defenders are being pushed into higher tempo operations.
 
-### 4.2 Contribution Without Compulsion
+- [Cyber Security Australia](https://www.cyber.gov.au/about-us/view-all-content/reports-and-statistics/annual-cyber-threat-report-2024-2025m)
 
-Contribution shifts to:
-- Care  
-- Creation  
-- Stewardship  
-- Exploration  
-- Community building  
-- Knowledge synthesis  
+## 5. What “good” defense looks like when attackers are agentic
 
-These were always valuable—but under-rewarded because they did not scale linearly with profit.
+This is not about one silver bullet. It’s about **changing the shape of the system** so automation can’t chain small wins into total compromise.
 
-## 5. The New Social Architecture
+### 5.1 Assume breach of identity; design for containment
 
-### 5.1 Access as a Right, Not a Reward
+- Mandatory phishing-resistant MFA / passkeys for admins
+- Short-lived tokens, scoped credentials, no long-lived access keys
+- Separate “human admin” and “workload” identities
+- Tiered admin (break-glass accounts stored offline, audited use)
 
-In abundance-oriented systems:
-- Basic resources are guaranteed  
-- Access is decoupled from employment  
-- Safety nets become platforms  
+### 5.2 Make permissions *boring* (least privilege, by default)
 
-The question shifts from:
+- Deny by default; explicit allow
+- Permission boundaries / policy guardrails
+- “No wildcard” policies in production
+- Continuous IAM linting and drift detection
 
-“How do we force participation?”
+### 5.3 Rate-limit, shape traffic, and detect abnormal tool use
 
-to:
+Because agents rely on repeated probing:
+- Strict API throttling per identity, per project, per IP/ASN
+- Behavior-based anomaly detection (new regions, new user agents, unusual sequences)
+- Step-up auth for sensitive API calls (key export, role changes, policy edits)
 
-“How do we enable meaningful engagement?”
+### 5.4 Secure the software supply chain like it’s production infrastructure
 
-### 5.2 Education for Self-Direction
+- Signed artifacts, provenance (SLSA-style), SBOMs
+- Private registries with strict publishing controls
+- CI/CD secrets isolation (OIDC federation over static keys where possible)
+- Mandatory review + policy checks for pipeline changes
 
-Education transitions from:
-- Training for jobs  
-- Obedience to systems  
+### 5.5 Observability that survives compromise
 
-to:
-- Developing agency  
-- Critical thinking  
-- Self-actuation  
-- Ethical reasoning  
-- Collaboration with machines  
+- Immutable logging (write-once / separate account)
+- Cross-account log replication
+- Alerts on log disruption (delete, disable, retention edits)
 
-Learning becomes lifelong, intrinsic, and exploratory.
+### 5.6 “Agentic defense” with human gating
 
-## 6. Governance in an Abundant World
+Attackers will use AI; defenders should too—but safely:
+- Automated triage + correlation, not autonomous “delete everything”
+- Red-team simulation with AI agents (validated in test environments)
+- Continuous control verification (policy-as-code + runtime checks)
 
-### 6.1 The Real Scarcity: Trust and Coordination
+Industry and government guidance is increasingly converging on AI-specific security controls and profiles that map AI risks into standard cybersecurity programs.
 
-Even with abundant resources, society still needs:
-- Rules  
-- Accountability  
-- Shared reality  
-- Conflict resolution  
+- [nvlpubs.nist.gov](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdfm)
 
-Governance shifts from managing labour to managing:
-- Access  
-- Fairness  
-- Impact  
-- Externalities  
+## 6. Practical roadmap for cloud providers and cloud customers
 
-### 6.2 From Control to Orchestration
+### Providers (CSP / major SaaS)
 
-Top-down control models fail at abundance scale.
+1. **Harden the control plane**: extra protections for IAM, org policies, key material.
+2. **Default secure**: secure-by-default templates; “insecure configuration” as an explicit opt-out.
+3. **Attack-surface contracts**: publish and enforce rate limits and abnormal-usage triggers.
+4. **Cross-tenant isolation discipline**: minimize shared components that can cross boundaries.
+5. **Transparent incident primitives**: rapid, customer-actionable guidance when systemic issues occur.
 
-Instead:
-- Systems coordinate agents  
-- Proof replaces paperwork  
-- Transparency replaces hierarchy  
-- Participation replaces compliance  
+### Customers (enterprises / communities / startups)
 
-## 7. Risks and Failure Modes
+1. Treat **identity and CI/CD** as Tier-0 assets.
+2. Implement **continuous posture management** (configs, IAM drift, exposed services).
+3. Replace static keys with **short-lived federated identity** wherever possible.
+4. Practice **blast-radius drills**: “what if an admin token is stolen?”
+5. Budget for **cost-attack controls**: quotas, egress limits, anomaly alerts.
 
-Abundance does not guarantee utopia.
+## 7. Conclusion
 
-Key risks:
-- Concentration of control over automated systems  
-- Passive populations without agency  
-- Cultural stagnation  
-- Meaning collapse  
-- Soft authoritarianism via “benevolent provision”  
+AI-enabled attack agents don’t create entirely new categories of cloud risk; they **weaponize the gaps** already present—over-permissive IAM, sprawling APIs, supply-chain trust, configuration drift—by applying relentless, adaptive iteration.
 
-The antidote is **distributed agency**, not just material supply.
+Central cloud services are uniquely exposed because they are *hubs of trust and control*. The correct response is not to abandon cloud, but to rebuild cloud security assumptions around:
+- containment over prevention,
+- immutable evidence over “best effort logging,”
+- least privilege over convenience,
+- and defensive automation that is verified and human-governed.
 
-## 8. Conclusion: A Civilisational Rite of Passage
-
-Humanity is crossing a threshold similar to:
-- The agricultural revolution  
-- The industrial revolution  
-
-But deeper.
-
-For the first time:
-- Survival is no longer the organising principle  
-- Labour is no longer destiny  
-- Intelligence is no longer scarce  
-
-The question is no longer:
-
-“How do we earn the right to live?”
-
-But:
-
-“What do we choose to become when we no longer have to?”
-
-**The future belongs not to workers or owners—but to *agents with purpose*.**
+### References (selected)
+- ASD ACSC Annual Cyber Threat Report 2024–25  [oai_citation:6‡Cyber Security Australia](https://www.cyber.gov.au/about-us/view-all-content/reports-and-statistics/annual-cyber-threat-report-2024-2025m)  
+- NIST Cybersecurity Framework Profile for AI (draft)  [oai_citation:7‡nvlpubs.nist.gov](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdfm)  
+- NIST Adversarial Machine Learning taxonomy/terminology  [oai_citation:8‡nvlpubs.nist.gov](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdfm)  
+- CISA + partners joint guidance on secure AI integration (AI agents)  [oai_citation:9‡cisa.gov](https://www.cisa.gov/news-events/alerts/2025/12/03/cisa-australia-and-partners-author-joint-guidance-securely-integrating-artificial-intelligencem)  
+- ENISA Threat Landscape 2025  [oai_citation:10‡enisa.europa.eu](https://www.enisa.europa.eu/sites/default/files/2025-10/ENISA%20Threat%20Landscape%202025_0.pdfm)  
+- Reporting on cloud attack-surface expansion and AI-service attacks  [oai_citation:11‡IT Pro](https://www.itpro.com/cloud/cloud-security/cloud-security-teams-are-in-turmoil-as-attack-surfaces-expand-at-an-alarming-ratem)  
 
 ---
 
