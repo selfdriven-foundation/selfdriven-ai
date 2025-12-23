@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Transition - Research - selfdriven AI
-permalink: /research/transition
+title: Systematic Agentic Pressure - Research - selfdriven AI
+permalink: /research/systematic-agentic-pressure
 ---
 
 # The Transformation of Society in the Age of Post-Scarce Resources
@@ -221,3 +221,8 @@ But:
 “What do we choose to become when we no longer have to?”
 
 **The future belongs not to workers or owners—but to *agents with purpose*.**
+
+---
+
+## Related
+- [Governance Risks due to Systematic Agentic Pressure](/research/systematic-agentic-pressure/governance)

@@ -29,6 +29,7 @@ permalink: /research/
 - [Pixels to Proofs](/research/pixels-to-proofs)
 - [The Present as Unspent State](/research/present-as-unspent-state)
 - [The Transition](/research/transition) - The Transformation of Society in the Age of Post-Scarce Resources
+- [Systematic Agentic Pressure](/research/systematic-agentic-pressure)
 - [More Topics/Thoughts](/thoughts/)
 
 ## Books
