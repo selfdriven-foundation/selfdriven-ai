@@ -121,5 +121,136 @@ CISA’s joint guidance explicitly includes AI agents in the security integratio
 
 ---
 
+# Magnitude of Cloud Risk Increase (2023 → 2025)  
+## Board-level assessment of AI-automated attack escalation
+
+---
+
+## Executive summary
+
+Compared to approximately two years ago, the **effective risk exposure of central cloud services has increased by roughly 5×–20×**.
+
+This is **not** because attackers suddenly discovered radically new exploits.  
+It is because **AI-driven automation compresses time, scales coverage, and removes human friction** from the attack lifecycle.
+
+In practical terms:
+> Failures that were once *local, slow, and containable* are now more likely to be *systemic, fast, and compounding*.
+
+## What fundamentally changed in two years
+
+### 1. Kill-chain compression (≈ 5–10× faster)
+
+**2023**
+- Reconnaissance, phishing, exploitation were semi-manual
+- Campaigns had pauses (human review, handoffs)
+- Attackers optimised per-target
+
+**2025**
+- AI agents run continuous recon → exploit → adapt loops
+- Payloads and paths mutate automatically
+- Thousands of targets tested in parallel
+
+**Impact**
+- Defender response windows shrink from hours/days to minutes/hours
+- Human approval cycles are outpaced
+
+### 2. Attack surface coverage expansion (≈ 10×)
+
+**2023**
+- Common ports, known misconfigurations
+- Selective API probing
+
+**2025**
+- Full API graph enumeration
+- Permission-shape discovery (unusual scope combinations)
+- Continuous re-checking as infrastructure drifts
+
+**Impact**
+- “Edge cases” are now systematically found
+- Temporary mistakes become exploitable events
+
+### 3. Identity compromise amplification (≈ 5× impact per failure)
+
+**2023**
+- Credential theft expensive and noisy
+- MFA bypass attempts unsophisticated
+
+**2025**
+- Personalised, context-aware phishing
+- Automated OAuth token abuse and replay
+- Statistical optimisation of MFA fatigue and consent attacks
+
+**Impact**
+- Single identity failure more likely to cascade into control-plane access
+
+### 4. Supply-chain blast-radius growth (≈ 10–20×)
+
+**2023**
+- Supply-chain attacks required deep access or luck
+- Limited lateral scaling
+
+**2025**
+- AI agents generate credible PRs, packages, config changes
+- CI/CD systems probed continuously
+- One weak repo can affect many services
+
+**Impact**
+- Correlated, multi-system failure risk rises sharply
+
+### 5. Persistence and patience (qualitative step-change)
+
+**New condition**
+- Attack agents do not “finish”
+- They watch indefinitely
+- They re-test after every deploy
+- They exploit momentary openings (debug flags, temp roles, rushed fixes)
+
+**Impact**
+- Security must be continuous, not periodic
+- “Mostly secure” no longer holds
+
+---
+
+## Risk multiplier model (board-usable)
+
+Risk can be approximated as:
+
+Risk ≈ Likelihood × Impact
+
+| Dimension | ~2023 | ~2025 | Multiplier |
+|---------|------|-------|-----------|
+Likelihood of compromise | Medium | High | ~3–5× |
+Speed to full compromise | Hours–days | Minutes–hours | ~5–10× |
+Blast radius | Single system | Multi-system / tenant | ~3–5× |
+Detection lag | Manageable | Often outpaced | ~2–3× |
+
+**Combined (non-linear) effect:**  
+**~5×–20× increase in realised risk exposure**
+
+---
+
+## Why this is non-linear
+
+These factors **compound**:
+- Faster compromise means less containment
+- Wider blast radius increases impact per incident
+- Continuous probing increases probability of eventual success
+
+Small control gaps now produce disproportionately large outcomes.
+
+---
+
+## Core board takeaway
+
+> Two years ago, cloud security incidents were usually **local and recoverable**.  
+> Today, the same failures are more likely to be **systemic, fast-moving, and financially material**.
+
+This is why modern cloud governance must treat:
+- **Identity** as Tier-0 infrastructure  
+- **CI/CD and APIs** as production attack surfaces  
+- **Containment and resilience** as primary objectives, not just prevention  
+
+---
+
 ## Related
 - [Systematic Agentic Pressure](/research/systematic-agentic-pressure)
