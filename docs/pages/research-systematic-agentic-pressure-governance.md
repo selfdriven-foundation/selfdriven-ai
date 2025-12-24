@@ -124,8 +124,6 @@ CISA’s joint guidance explicitly includes AI agents in the security integratio
 # Magnitude of Cloud Risk Increase (2023 → 2025)  
 ## Board-level assessment of AI-automated attack escalation
 
----
-
 ## Executive summary
 
 Compared to approximately two years ago, the **effective risk exposure of central cloud services has increased by roughly 5×–20×**.
@@ -134,7 +132,7 @@ This is **not** because attackers suddenly discovered radically new exploits.
 It is because **AI-driven automation compresses time, scales coverage, and removes human friction** from the attack lifecycle.
 
 In practical terms:
-> Failures that were once *local, slow, and containable* are now more likely to be *systemic, fast, and compounding*.
+- Failures that were once *local, slow, and containable* are now more likely to be *systemic, fast, and compounding*.
 
 ## What fundamentally changed in two years
 
@@ -209,8 +207,6 @@ In practical terms:
 - Security must be continuous, not periodic
 - “Mostly secure” no longer holds
 
----
-
 ## Risk multiplier model (board-usable)
 
 Risk can be approximated as:
@@ -227,8 +223,6 @@ Detection lag | Manageable | Often outpaced | ~2–3× |
 **Combined (non-linear) effect:**  
 **~5×–20× increase in realised risk exposure**
 
----
-
 ## Why this is non-linear
 
 These factors **compound**:
@@ -237,8 +231,6 @@ These factors **compound**:
 - Continuous probing increases probability of eventual success
 
 Small control gaps now produce disproportionately large outcomes.
-
----
 
 ## Core board takeaway
 
@@ -249,6 +241,134 @@ This is why modern cloud governance must treat:
 - **Identity** as Tier-0 infrastructure  
 - **CI/CD and APIs** as production attack surfaces  
 - **Containment and resilience** as primary objectives, not just prevention  
+
+---
+
+# Risk Register Entry
+
+## AI-Automated Attacks on Central Cloud Services
+
+### Risk ID
+CR-AI-01
+
+### Risk Title
+Accelerated compromise of central cloud services due to AI-automated attack agents
+
+### Risk Description
+The emergence of AI-automated attack agents materially increases the likelihood, speed, and scale of compromise of central cloud services (identity providers, control planes, CI/CD, APIs, and shared platforms).
+
+Attackers can now continuously and autonomously probe cloud environments, adapt tactics in real time, and chain small control failures (identity, permissions, misconfiguration, supply chain) into systemic compromise.  
+This creates a non-linear increase in operational, financial, regulatory, and reputational risk.
+
+### Risk Owner
+Chief Information Security Officer (CISO)  
+Secondary: Chief Technology Officer (CTO), Chief Risk Officer (CRO)
+
+### Inherent Risk Assessment (before controls)
+
+| Dimension | Rating | Rationale |
+|---------|-------|-----------|
+Likelihood | **High** | Continuous automated probing makes eventual exploitation probable |
+Consequence | **Severe** | Control-plane compromise enables multi-system outage, data loss, and supply-chain spread |
+Velocity | **Very High** | Minutes to hours from initial access to material impact |
+Blast Radius | **Very High** | Cross-system and potentially cross-tenant effects |
+
+**Inherent Risk Level:** **Extreme**
+
+### Key Impact Areas
+
+- **Operational continuity** – service disruption, lockout from cloud admin plane  
+- **Data protection & privacy** – large-scale exfiltration using legitimate APIs  
+- **Financial exposure** – recovery cost, regulatory penalties, economic denial-of-service (cost attacks)  
+- **Reputation & trust** – loss of customer, partner, and regulator confidence  
+- **Governance** – decision cycles outpaced by attack automation
+
+### Primary Risk Drivers
+
+- AI-enabled phishing and identity abuse (SSO, OAuth, tokens)
+- Over-permissive or drifting IAM configurations
+- Centralised CI/CD and software supply chains
+- Expanding API surfaces and automation
+- Human-paced detection and approval processes
+
+### Existing / Required Controls
+
+#### Preventive Controls
+- Phishing-resistant MFA / passkeys for all privileged and Tier-0 identities  
+- Least-privilege IAM with explicit deny and no wildcard policies  
+- Short-lived credentials; elimination of long-lived access keys  
+- Secure-by-default cloud baselines enforced via policy-as-code  
+
+#### Detective Controls
+- Behaviour-based anomaly detection on identity and API usage  
+- Continuous configuration and IAM drift detection  
+- Supply-chain integrity monitoring (signed artifacts, provenance checks)  
+- Alerts on abnormal spend, quota exhaustion, or egress spikes  
+
+#### Corrective / Containment Controls
+- Tiered admin model with break-glass accounts tested regularly  
+- Network and account-level segmentation to limit blast radius  
+- Automated isolation of compromised identities or workloads  
+- Immutable, separate-account logging for forensics and recovery  
+
+### Control Effectiveness (current state)
+
+| Control Area | Effectiveness | Notes |
+|-------------|---------------|-------|
+Identity protection | Medium | MFA present but not fully phishing-resistant |
+IAM governance | Medium | Drift and legacy permissions remain |
+Supply chain security | Low–Medium | Partial signing; CI/CD treated as tooling, not Tier-0 |
+Detection & response | Medium | Human-paced triage limits response speed |
+Resilience & recovery | Medium | Restore plans exist but not exercised under hostile admin scenarios |
+
+### Residual Risk Assessment (after controls)
+
+| Dimension | Rating | Rationale |
+|---------|-------|-----------|
+Likelihood | **Medium** | Automation still probes continuously |
+Consequence | **High** | Blast radius reduced but not eliminated |
+Velocity | **High** | Faster containment, but still rapid |
+Blast Radius | **Medium–High** | Segmentation reduces systemic spread |
+
+**Residual Risk Level:** **High (Board-tolerated only with active mitigation)**
+
+### Risk Appetite Alignment
+❌ Outside standard operational risk tolerance  
+✔ Acceptable only with continuous mitigation and board oversight
+
+### Key Risk Indicators (KRIs)
+
+- % of Tier-0 identities using phishing-resistant MFA  
+- Number of long-lived credentials in production  
+- Count of wildcard or over-privileged IAM policies  
+- Mean time to detect (MTTD) and contain (MTTC) identity incidents  
+- Number of unsigned production artifacts / pipelines  
+- Monthly abnormal cloud spend events
+
+### Treatment Plan / Actions
+
+**Immediate (0–60 days)**
+- Mandate phishing-resistant MFA for all privileged identities  
+- Eliminate long-lived access keys in production  
+- Classify CI/CD and identity as Tier-0 assets  
+
+**Medium term (3–6 months)**
+- Implement full IAM policy-as-code and drift enforcement  
+- Enforce signed builds and protected pipelines  
+- Deploy immutable logging with tamper alerts  
+
+**Ongoing**
+- Quarterly cloud blast-radius exercises (“stolen admin token” scenario)  
+- Continuous red-team / simulation testing using automated tooling  
+- Board-level reporting on KRIs and residual risk trend
+
+### Board Statement (recommended)
+
+- The Board recognises that AI-automated attacks materially increase cloud risk through speed, scale, and persistence.  
+- This risk is accepted only with continuous mitigation, Tier-0 identity protection, and regular assurance reporting.
+
+### Review Frequency
+Quarterly (or after any material cloud or identity incident)
 
 ---
 

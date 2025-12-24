@@ -30,6 +30,7 @@ permalink: /research/
 - [The Present as Unspent State](/research/present-as-unspent-state)
 - [The Transition](/research/transition) - The Transformation of Society in the Age of Post-Scarce Resources
 - [Systematic Agentic Pressure](/research/systematic-agentic-pressure)
+- [Music & Generative Interfaces](/research/music-and-generative-interfaces)
 - [More Topics/Thoughts](/thoughts/)
 
 ## Books
