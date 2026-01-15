@@ -38,7 +38,7 @@ permalink: /tech/
 - [liquid.ai](https://liquid.ai) - On-Device
 - [SIMA 2](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
 - [Brave AI Leo & NEAR AI Trusted Execution Environments](https://www.theregister.com/2025/11/22/brave_leo_trusted_execution_environment/)
-
+- [Bland](https://www.bland.ai/) - Call Answering
 ### Hardware
 - [Figure AI (Humanoids)](https://www.figure.ai/)
 - [Etched](https://www.etched.com/)
