@@ -89,7 +89,8 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - Represent everything as [.skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview).
 - As everything compresses back to you, all the matters is identity supported connections
 - An hour is no longer an hour
-- Work rituals are expensive 
+- Work rituals are expensive
+- Wurstion the defaults 
 
 ---
 
