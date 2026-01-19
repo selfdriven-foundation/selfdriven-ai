@@ -90,6 +90,7 @@ permalink: /research/
 - [antischeming.ai/snippets](https://www.antischeming.ai/snippets)
 - [Alan's Conservative Countdown to AGI](https://lifearchitect.ai/agi/)
 - [LawZero](https://lawzero.org)
+- [willaireplaceme.org](https://www.willaireplaceme.org/)
 
 ## Benchmarks & Arenas
 - [Alpha Arena](https://nof1.ai/) - trading .
