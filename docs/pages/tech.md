@@ -19,7 +19,6 @@ permalink: /tech/
 
 ### Kits
 - [openAI Apps SDK](https://developers.openai.com/apps-sdk)
-- [moltbot](https://molt.bot) - Personal AI Assitant
 
 ### Foundation Services
 - [OpenAI](https://openai.com)
