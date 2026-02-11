@@ -11,3 +11,5 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+include:
+  - SKILL.md
