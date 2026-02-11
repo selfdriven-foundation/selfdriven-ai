@@ -1,8 +1,9 @@
-name: Build and deploy (Jekyll from /docs)
+name: Deploy Jekyll site from /docs
 
 on:
   push:
     branches: ["main"]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -21,21 +22,23 @@ jobs:
 
       - uses: actions/configure-pages@v5
 
-      - uses: ruby/setup-ruby@v1
+      # Theme-only Jekyll build (no Gemfile needed)
+      - name: Build with GitHub Pages Jekyll
+        uses: actions/jekyll-build-pages@v1
         with:
-          ruby-version: "3.2"
-          bundler-cache: true
+          source: ./docs
+          destination: ./_site
 
-      - name: Build Jekyll (source: /docs)
-        run: bundle exec jekyll build --source docs --destination _site
-
-      - name: Publish raw markdown endpoints
+      # OPTIONAL: only if you created docs/raw/SKILL.md
+      - name: Copy raw markdown endpoints
         run: |
-          cp docs/raw/SKILL.md _site/SKILL.md
+          if [ -f "./docs/raw/SKILL.md" ]; then
+            cp ./docs/raw/SKILL.md ./_site/SKILL.md
+          fi
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: _site
+          path: ./_site
 
   deploy:
     runs-on: ubuntu-latest
