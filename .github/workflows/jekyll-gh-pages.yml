@@ -17,23 +17,35 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/configure-pages@v5
 
-      # Theme-only Jekyll build (no Gemfile needed)
+      # Build theme-only Jekyll site from /docs
       - name: Build with GitHub Pages Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./docs
           destination: ./_site
 
-      # OPTIONAL: only if you created docs/raw/SKILL.md
-      - name: Copy raw markdown endpoints
+      # Ensure we can modify _site (fix container ownership)
+      - name: Fix permissions
+        run: sudo chown -R $USER:$USER ./_site
+
+      # Create .well-known and copy artifacts
+      - name: Publish agent endpoints
         run: |
-          sudo chown -R $USER:$USER ./_site
-          cp ./docs/raw/SKILL.md ./_site/SKILL.md
+          mkdir -p ./_site/.well-known
+
+          if [ -f "./docs/_site/agent.json" ]; then
+            cp ./docs/_site/agent.json ./_site/.well-known/agent.json
+          fi
+
+          if [ -f "./docs/_site/SKILL.md" ]; then
+            cp ./docs/_site/SKILL.md ./_site/.well-known/SKILL.md
+          fi
 
       - uses: actions/upload-pages-artifact@v3
         with:

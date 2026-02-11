@@ -30,7 +30,8 @@
 - [Contributors/Maintainers](MAINTAINERS.md)
 
 ----
-[selfdriven.ai](https://selfdriven.ai)
-
+- [selfdriven.ai](https://selfdriven.ai)
+- [SKILL.md](https://selfdriven.ai/.wellknown/SKILL.md)
+- [agent.json](https://selfdriven.ai/.wellknown/agent.json)
 
 
