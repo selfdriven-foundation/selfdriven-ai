@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: selfdriven AI
 ---
 
 ## Generative AI and Self-Actuating Communities
