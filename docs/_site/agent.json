@@ -33,7 +33,7 @@
       "description": "Decision framework for when to build vs wait in a rapidly changing AI landscape."
     }
   ],
-  "documentationUrl": "https://www.selfdriven.ai/SKILL.md",
+  "documentationUrl": "https://www.selfdriven.ai/.well-known/SKILL.md",
   "defaultInputModes": ["text/plain"],
   "defaultOutputModes": ["text/plain", "text/markdown"]
 }

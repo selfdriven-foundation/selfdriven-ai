@@ -31,7 +31,7 @@
 
 ----
 - [selfdriven.ai](https://selfdriven.ai)
-- [SKILL.md](https://selfdriven.ai/.wellknown/SKILL.md)
-- [agent.json](https://selfdriven.ai/.wellknown/agent.json)
+- [SKILL.md](https://selfdriven.ai/.well-known/SKILL.md)
+- [agent.json](https://selfdriven.ai/.well-known/agent.json)
 
 
