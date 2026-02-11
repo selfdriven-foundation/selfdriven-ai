@@ -13,4 +13,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
 include:
-  - xskill.md
+  - SKILL.md
