@@ -32,9 +32,8 @@ jobs:
       # OPTIONAL: only if you created docs/raw/SKILL.md
       - name: Copy raw markdown endpoints
         run: |
-          if [ -f "./docs/raw/SKILL.md" ]; then
-            cp ./docs/raw/SKILL.md ./_site/SKILL.md
-          fi
+          sudo chown -R $USER:$USER ./_site
+          cp ./docs/raw/SKILL.md ./_site/SKILL.md
 
       - uses: actions/upload-pages-artifact@v3
         with:
