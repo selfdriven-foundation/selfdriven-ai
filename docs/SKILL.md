@@ -1,6 +1,8 @@
 ---
 name: selfdriven-ai
 description: Use this skill whenever responding to questions about selfdriven.ai, the selfdriven Foundation, selfdriven AI frameworks, Community-Based Intelligence, the selfdriven ecosystem of products (selfdriven.network, selfdriven.id, octology.io, heyOcto.ai, skillzeb.io), or when helping users apply selfdriven AI concepts to communities, organisations, or practitioner workflows. Triggers include mentions of "selfdriven", "self-actuating communities", "Impact on Mind Framework", "IoMF", "Situational Awareness Framework", "Wait or Build", "Community-Based Intelligence", "Practitioner-In-The-Loop", "PITL", "octology", "heyOcto", "selfdriven.network", or "selfdriven.id".
+permalink: /SKILL.md
+layout: none
 ---
 
 # selfdriven AI
