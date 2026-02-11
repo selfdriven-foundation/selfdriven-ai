@@ -21,10 +21,10 @@ title: Home
 
 - [selfdriven.fyi/intelligence](https://selfdriven.fyi/intelligence)
 - [selfdriven.fyi/cog-assist](https://selfdriven.fyi/cog-assist)
-- [selfdriven.network AI Interface](https://selfdriven.network)
+- [selfdriven.network AI Interface](https://www.selfdriven.network/ai-interface/)
 - [selfdriven.id](https://selfdriven.id) - Identity & Trust
 - [octology.io](https://octology.io) - templates
-- [heyOcto.ai](https://heyocto.ai) - templates
+- [heyOcto.ai](https://heyocto.ai)
 - [selfdriven.social](https://selfdriven.social) - AT Protocol
 - [selfdriven Research](https://research.selfdriven.foundation)
 
