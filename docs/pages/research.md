@@ -20,7 +20,8 @@ permalink: /research/
 - [David Shapiro](https://www.youtube.com/@DaveShap) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [Dylan Curious](https://www.youtube.com/@dylan_curious) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 - [Wes Roth](https://www.youtube.com/@WesRoth) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
-- [AI News by Peter D & Co.](https://YouTube.com/@peterdiamandis) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
+- [Peter D & Co.](https://YouTube.com/@peterdiamandis) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
+- [Tom Bilyeu](https://YouTube.com/@TomBilyeu) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [Google DeepMind](https://www.youtube.com/@googledeepmind) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Topics
