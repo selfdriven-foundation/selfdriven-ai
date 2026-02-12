@@ -14,6 +14,15 @@ permalink: /research/
 - [Wait or Build Framework](/wait-or-build-framework/)
 - [Input, Injected-Intelligence, Output Framework](/input-injected-intelligence-output-framework)
 
+## Channels
+- [AI News & Strategy Daily by Nate B Jones](https://www.youtube.com/@NateBJones) <span style="color:#888888;font-size:0.68rem;">[IoMF:1]</span>
+- [Alex Wissner-Gross](https://x.com/alexwg) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
+- [David Shapiro](https://www.youtube.com/@DaveShap) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
+- [Dylan Curious](https://www.youtube.com/@dylan_curious) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
+- [Wes Roth](https://www.youtube.com/@WesRoth) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
+- [AI News by Peter D & Co.](https://YouTube.com/@peterdiamandis) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
+- [Google DeepMind](https://www.youtube.com/@googledeepmind) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
+
 ## Topics
 - [How Can Generative AI Support Communities to Self-Actuate?](/research/ai-support-communities)
 - [Emerging importance of Games](/games)
@@ -44,16 +53,6 @@ permalink: /research/
 - [The Last Economy](https://thelasteconomy.com) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [Mo Gawdat; Alive](https://mogawdat.substack.com/p/alive) <span style="color:#888888;font-size:0.68rem;">[IoMF:2/3?]</span>
 - [Playing with Reality](https://www.penguinrandomhouse.com/books/700440/playing-with-reality-by-kelly-clancy/) <span style="color:#888888;font-size:0.68rem;">[IoMF:2?]</span>
-
-## Channels
-- [AI News & Strategy Daily by Nate B Jones](https://www.youtube.com/@NateBJones) <span style="color:#888888;font-size:0.68rem;">[IoMF:1]</span>
-- [Alex Wissner-Gross](https://x.com/alexwg) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
-- [David Shapiro](https://www.youtube.com/@DaveShap) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
-- [Dylan Curious](https://www.youtube.com/@dylan_curious) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
-- [Wes Roth](https://www.youtube.com/@WesRoth) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
-- [AI News by Peter D & Co.](https://YouTube.com/@peterdiamandis) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
-- [Google DeepMind](https://www.youtube.com/@googledeepmind) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
-
 
 ## Videos
 - [Yoshua Bengio with Steven Bartlett](https://youtu.be/zQ1POHiR8m8) <span style="color:#888888;font-size:0.68rem;">[IoMF:3+]</span>
