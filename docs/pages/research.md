@@ -15,7 +15,7 @@ permalink: /research/
 - [Input, Injected-Intelligence, Output Framework](/input-injected-intelligence-output-framework)
 
 ## Channels
-- [AI News & Strategy Daily by Nate B Jones](https://www.youtube.com/@NateBJones) <span style="color:#888888;font-size:0.68rem;">[IoMF:1]</span>
+- [Nate B Jones](https://www.youtube.com/@NateBJones) <span style="color:#888888;font-size:0.68rem;">[IoMF:1]</span>
 - [Alex Wissner-Gross](https://x.com/alexwg) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [David Shapiro](https://www.youtube.com/@DaveShap) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [Dylan Curious](https://www.youtube.com/@dylan_curious) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
