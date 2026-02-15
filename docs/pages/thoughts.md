@@ -91,6 +91,7 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - An hour is no longer an hour
 - Work rituals are expensive
 - Question the defaults ("the default config.txt")
+- Is authentic challenge in the age abundance about the resetting of some of our memories every day 30 days?
 - There are thousands of dimensions to see a situation, a human mind selects a few<sup>*</sup>, AI sees all of them. <sup>*</sup>Why different humans see things differently.
 - Be your controller, or expect to be controlled
 
