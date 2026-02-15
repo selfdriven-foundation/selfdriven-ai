@@ -40,6 +40,8 @@ permalink: /tech/
 - [Brave AI Leo & NEAR AI Trusted Execution Environments](https://www.theregister.com/2025/11/22/brave_leo_trusted_execution_environment/)
 - [Bland](https://www.bland.ai/) - Call Answering
 - [AgentMail](https://www.agentmail.to/)
+- [AgentZero](https://www.agent-zero.ai/#hero)
+- [OpenClaw](https://openclaw.ai)
 
 ### Hardware
 - [Figure AI (Humanoids)](https://www.figure.ai/)
