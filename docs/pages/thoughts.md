@@ -92,6 +92,7 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - Work rituals are expensive
 - Question the defaults ("the default config.txt")
 - There are thousands of dimensions to see a situation, a human mind selects a few<sup>*</sup>, AI sees all of them. <sup>*</sup>Why different humans see things differently.
+- Be your controller, or expect to be controlled
 
 ---
 
