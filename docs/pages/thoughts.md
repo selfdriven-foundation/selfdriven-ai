@@ -90,7 +90,8 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - As everything compresses back to you, all the matters is identity supported connections
 - An hour is no longer an hour
 - Work rituals are expensive
-- Wurstion the defaults 
+- Question the defaults ("the default config.txt")
+- There are thousands of dimensions to see a situation, a human mind selects a few<sup>*</sup>, AI sees all of them. <sup>*</sup>Why different humans see things differently.
 
 ---
 
