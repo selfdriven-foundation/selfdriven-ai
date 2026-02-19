@@ -96,6 +96,7 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - Be your controller, or expect to be controlled
 - Fact checking has changed to reality checking
 - Affinity as a way to deal with infinity 
+- It’s not about intelligence, it’s how you assemble it.
 
 ---
 
