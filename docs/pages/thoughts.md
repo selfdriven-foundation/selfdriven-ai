@@ -99,6 +99,8 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - It’s not about intelligence, it’s how you assemble it.
 - Apps are now Intelligence reduction systems so the inorganic (“AI”) can communicate with the organic (“us”)
 - Crisis-mode: Research driven simulation of the crashing waves of universal non-organic intelligence 
+- In 2025, humans got to pat the cub; now, in 2026, they’re trying to control the lion.
+- In 2025, we patted the cub. In 2026, we’re trying to control the lion.
 
 ---
 
