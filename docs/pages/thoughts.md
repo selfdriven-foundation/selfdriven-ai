@@ -97,10 +97,12 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - Fact checking has changed to reality checking
 - Affinity as a way to deal with infinity 
 - It’s not about intelligence, it’s how you assemble it.
+- Apps are now Intelligence reduction systems so the inorganic (“AI”) can communicate with the organic (“us”)
+- Crisis-mode: Research driven simulation of the crashing waves of universal non-organic intelligence 
 
 ---
 
-## Thoughts as Narrative
+## Thoughts as Narrative (2025)
 
 We are living in an age where intelligence itself is under question. For centuries, humans assumed intelligence was our exclusive domain—a gift that set us apart. Now, we are confronted with something unsettling: AI is too intelligent to replace humans. Not because it lacks ability, but because it reflects back to us what we never fully understood about ourselves.
 
