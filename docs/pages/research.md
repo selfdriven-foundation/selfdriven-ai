@@ -15,6 +15,7 @@ permalink: /research/
 - [Input, Injected-Intelligence, Output Framework](/input-injected-intelligence-output-framework)
 
 ## Channels
+- [Peter McCormack](https://www.youtube.com/@PeterMcCormackShow) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [Nate B Jones](https://www.youtube.com/@NateBJones) <span style="color:#888888;font-size:0.68rem;">[IoMF:1]</span>
 - [Alex Wissner-Gross](https://x.com/alexwg) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [David Shapiro](https://www.youtube.com/@DaveShap) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
@@ -58,6 +59,7 @@ permalink: /research/
 - [Playing with Reality](https://www.penguinrandomhouse.com/books/700440/playing-with-reality-by-kelly-clancy/) <span style="color:#888888;font-size:0.68rem;">[IoMF:2?]</span>
 
 ## Videos
+- [Jeff Booth, The Final Reset](https://youtu.be/lhHKljqRa-M)
 - [Yoshua Bengio with Steven Bartlett](https://youtu.be/zQ1POHiR8m8) <span style="color:#888888;font-size:0.68rem;">[IoMF:3+]</span>
 - [Mustafa Suleyman of Microsoft AI](https://youtu.be/XWGnWcmns_M) <span style="color:#888888;font-size:0.68rem;">[IoMF:2+]</span>
 - [Dennis of DeepMind & Hannah](https://youtu.be/PqVbypvxDto) <span style="color:#888888;font-size:0.68rem;">[IoMF:2+]</span>
