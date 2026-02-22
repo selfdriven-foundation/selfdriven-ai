@@ -101,6 +101,17 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - Crisis-mode: Research driven simulation of the crashing waves of universal non-organic intelligence 
 - In 2025, humans got to pat the cub; now, in 2026, they’re trying to control the lion.
 - In 2025, we patted the cub. In 2026, we’re trying to control the lion.
+- We are just token conductors
+- Protocols are all the matter in a high-intelligence society
+- AI has freed credentialing (low-intelligence skill recognition) from the education system.
+- We no longer need permissioned capital i.e Venture Capitalists.
+- Broadcasting is dead - narrowcasting is here.
+- It’s now not about intelligence, but how you assemble it.
+- Human intention not capital.
+- Quality code = No human coding/review.
+- Humans are a coded entity based on a genesis config file (DNA)
+- Be the controller not the controlled
+- It’s time to uninstall the 20w computers from commercial organisations - the impedence is too high.
 
 ---
 

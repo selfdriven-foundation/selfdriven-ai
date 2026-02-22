@@ -42,6 +42,8 @@ permalink: /tech/
 - [AgentMail](https://www.agentmail.to/)
 - [AgentZero](https://www.agent-zero.ai/#hero)
 - [OpenClaw](https://openclaw.ai)
+- [Google Pomelli](https://labs.google.com/pomelli/about/) - on-brand content for your businesses.
+- [Google Stick](https://stitch.withgoogle.com) - App Design
 
 ### Hardware
 - [Figure AI (Humanoids)](https://www.figure.ai/)
