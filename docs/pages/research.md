@@ -45,6 +45,7 @@ permalink: /research/
 
 ## Reading (Books)
 - [Solve Everything](https://solveeverything.org)
+- [Jeff Booth, The Price of Everything](https://www.jeffreybooth.com) - Why Deflation is Key to an Abundant Future
 - [Yuval Noah Harari; Nexus](https://www.ynharari.com/book/nexus/) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 - [Henry Kissinger; Genesis - AI & The Human Spirit](https://www.hachettebookgroup.com/titles/henry-a-kissinger/genesis/9780316581295/) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 - [Mo Gawdat; Scary Smart](https://www.mogawdat.com/scary-smart) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
