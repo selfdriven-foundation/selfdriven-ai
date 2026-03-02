@@ -14,6 +14,9 @@ permalink: /research/
 - [Wait or Build Framework](/wait-or-build-framework/)
 - [Input, Injected-Intelligence, Output Framework](/input-injected-intelligence-output-framework)
 
+## Benchmarks
+- [ARC-AGI-2](https://arcprize.org/leaderboard)
+
 ## Channels
 - [Peter McCormack](https://www.youtube.com/@PeterMcCormackShow) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
 - [Nate B Jones](https://www.youtube.com/@NateBJones) <span style="color:#888888;font-size:0.68rem;">[IoMF:1]</span>
