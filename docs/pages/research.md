@@ -16,6 +16,7 @@ permalink: /research/
 
 ## Benchmarks
 - [ARC-AGI-2](https://arcprize.org/leaderboard)
+- [LLM Keaderboard](https://llmbase.ai/leaderboard/newest/)
 
 ## Channels
 - [Peter McCormack](https://www.youtube.com/@PeterMcCormackShow) <span style="color:#888888;font-size:0.68rem;">[IoMF:3]</span>
