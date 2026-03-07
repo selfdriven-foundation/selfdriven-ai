@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Wait or Build? - selfdrivenAI
 permalink: /wait-or-build-framework/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Who Is I - Research - selfdrivenAI
 permalink: /research/who-is-i
 ---

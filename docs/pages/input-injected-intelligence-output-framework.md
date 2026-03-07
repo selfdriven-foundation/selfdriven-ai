@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Input, Injected-Intelligence, Output - selfdriven AI
 permalink: /input-injected-intelligence-output-framework
 ---

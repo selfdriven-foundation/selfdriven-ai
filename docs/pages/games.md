@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Emerging importance of Games - selfdriven AI
 permalink: /games
 ---

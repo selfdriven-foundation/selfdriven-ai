@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Ratings using Impact on Mind Framework - selfdrivenAI
 permalink: /impact-on-mind-framework/research-ratings/
 ---

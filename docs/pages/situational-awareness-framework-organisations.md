@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Situational-awareness-framework - selfdrivenAI
 permalink: /situational-awareness-framework/organisations/
 ---

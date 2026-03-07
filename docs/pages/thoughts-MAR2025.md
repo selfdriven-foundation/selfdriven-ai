@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Thoughts 1 (AUG2025) - selfdrivenAI
 permalink: /thoughts/1
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: The Present as Unspent State - Research - selfdriven AI
 permalink: /research/present-as-unspent-state
 ---

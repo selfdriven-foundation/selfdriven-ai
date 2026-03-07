@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Societal Metamorphosis - Research - selfdrivenAI
 subtitle: "Do the rules for the Caterpillar apply to the Butterfly?"
 tags:

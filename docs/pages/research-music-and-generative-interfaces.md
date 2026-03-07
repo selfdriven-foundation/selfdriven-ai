@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Music and Generative Interfaces - Research - selfdrivenAI
 permalink: /research/music-and-generative-interfaces
 ---

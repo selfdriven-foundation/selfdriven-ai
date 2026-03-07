@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Useful Tasks - Research - selfdrivenAI
 subtitle: "Can inorganic intelligence do useful tasks?"
 tags:

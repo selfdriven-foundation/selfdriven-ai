@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Pixels to Proofs - Research - selfdrivenAI
 description: "How We Rebuild Trust in a Synthetic World"
 permalink: /research/pixels-to-proofs

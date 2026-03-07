@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: How Can Generative AI Support Communities to Self-Actuate? - selfdriven AI
 permalink: /research/ai-support-communities
 ---

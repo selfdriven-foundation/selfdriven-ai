@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Agents vs Orchestration - selfdriven AI
 permalink: /research/agents-vs-orchestration
 ---

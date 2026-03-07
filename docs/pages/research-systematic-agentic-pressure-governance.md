@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Governance Risks - Systematic Agentic Pressure - Research - selfdriven AI
 permalink: /research/systematic-agentic-pressure/governance
 ---

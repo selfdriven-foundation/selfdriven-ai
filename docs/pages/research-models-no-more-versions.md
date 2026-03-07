@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: No More Versions - selfdrivenAI
 permalink: /research/no-more-versions/
 ---

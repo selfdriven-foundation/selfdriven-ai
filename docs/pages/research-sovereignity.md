@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Sovereignity - Research - selfdrivenAI
 permalink: /research/sovereignity
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Friction - Research - selfdrivenAI
 subtitle: "Can inorganic intelligence do useful work?"
 tags:
