@@ -35,7 +35,7 @@ jobs:
         run: sudo chown -R $USER:$USER ./_site
 
       # Create .well-known and copy artifacts
-       - name: Publish agent endpoints
+      - name: Publish agent endpoints
         run: |
           mkdir -p ./_site/.well-known
           if [ -d "./docs/_well-known" ]; then
