@@ -244,4 +244,9 @@ Chat with your preferred GenAI about the ideas raised in this short paper.
 
 ---
 
+- [Increasing Human Degrees of Freedom in the Age of Artificial Intelligence](/research/increasing-human-degrees-of-freedom)
+- [How Can Generative AI Support Communities to Self-Actuate?](/research/ai-support-communities)
+- [Societal Collapse in the Age of Deflationary Technology](/research/societal-collapse-deflationary-technology)
+- [System Leverage](/research/system-leverage)
+
 *"be curious, be caring"*
