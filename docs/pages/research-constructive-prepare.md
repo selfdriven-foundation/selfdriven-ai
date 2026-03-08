@@ -21,7 +21,7 @@ Rather than responding with fear, individuals and communities can engage in cons
 
 Preparing across these dimensions increases the capacity of individuals and families to adapt to technological disruption while maintaining agency, stability, and purpose.
 
----
+
 
 ## 1. The Context: Deflationary Technology and System Stress
 
@@ -43,7 +43,7 @@ These dynamics can produce societal stress if institutions do not adapt quickly.
 
 However, individuals and families are not powerless in this transition. Preparation significantly increases resilience.
 
----
+
 
 ## 2. Preparing the Mind
 
@@ -94,7 +94,7 @@ Key psychological practices include:
 
 A resilient mindset transforms disruption into exploration rather than threat.
 
----
+
 
 ## 3. Preparing Finances
 
@@ -147,7 +147,7 @@ Examples:
 
 Assets create income independent of direct labour.
 
----
+
 
 ## 4. Preparing the Family
 
@@ -207,7 +207,7 @@ Communities can provide:
 - Emotional support
 - Cooperative problem solving
 
----
+
 
 ## 5. A Practical Preparation Framework
 
@@ -221,7 +221,7 @@ Preparation does not eliminate uncertainty.
 
 However, it dramatically increases degrees of freedom — the ability to respond constructively when circumstances change.
 
----
+
 
 ## 6. Conclusion
 
