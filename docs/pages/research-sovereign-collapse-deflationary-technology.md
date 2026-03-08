@@ -293,3 +293,4 @@ Resolving this contradiction may determine whether technological progress leads 
 ---
 
 - [Societal Collapse in the Age of Deflationary Technology (Deeper)](/research/deeper/societal-collapse-deflationary-technology)
+- [System Leverage](/research/system-leverage)

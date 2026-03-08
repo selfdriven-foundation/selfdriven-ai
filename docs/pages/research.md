@@ -31,6 +31,7 @@ permalink: /research/
 
 ## Topics
 - [Societal Collapse in the Age of Deflationary Technology](/research/societal-collapse-deflationary-technology)
+- [System Leverage](/research/system-leverage)
 - [How Can Generative AI Support Communities to Self-Actuate?](/research/ai-support-communities)
 - [Emerging importance of Games](/games)
 - [Practitioner-In-The-Loop (PITL)](/research/practitioner-in-the-loop/)
