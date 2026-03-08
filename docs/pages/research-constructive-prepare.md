@@ -5,7 +5,7 @@ permalink: /research/constructive-preparation
 ---
 # Constructive Preparation in an Age of Deflationary Technology
 
-**Preparing the Mind, Finances, and Family for Economic Transformation**
+*Preparing the Mind, Finances, and Family for Economic Transformation*
 
 > The following outlines general ideas. You should consider your personal circumstances before implementing any of the ideas in this short paper - particularly with regard to the well-being of yourself and your family.
 
