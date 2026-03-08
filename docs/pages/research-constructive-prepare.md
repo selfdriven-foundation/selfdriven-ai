@@ -240,7 +240,7 @@ It will be determined by how prepared people are to live with it.
 
 ### 7. Suggestion
 
-Chat with your preferred GenAI about the ideas raised in this short paper.
+Chat with your preferred AI Chatbot about the ideas raised in this short paper.
 
 ---
 
