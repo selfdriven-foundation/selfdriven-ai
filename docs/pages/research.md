@@ -4,9 +4,7 @@ title: Research - selfdrivenAI
 permalink: /research/
 ---
 
-## Research into Generative AI to support human/purpose driven communities.
-
-"The only human skill is human-connection."
+# Research into Generative AI to support human/purpose driven communities.
 
 ## Frameworks
 - [IoMF, Impact on Mind Framework](/impact-on-mind-framework/)
@@ -114,5 +112,8 @@ permalink: /research/
 
 ## Transformations
 - Traditional Education: "To Create Practical Spaces For Young People To Practice Caring for Self & Others In Regards to Health, Building, Food, Play & Learning"
-
 - Traditional Communities: "To create intelligent, cooperative spaces where communities practice self-organisation — caring for people, place, and purpose — through trusted digital actions in health, housing, food, work, and learning."
+
+---
+
+"The only human skill is human-connection."
