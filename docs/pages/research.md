@@ -30,6 +30,7 @@ permalink: /research/
 - [Google DeepMind](https://www.youtube.com/@googledeepmind) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Topics
+- [Societal Collapse in the Age of Deflationary Technology](/research/societal-collapse-deflationary-technology)
 - [How Can Generative AI Support Communities to Self-Actuate?](/research/ai-support-communities)
 - [Emerging importance of Games](/games)
 - [Practitioner-In-The-Loop (PITL)](/research/practitioner-in-the-loop/)
