@@ -8,6 +8,7 @@ permalink: /research/
 
 "The only human skill is human-connection."
 
+## Frameworks
 - [IoMF, Impact on Mind Framework](/impact-on-mind-framework/)
 - [Detailed IoMF ratings for research resources](/impact-on-mind-framework/research-ratings/)
 - [Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/)
@@ -30,6 +31,7 @@ permalink: /research/
 - [Google DeepMind](https://www.youtube.com/@googledeepmind) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Topics
+- [Increasing Human Degrees of Freedom in the Age of Artificial Intelligence](/research/increasing-human-degrees-of-freedom)
 - [Societal Collapse in the Age of Deflationary Technology](/research/societal-collapse-deflationary-technology)
 - [System Leverage](/research/system-leverage)
 - [How Can Generative AI Support Communities to Self-Actuate?](/research/ai-support-communities)
