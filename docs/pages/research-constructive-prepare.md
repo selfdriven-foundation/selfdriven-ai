@@ -141,7 +141,6 @@ Instead of relying solely on wages, individuals can build assets that produce va
 
 Examples:
 - Ownership of digital products
-- Intellectual property
 - Productive investments
 - Equity participation in networks or communities
 
