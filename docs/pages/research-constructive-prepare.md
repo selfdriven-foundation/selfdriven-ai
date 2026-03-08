@@ -7,6 +7,8 @@ permalink: /research/constructive-preparation
 
 **Preparing the Mind, Finances, and Family for Economic Transformation**
 
+> The following outlines general ideas. You should consider your personal circumstances before implementing any of the suggestions in this short paper—particularly with regard to the well-being of yourself and your family.
+
 ## Abstract
 
 Artificial intelligence and automation represent one of the most powerful technological transformations in human history. These technologies have strong deflationary characteristics: they reduce the cost of production, substitute computational power for labour, and increase productivity across many industries.
@@ -235,3 +237,11 @@ Constructive preparation — strengthening the mind, finances, and family — al
 The future will not simply be determined by technology.
 
 It will be determined by how prepared people are to live with it.
+
+### 7. Suggestion
+
+Chat with your preferred GenAI about the ideas raised in this short paper.
+
+---
+
+*"be curious, be caring"*
