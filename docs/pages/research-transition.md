@@ -221,3 +221,8 @@ But:
 “What do we choose to become when we no longer have to?”
 
 **The future belongs not to workers or owners—but to *agents with purpose*.**
+
+---
+
+- [Constructive Preparation](/research/constructive-preparation)
+- [Increasing Human Degrees of Freedom in the Age of Artificial Intelligence](/research/increasing-human-degrees-of-freedom)

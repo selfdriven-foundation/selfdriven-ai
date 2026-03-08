@@ -295,3 +295,8 @@ If this contradiction remains unresolved, the resulting tensions may destabilize
 The challenge of the coming decades will be determining how societies adapt to an era in which abundance can be produced without widespread human labour participation.
 
 Whether this transition leads to widespread prosperity or systemic collapse will depend on how economic institutions evolve in response to technological change.
+
+---
+
+- [Constructive Preparation](/research/constructive-preparation)
+- [Increasing Human Degrees of Freedom in the Age of Artificial Intelligence](/research/increasing-human-degrees-of-freedom)

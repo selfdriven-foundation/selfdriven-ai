@@ -288,3 +288,8 @@ This phenomenon—**system leverage**—suggests that the impact of automation m
 The challenge facing modern societies is not simply the number of jobs replaced by AI, but **which jobs are replaced first**.
 
 Understanding and managing these leverage points may determine whether technological progress leads to widespread prosperity or systemic instability.
+
+---
+
+- [Constructive Preparation](/research/constructive-preparation)
+- [Increasing Human Degrees of Freedom in the Age of Artificial Intelligence](/research/increasing-human-degrees-of-freedom)

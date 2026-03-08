@@ -106,3 +106,8 @@ It doesn’t ask permission—only adaptation.
 Most importantly, it doesn’t require everyone to transform at once; it only requires enough imaginal cells to reshape the pattern.
 
 From there, nature does the rest.
+
+---
+
+- [Constructive Preparation](/research/constructive-preparation)
+- [Increasing Human Degrees of Freedom in the Age of Artificial Intelligence](/research/increasing-human-degrees-of-freedom)
