@@ -32,6 +32,7 @@ permalink: /research/
 - [Increasing Human Degrees of Freedom in the Age of Artificial Intelligence](/research/increasing-human-degrees-of-freedom)
 - [Societal Collapse in the Age of Deflationary Technology](/research/societal-collapse-deflationary-technology)
 - [System Leverage](/research/system-leverage)
+- [Constructive Preparation](/research/constructive-preparation)
 - [How Can Generative AI Support Communities to Self-Actuate?](/research/ai-support-communities)
 - [Emerging importance of Games](/games)
 - [Practitioner-In-The-Loop (PITL)](/research/practitioner-in-the-loop/)
