@@ -292,11 +292,4 @@ Resolving this contradiction may determine whether technological progress leads 
 
 ---
 
-## Future Expansion
-
-This work could be extended into a larger research paper including:
-
-- formal economic models  
-- historical parallels (Roman debt crises, the Great Depression)  
-- charts illustrating labour displacement cascades  
-- analysis of **AI + system leverage dynamics**  
+- [Societal Collapse in the Age of Deflationary Technology (Deeper)](/research/deeper/societal-collapse-deflationary-technology)
