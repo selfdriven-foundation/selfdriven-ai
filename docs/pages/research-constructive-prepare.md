@@ -7,8 +7,6 @@ permalink: /research/constructive-preparation
 
 **Preparing the Mind, Finances, and Family for Economic Transformation**
 
----
-
 ## Abstract
 
 Artificial intelligence and automation represent one of the most powerful technological transformations in human history. These technologies have strong deflationary characteristics: they reduce the cost of production, substitute computational power for labour, and increase productivity across many industries.
