@@ -7,7 +7,7 @@ permalink: /research/constructive-preparation
 
 **Preparing the Mind, Finances, and Family for Economic Transformation**
 
-> The following outlines general ideas. You should consider your personal circumstances before implementing any of the suggestions in this short paper—particularly with regard to the well-being of yourself and your family.
+> The following outlines general ideas. You should consider your personal circumstances before implementing any of the ideas in this short paper—particularly with regard to the well-being of yourself and your family.
 
 ## Abstract
 
