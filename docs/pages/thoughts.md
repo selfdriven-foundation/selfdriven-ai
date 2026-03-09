@@ -52,7 +52,8 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - Your skills and experience are no longer about income.  
 - You can not derive an income off anything deterministic.  
 
-### Warnings & Reflections  
+### Warnings & Reflections
+- Capitalism no longer requires humans.
 - You may not take an interest in AI, but it will take an interest in you.  
 - Stop spending years technically educating people to make AI dumber.  
 - Have we cooked ourselves?  
