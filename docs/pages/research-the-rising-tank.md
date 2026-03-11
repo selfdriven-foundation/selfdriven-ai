@@ -20,8 +20,6 @@ permalink: /research/the-rising-tank
 
 This paper presents a metaphor for understanding societal change driven by rapid advances in artificial intelligence. The metaphor illustrates how individuals and institutions constrained by debt, obligations, and inertia may struggle to adapt as technological capability accelerates. While some actors prepare early and construct adaptive platforms ("rafts"), others remain immobilized until the opportunity to adapt becomes unreachable. The model highlights the interaction between exponential technological progress and the slower pace of social, financial, and institutional adaptation.
 
-
-
 # The Rising Tank
 
 Imagine a large tank filled with people standing waist-deep in water.
@@ -72,8 +70,6 @@ From their rafts they shout to the others:
 
 > "Climb on while you can."
 
-
-
 # The Crowd in the Water
 
 Most people do not climb.
@@ -88,8 +84,6 @@ They hesitate for many reasons:
 Standing still feels safer than climbing onto an unfamiliar raft.
 
 So they remain where they are.
-
-
 
 # The Water Rises
 
@@ -109,8 +103,6 @@ Now they are further away.
 
 Harder to reach.
 
-
-
 # Opportunity Windows
 
 Eventually the rafts float well above the crowd.
@@ -124,7 +116,6 @@ But the people in the tank can no longer climb onto them.
 The opportunity window has closed.
 
 
-
 # Mapping the Metaphor
 
 | Metaphor Element | Real World Meaning |
@@ -135,8 +126,6 @@ The opportunity window has closed.
 | Debt bags | Financial and institutional obligations |
 | Rafts | Adaptation strategies |
 | People shouting from rafts | Early adopters and technologists |
-
-
 
 # Core Thesis
 
@@ -149,8 +138,6 @@ Debt, institutional rigidity, and sunk investments act as anchors that prevent i
 The resulting risk is not only unemployment.
 
 It is **adaptation inequality**.
-
-
 
 # Key Dynamics
 
@@ -167,8 +154,6 @@ Examples include:
 
 These act like weights that keep people standing in the water instead of climbing onto rafts.
 
-
-
 ## 2. Exponential Technology vs Linear Human Response
 
 Human systems expect gradual change.
@@ -176,8 +161,6 @@ Human systems expect gradual change.
 Artificial intelligence progresses closer to **exponential curves**.
 
 As a result, most actors delay action until the water has already risen significantly.
-
-
 
 ## 3. The Closing Window of Adaptation
 
@@ -188,8 +171,6 @@ Late adaptation becomes difficult or impossible.
 The raft does not disappear.
 
 It simply becomes **out of reach**.
-
-
 
 # Policy Implications
 
@@ -205,8 +186,6 @@ Potential approaches include:
 
 The objective is to **increase mobility and adaptability** within the population.
 
-
-
 # Individual Implications
 
 Individuals who build rafts early often focus on:
@@ -219,8 +198,6 @@ Individuals who build rafts early often focus on:
 
 Preparation happens **before the water becomes dangerous**.
 
-
-
 # Conclusion
 
 The danger of transformative technology is not the rising water itself.
@@ -230,3 +207,7 @@ It is the weight that prevents people from moving while there is still time.
 Technological change may be unavoidable.
 
 Whether societies rise with it depends on how quickly people can let go of what holds them in place.
+
+---
+
+- [Constructive Preparation](/research/constructive-preparation)
