@@ -1,8 +1,8 @@
----
+
 layout: selfdriven
 title: Situational-awareness-framework - selfdrivenAI
 permalink: /situational-awareness-framework/organisations/
----
+
 
 # Situational Awareness Framework for Organisations
 
@@ -30,7 +30,7 @@ permalink: /situational-awareness-framework/organisations/
 - Start data integration and cross-department collaboration.
 - Pilot decision-support AI to augment (not replace) human expertise.
 
----
+
 
 ## 2. Transitional — "Human + Machine Collaboration"
 "We decide with the machine, not just through it."
@@ -52,7 +52,7 @@ permalink: /situational-awareness-framework/organisations/
 - Track decision provenance (why/how choices are made).
 - Form cross-functional teams to co-design human–machine workflows.
 
----
+
 
 ## 3. Emerging — "Machine in Control / Human in Context"
 "We define direction, not decisions."
@@ -74,12 +74,12 @@ permalink: /situational-awareness-framework/organisations/
 - Use recursive oversight AI ("AI watching AI") for alignment.
 - Redefine leadership around meaning, foresight, and human purpose.
 
----
+
 
 ## Summary
 
 | Level | Situation | Description | Strategic Risk | Relevance Horizon | Evolution Focus |
-|:------:|:---------------|:---------- |:---------------|:------------------|:----------------|
+|::|:|:- |:|:|:-|
 | **1** | Legacy, Human-in-Control | Humans make all decisions; tools follow | Obsolescence | 2–3 years | AI literacy, data integration        |
 | **2** | Transitional, Human + Machine  | Shared decisions; humans interpret AI | Bias / drift | 3–5 years | Explainability, oversight, provenance|
 | **3** | Emerging, Machine-in-Control | Machines act autonomously within human ethics | Alignment loss | Long-term | Trust frameworks, ethical governance |
