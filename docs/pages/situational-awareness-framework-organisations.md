@@ -30,8 +30,6 @@ permalink: /situational-awareness-framework/organisations/
 - Start data integration and cross-department collaboration.
 - Pilot decision-support AI to augment (not replace) human expertise.
 
-
-
 ## 2. Transitional — "Human + Machine Collaboration"
 "We decide with the machine, not just through it."
 
@@ -52,9 +50,7 @@ permalink: /situational-awareness-framework/organisations/
 - Track decision provenance (why/how choices are made).
 - Form cross-functional teams to co-design human–machine workflows.
 
-
-
-## 3. Emerging — "Machine in Control / Human in Context"
+## 3. Now — "Machine in Control / Human in Context"
 "We define direction, not decisions."
 
 ### Mindset Characteristics
