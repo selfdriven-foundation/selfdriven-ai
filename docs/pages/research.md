@@ -29,6 +29,7 @@ permalink: /research/
 - [Google DeepMind](https://www.youtube.com/@googledeepmind) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Topics
+- [The Rising Tank](/research/the-rising-tank)
 - [It’s all so quiet — the busy-ness has gone.](https://www.selfdriven.business)
 - [The Quiet Life Initiative](https://www.selfdriven.business/initiatives/the-quiet-life) - Helping People Self-Actuate Beyond “Work Busyness”
 - [Increasing Human Degrees of Freedom in the Age of Artificial Intelligence](/research/increasing-human-degrees-of-freedom)
