@@ -1,8 +1,8 @@
-
+---
 layout: selfdriven
 title: Situational-awareness-framework - selfdrivenAI
 permalink: /situational-awareness-framework/organisations/
-
+---
 
 # Situational Awareness Framework for Organisations
 
