@@ -51,13 +51,13 @@ You do not need to become a technologist. But spending time each week with AI to
 
 Speak with your local representative — not because they have the answer, but because awareness matters and pressure accumulates. Raise the conversation with your family and trusted relationships. Many are thinking the same things privately.
 
-**Go deeper**
-
-Read [Constructive Preparation](https://www.selfdriven.ai/research/constructive-preparation) — a practical framework across your mind, finances, family, and community.
-
 > You are not alone. We are all in this. And the raft is still reachable.
 
 ## Going Deeper
+
+Read [Constructive Preparation](https://www.selfdriven.ai/research/constructive-preparation) — a practical framework across your mind, finances, family, and community.
+
+### Further Reading..
 
 Imagine a large tank filled with people standing waist-deep in water.
 
