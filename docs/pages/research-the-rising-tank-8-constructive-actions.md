@@ -11,7 +11,7 @@ tags:
   - future
 summary: >
     A practical manifesto for individuals and communities during systemic transition
-permalink: /research/the-rising-tank-8-constructive-actions
+permalink: /research/the-rising-tank/8-constructive-actions
 ---
 
 # The 8 Constructive Actions for Navigating the Rising Tank

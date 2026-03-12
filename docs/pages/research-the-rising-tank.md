@@ -245,7 +245,7 @@ Whether societies rise with it depends on how quickly people can let go of what 
 ---
 
 ## Related
-- [The 8 Constructive Actions for Navigating the Rising Tank](/research/the-rising-tank-8-constructive-actions) - A practical manifesto for individuals and communities during systemic transition
+- [The 8 Constructive Actions for Navigating the Rising Tank](/research/the-rising-tank/8-constructive-actions) - A practical manifesto for individuals and communities during systemic transition.
 
 
 
