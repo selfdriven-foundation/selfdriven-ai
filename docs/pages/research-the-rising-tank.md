@@ -209,14 +209,14 @@ If you can, speak with your local government representative. They may not have t
 
 ## As a Podcast
 
-### Surviving The Risking Tank
+### Surviving The Risking Tank, 5min
 
 <audio controls>
 	<source src="/assets/audio/research-surviving-the-rising-tank.m4a" type="audio/mp4">
 	Your browser does not support the audio element.
 </audio>
 
-### The Risking Tank
+### The Risking Tank, 5min
 
 <audio controls>
 	<source src="/assets/audio/research-the-rising-tank.m4a" type="audio/mp4">
