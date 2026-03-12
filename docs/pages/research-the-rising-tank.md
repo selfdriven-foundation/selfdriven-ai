@@ -16,11 +16,9 @@ permalink: /research/the-rising-tank
 
 # The Rising Tank: Debt, Agency, and Adaptation in the Age of AI
 
-## Abstract
-
 This paper presents a metaphor for understanding societal change driven by rapid advances in artificial intelligence. The metaphor illustrates how individuals and institutions constrained by debt, obligations, and inertia may struggle to adapt as technological capability accelerates. While some actors prepare early and construct adaptive platforms ("rafts"), others remain immobilized until the opportunity to adapt becomes unreachable. The model highlights the interaction between exponential technological progress and the slower pace of social, financial, and institutional adaptation.
 
-# The Rising Tank
+## The Rising Tank
 
 Imagine a large tank filled with people standing waist-deep in water.
 
@@ -48,9 +46,7 @@ Slowly at first.
 
 Then faster.
 
-
-
-# The Early Builders
+## The Early Builders
 
 Some people anticipated that the water would rise.
 
@@ -70,7 +66,7 @@ From their rafts they shout to the others:
 
 > "Climb on while you can."
 
-# The Crowd in the Water
+## The Crowd in the Water
 
 Most people do not climb.
 
@@ -85,7 +81,7 @@ Standing still feels safer than climbing onto an unfamiliar raft.
 
 So they remain where they are.
 
-# The Water Rises
+## The Water Rises
 
 The water continues rising.
 
@@ -103,7 +99,7 @@ Now they are further away.
 
 Harder to reach.
 
-# Opportunity Windows
+## Opportunity Windows
 
 Eventually the rafts float well above the crowd.
 
@@ -115,8 +111,7 @@ But the people in the tank can no longer climb onto them.
 
 The opportunity window has closed.
 
-
-# Mapping the Metaphor
+## Mapping the Metaphor
 
 | Metaphor Element | Real World Meaning |
 |||
@@ -127,7 +122,7 @@ The opportunity window has closed.
 | Rafts | Adaptation strategies |
 | People shouting from rafts | Early adopters and technologists |
 
-# Core Thesis
+## Core Thesis
 
 AI does not merely replace tasks.
 
@@ -139,9 +134,9 @@ The resulting risk is not only unemployment.
 
 It is **adaptation inequality**.
 
-# Key Dynamics
+## Key Dynamics
 
-## 1. Debt as an Adaptation Anchor
+### 1. Debt as an Adaptation Anchor
 
 Heavy obligations limit the ability to change direction.
 
@@ -154,7 +149,7 @@ Examples include:
 
 These act like weights that keep people standing in the water instead of climbing onto rafts.
 
-## 2. Exponential Technology vs Linear Human Response
+### 2. Exponential Technology vs Linear Human Response
 
 Human systems expect gradual change.
 
@@ -162,7 +157,7 @@ Artificial intelligence progresses closer to **exponential curves**.
 
 As a result, most actors delay action until the water has already risen significantly.
 
-## 3. The Closing Window of Adaptation
+### 3. The Closing Window of Adaptation
 
 Early adaptation is relatively cheap.
 
@@ -172,7 +167,7 @@ The raft does not disappear.
 
 It simply becomes **out of reach**.
 
-# Policy Implications
+## Policy Implications
 
 If the metaphor reflects reality, societies may need to reduce the weight of the bags people carry.
 
@@ -186,7 +181,7 @@ Potential approaches include:
 
 The objective is to **increase mobility and adaptability** within the population.
 
-# Individual Implications
+## Individual Implications
 
 Individuals who build rafts early often focus on:
 
@@ -198,7 +193,7 @@ Individuals who build rafts early often focus on:
 
 Preparation happens **before the water becomes dangerous**.
 
-# Conclusion
+## Conclusion
 
 The danger of transformative technology is not the rising water itself.
 
@@ -207,6 +202,13 @@ It is the weight that prevents people from moving while there is still time.
 Technological change may be unavoidable.
 
 Whether societies rise with it depends on how quickly people can let go of what holds them in place.
+
+## As a Podcast
+
+<audio controls>
+	<source src="/assets/audio/research-the-rising-tank.m4a" type="audio/mp4">
+	Your browser does not support the audio element.
+</audio>
 
 ---
 
