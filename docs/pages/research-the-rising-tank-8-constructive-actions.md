@@ -14,13 +14,11 @@ summary: >
 permalink: /research/the-rising-tank/8-constructive-actions
 ---
 
-# The 8 Constructive Actions for Navigating the Rising Tank
+# 8 Constructive Actions for Navigating the Rising Tank
 
 *A practical manifesto for individuals and communities during systemic transition.*
 
-## Introduction
-
-Periods of structural change in society can create the feeling that many people are trapped within the same constrained system — a “rising tank”.
+**Periods of structural change in society can create the feeling that many people are trapped within the same constrained system — a “rising tank”.**
 
 Technological deflation, artificial intelligence, debt-based economic systems, and slow-moving institutions can produce pressures that individuals cannot solve alone.
 
@@ -28,7 +26,7 @@ The goal is not denial or panic, but **constructive navigation**.
 
 These actions focus on increasing **human degrees of freedom**, strengthening communities, and enabling people to self-actuate in a rapidly changing technological world.
 
-# 1. Accept Structural Change
+## 1. Accept Structural Change
 
 The first constructive step is intellectual honesty.
 
@@ -42,7 +40,7 @@ Artificial intelligence, automation, and software are permanently altering labou
 
 Clarity reduces fear and allows people to make deliberate decisions.
 
-# 2. Move from Competition to Coordination
+## 2. Move from Competition to Coordination
 
 When systems become constrained, pure competition becomes destructive.
 
@@ -57,9 +55,7 @@ Constructive societies shift toward **coordination and cooperation**.
 
 Coordination multiplies human capability.
 
-
-
-# 3. Build Capability Stacks
+## 3. Build Capability Stacks
 
 Traditional employment identities were built around single skills.
 
@@ -76,9 +72,7 @@ In a rapidly evolving environment, individuals benefit from **multi-capability s
 
 People with broad capability stacks adapt far faster than specialists tied to a single role.
 
-
-
-# 4. Reduce Personal Fragility
+## 4. Reduce Personal Fragility
 
 Many people remain trapped because their lives depend on fragile financial structures.
 
@@ -91,9 +85,7 @@ Many people remain trapped because their lives depend on fragile financial struc
 
 Reducing fragility increases **decision freedom**.
 
-
-
-# 5. Partner with Artificial Intelligence
+## 5. Partner with Artificial Intelligence
 
 Artificial intelligence is not only a disruptive force; it is also a capability amplifier.
 
@@ -105,9 +97,7 @@ Constructive individuals learn to:
 
 In many environments, humans increasingly act as **directors and verifiers of AI output**.
 
-
-
-# 6. Invest in Trust and Reputation
+## 6. Invest in Trust and Reputation
 
 As AI dramatically increases the volume of generated information, **trust becomes the scarce resource**.
 
@@ -120,11 +110,9 @@ Constructive societies build mechanisms for verifying:
 
 Systems such as verifiable credentials, decentralized identity, and contribution records enable large-scale coordination.
 
+## 7. Strengthen Community Capability
 
-
-# 7. Strengthen Community Capability
-
-Highly centralized systems can be efficient but fragile.
+Highly centralised systems can be efficient but fragile.
 
 Communities that maintain **local capability networks** are more resilient.
 
@@ -137,9 +125,7 @@ Communities that maintain **local capability networks** are more resilient.
 
 These networks provide support structures outside traditional employment systems.
 
-
-
-# 8. Increase Degrees of Freedom — for Yourself and Others
+## 8. Increase Degrees of Freedom — for Yourself and Others
 
 The core measure of resilience is **degrees of freedom** — the number of meaningful choices available.
 
@@ -155,9 +141,7 @@ Equally important is helping others expand their freedom through teaching, colla
 
 When more people gain capability and freedom, the entire system becomes more stable.
 
-
-
-# Conclusion
+## Conclusion
 
 The “rising tank” describes a shared structural pressure facing many societies during technological transition.
 
