@@ -289,4 +289,5 @@ It is **living systems of intent**.
 
 ---
 
+- [Nate B Jones, "The PRD is Dead" Video](https://youtu.be/lbfoNxoHl2o?si=RtjTURwSMrajK_VZ)
 - [selfdriven.ai/research](https://selfdriven.ai/research)
