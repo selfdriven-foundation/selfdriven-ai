@@ -230,15 +230,30 @@ Whether societies rise with it depends on how quickly people can let go of what 
 
 ## Constructive Actions
 
-- If you can, speak with your local government representative. They may not have the solution, but they need to become more aware of the situation many people are facing, now.
+**Start with yourself**
 
-- Seek out or create a local community group for people in the same situation as you — many are in the same situation.
+Take stock of what's in your bag. Write down your fixed obligations and your flexible ones. Identify one area of your work or daily life where AI tools could help you move faster or carry less. Start there — not with a plan, just with curiosity.
 
-- Read [Constructive Preparation](/research/constructive-preparation) - your mind, finances, family & community.
+**Reduce what holds you in place, where you can**
 
-- Speak to your institutions about support.
+Not all bags can be lightened quickly, but some can. Look at where rigid commitments — financial, professional, or institutional — are limiting your ability to adapt. Consider speaking with a financial counsellor about restructuring options. Look at whether your skills are tied to a single role or transferable across several.
 
-- Most importantly share it with your trusted relationships.
+**Find others in the same water**
 
-> You are not alone, we are all in this.
+You are not navigating this alone. Seek out or create a local group — informal is fine — of people thinking through the same challenges. The conversation itself is part of building the raft. Connect with your local community to find people actively working on these questions together.
+
+**Build AI literacy, a little at a time**
+
+You do not need to become a technologist. But spending time each week with AI tools — understanding what they can and cannot do — compounds quickly. Small, consistent exposure now is the difference between the water being waist-deep or chest-deep when you decide to act.
+
+**Talk to the people and institutions around you**
+
+Speak with your local representative — not because they have the answer, but because awareness matters and pressure accumulates. Raise the conversation with your family and trusted relationships. Many are thinking the same things privately.
+
+**Go deeper**
+
+Read [Constructive Preparation](https://www.selfdriven.ai/research/constructive-preparation) — a practical framework across your mind, finances, family, and community.
+
+> You are not alone. We are all in this. And the raft is still reachable.
+
 
