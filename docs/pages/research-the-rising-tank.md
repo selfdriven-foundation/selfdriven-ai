@@ -203,20 +203,6 @@ Technological change may be unavoidable.
 
 Whether societies rise with it depends on how quickly people can let go of what holds them in place.
 
-## Constructive Actions
-
-- If you can, speak with your local government representative. They may not have the solution, but they need to become more aware of the situation many people are facing, now.
-
-- Seek out or create a local community group for people in the same situation as you — many are in the same situation.
-
-- Read [Constructive Preparation](/research/constructive-preparation) - your mind, finances, family & community.
-
-- Speak to your institutions about support.
-
-- Most importantly share it with your trusted relationships.
-
-> You are not alone, we are all in this.
-
 ## As a Podcast
 
 ### The Danger of Stability, The Risking Tank, 20min
@@ -242,5 +228,17 @@ Whether societies rise with it depends on how quickly people can let go of what 
 	Your browser does not support the audio element.
 </audio>
 
----
+## Constructive Actions
+
+- If you can, speak with your local government representative. They may not have the solution, but they need to become more aware of the situation many people are facing, now.
+
+- Seek out or create a local community group for people in the same situation as you — many are in the same situation.
+
+- Read [Constructive Preparation](/research/constructive-preparation) - your mind, finances, family & community.
+
+- Speak to your institutions about support.
+
+- Most importantly share it with your trusted relationships.
+
+> You are not alone, we are all in this.
 
