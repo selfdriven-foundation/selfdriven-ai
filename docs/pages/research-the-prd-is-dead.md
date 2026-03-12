@@ -6,8 +6,6 @@ permalink: /research/the-prd-is-dead
 # The PRD Is Dead  
 ## From Static Requirements to Living Systems
 
----
-
 ## Abstract
 
 For decades, the **Product Requirements Document (PRD)** has been a central artifact in software development. It represented a fixed description of what a product should do, written before development began and used as the blueprint for execution.
