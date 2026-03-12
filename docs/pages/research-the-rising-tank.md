@@ -248,7 +248,7 @@ Whether societies rise with it depends on how quickly people can let go of what 
 ---
 
 <div class="sd-share-card" id="sd-share">
-  <p class="sd-share-eyebrow">selfdriven Research</p>
+  <p class="sd-share-eyebrow">selfdriven.ai Research</p>
   <h3 class="sd-share-title">The Rising Tank</h3>
   <p class="sd-share-subtitle">Debt, Agency, and Adaptation in the Age of AI — share this paper &amp; podcast</p>
 
