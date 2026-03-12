@@ -524,8 +524,3 @@ Whether societies rise with it depends on how quickly people can let go of what 
     });
   }
 </script>
-
-
-
-
-

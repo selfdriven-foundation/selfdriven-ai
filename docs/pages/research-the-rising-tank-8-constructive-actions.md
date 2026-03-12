@@ -157,6 +157,9 @@ The future will not be defined solely by technology.
 
 It will be defined by **how people choose to organize themselves around it.**
 
+## Related
+- [ The Rising Tank: Debt, Agency, and Adaptation in the Age of AI](/research/the-rising-tank)
+
 ---
 
 <style>
