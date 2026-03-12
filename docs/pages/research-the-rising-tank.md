@@ -203,7 +203,20 @@ Technological change may be unavoidable.
 
 Whether societies rise with it depends on how quickly people can let go of what holds them in place.
 
+## Constructive Action
+
+If you can, speak with your local government representative. They may not have the solution, but they need to become more aware of the situation many people are facing, now.
+
 ## As a Podcast
+
+### Surviving The Risking Tank
+
+<audio controls>
+	<source src="/assets/audio/research-surviving-the-rising-tank.m4a" type="audio/mp4">
+	Your browser does not support the audio element.
+</audio>
+
+### The Risking Tank
 
 <audio controls>
 	<source src="/assets/audio/research-the-rising-tank.m4a" type="audio/mp4">
