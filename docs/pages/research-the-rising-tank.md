@@ -209,17 +209,19 @@ If you can, speak with your local government representative. They may not have t
 
 ## As a Podcast
 
+### The Danger of Stability, The Risking Tank, 20min
+
+*Curiousity, Caring & Constructive theme.*
+
+<audio controls>
+	<source src="/assets/audio/research-the-danger-of-stability.m4a" type="audio/mp4">
+	Your browser does not support the audio element.
+</audio>
+
 ### Surviving The Risking Tank, 5min
 
 <audio controls>
 	<source src="/assets/audio/research-surviving-the-rising-tank.m4a" type="audio/mp4">
-	Your browser does not support the audio element.
-</audio>
-
-### The Danger of Stability, The Risking Tank, 20min
-
-<audio controls>
-	<source src="/assets/audio/research-the-danger-of-stability.m4a" type="audio/mp4">
 	Your browser does not support the audio element.
 </audio>
 
