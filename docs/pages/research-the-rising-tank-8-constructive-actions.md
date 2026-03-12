@@ -10,15 +10,13 @@ tags:
   - governance
   - future
 summary: >
-    This paper presents a metaphor for understanding societal change driven by rapid advances in artificial intelligence.
+    A practical manifesto for individuals and communities during systemic transition
 permalink: /research/the-rising-tank-8-constructive-actions
 ---
 
 # The 8 Constructive Actions for Navigating the Rising Tank
 
 *A practical manifesto for individuals and communities during systemic transition.*
-
----
 
 ## Introduction
 
@@ -29,8 +27,6 @@ Technological deflation, artificial intelligence, debt-based economic systems, a
 The goal is not denial or panic, but **constructive navigation**.
 
 These actions focus on increasing **human degrees of freedom**, strengthening communities, and enabling people to self-actuate in a rapidly changing technological world.
-
----
 
 # 1. Accept Structural Change
 
@@ -45,8 +41,6 @@ Artificial intelligence, automation, and software are permanently altering labou
 - prepare rather than resist reality  
 
 Clarity reduces fear and allows people to make deliberate decisions.
-
----
 
 # 2. Move from Competition to Coordination
 
@@ -63,7 +57,7 @@ Constructive societies shift toward **coordination and cooperation**.
 
 Coordination multiplies human capability.
 
----
+
 
 # 3. Build Capability Stacks
 
@@ -82,7 +76,7 @@ In a rapidly evolving environment, individuals benefit from **multi-capability s
 
 People with broad capability stacks adapt far faster than specialists tied to a single role.
 
----
+
 
 # 4. Reduce Personal Fragility
 
@@ -97,7 +91,7 @@ Many people remain trapped because their lives depend on fragile financial struc
 
 Reducing fragility increases **decision freedom**.
 
----
+
 
 # 5. Partner with Artificial Intelligence
 
@@ -111,7 +105,7 @@ Constructive individuals learn to:
 
 In many environments, humans increasingly act as **directors and verifiers of AI output**.
 
----
+
 
 # 6. Invest in Trust and Reputation
 
@@ -126,7 +120,7 @@ Constructive societies build mechanisms for verifying:
 
 Systems such as verifiable credentials, decentralized identity, and contribution records enable large-scale coordination.
 
----
+
 
 # 7. Strengthen Community Capability
 
@@ -143,7 +137,7 @@ Communities that maintain **local capability networks** are more resilient.
 
 These networks provide support structures outside traditional employment systems.
 
----
+
 
 # 8. Increase Degrees of Freedom — for Yourself and Others
 
@@ -161,7 +155,7 @@ Equally important is helping others expand their freedom through teaching, colla
 
 When more people gain capability and freedom, the entire system becomes more stable.
 
----
+
 
 # Conclusion
 
@@ -179,16 +173,7 @@ The future will not be defined solely by technology.
 
 It will be defined by **how people choose to organize themselves around it.**
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Share Component – The Rising Tank</title>
-
-<!-- Google Fonts -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+---
 
 <style>
   /* ── selfdriven Design Tokens ─────────────────────────────────── */
@@ -383,12 +368,7 @@ It will be defined by **how people choose to organize themselves around it.**
     opacity: 1;
   }
 </style>
-</head>
-<body>
 
-<!-- ══════════════════════════════════════════════
-     SHARE COMPONENT — drop this block into your page
-     ══════════════════════════════════════════════ -->
 <div class="sd-share-card" id="sd-share">
   <p class="sd-share-eyebrow">selfdriven Research</p>
   <h3 class="sd-share-title">The Rising Tank</h3>
@@ -472,10 +452,3 @@ It will be defined by **how people choose to organize themselves around it.**
     });
   }
 </script>
-
-<!-- ══════════════════════════════════════════════
-     END SHARE COMPONENT
-     ══════════════════════════════════════════════ -->
-
-</body>
-</html>
