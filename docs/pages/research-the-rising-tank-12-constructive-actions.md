@@ -11,7 +11,7 @@ tags:
   - future
 summary: >
     This paper presents a metaphor for understanding societal change driven by rapid advances in artificial intelligence.
-permalink: /research/the-rising-tank
+permalink: /research/the-rising-tank-12-constructive-actions
 ---
 
 # The Rising Tank: Debt, Agency, and Adaptation in the Age of AI
