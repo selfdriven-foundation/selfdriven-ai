@@ -287,6 +287,6 @@ The future of product development is not documents.
 
 It is **living systems of intent**.
 
---
+---
 
 - [selfdriven.ai/research](https://selfdriven.ai/research)
