@@ -42,6 +42,15 @@ jobs:
             cp -r ./docs/_well-known/* ./_site/.well-known/
           fi
 
+      # Zip skills folders and copy to .well-known
+      - name: Package skills
+        run: |
+          if [ -d "./skills" ]; then
+            cd skills
+            zip -r ../_site/.well-known/skills.zip ./*
+            cd ..
+          fi
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
