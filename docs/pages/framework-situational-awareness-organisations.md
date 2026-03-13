@@ -77,3 +77,7 @@ permalink: /situational-awareness-framework/organisations/
 | **1** | Legacy, Human-in-Control | Humans make all decisions; tools follow | Obsolescence | 2–3 years | AI literacy, data integration        |
 | **2** | Transitional, Human + Machine  | Shared decisions; humans interpret AI | Bias / drift | 3–5 years | Explainability, oversight, provenance|
 | **3** | Now, Machine-in-Control | Machines act autonomously within human ethics | Alignment loss | Long-term | Trust frameworks, ethical governance |
+
+---
+
+- [A deep analysis of Level 3 in the selfdriven Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/deep-analysis)
