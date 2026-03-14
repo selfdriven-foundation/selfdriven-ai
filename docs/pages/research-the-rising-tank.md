@@ -18,7 +18,7 @@ permalink: /research/the-rising-tank
 
 *Curiousity, Caring & Constructive theme.*
 
-This podcast presents a metaphor for understanding societal change driven by rapid advances in artificial intelligence. The metaphor illustrates how individuals and institutions constrained by debt, obligations, and inertia may struggle to adapt as technological capability accelerates. While some actors prepare early and construct adaptive platforms ("rafts"), others remain immobilized until the opportunity to adapt becomes unreachable. The model highlights the interaction between exponential technological progress and the slower pace of social, financial, and institutional adaptation.
+This podcast presents a analogy for understanding societal change driven by rapid advances in artificial intelligence. The metaphor illustrates how individuals and institutions constrained by debt, obligations, and inertia may struggle to adapt as technological capability accelerates. While some actors prepare early and construct adaptive platforms ("rafts"), others remain immobilized until the opportunity to adapt becomes unreachable. The model highlights the interaction between exponential technological progress and the slower pace of social, financial, and institutional adaptation.
 
 ## Podcast
 
