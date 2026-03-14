@@ -160,25 +160,23 @@ The phrase "We define direction, not decisions" is not a retreat from human resp
 
 ## References
 
-Endsley, M. R. (1995). Toward a Theory of Situation Awareness in Dynamic Systems. *Human Factors*, 37(1), 32–64.
+Endsley, M. R. (1995). [Toward a Theory of Situation Awareness in Dynamic Systems](https://journals.sagepub.com/doi/10.1518/001872095779049543). *Human Factors*, 37(1), 32–64.
 
-Endsley, M. R. (2023). Supporting Human-AI Teams: Transparency, Explainability, and Situation Awareness. *Computers in Human Behavior*, 140.
+Endsley, M. R. (2023). [Supporting Human-AI Teams: Transparency, Explainability, and Situation Awareness](https://www.sciencedirect.com/science/article/abs/pii/S0747563222003946). *Computers in Human Behavior*, 140, 107574.
 
-Chen, J. et al. (2024). Situation Awareness in AI-based Technologies and Multimodal Systems: Architectures, Challenges and Applications. *IEEE Access*.
+Chen, J. et al. (2024). [Situation Awareness in AI-based Technologies and Multimodal Systems: Architectures, Challenges and Applications](https://www.researchgate.net/publication/381539864_Situation_Awareness_in_AI-based_Technologies_and_Multimodal_Systems_Architectures_Challenges_and_Applications). *IEEE Access*.
 
-Flathmann, C. et al. (2022). A Situation Awareness Perspective on Human-AI Interaction: Tensions and Opportunities. *International Journal of Human-Computer Interaction*.
+Flathmann, C. et al. (2022). [A Situation Awareness Perspective on Human-AI Interaction: Tensions and Opportunities](https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2093863). *International Journal of Human-Computer Interaction*.
 
-Wickens, C. D. (2008). Situation Awareness: Review of Mica Endsley's 1995 Articles on Situation Awareness Theory and Measurement. *Human Factors*, 50(3), 397–403.
+Wickens, C. D. (2008). [Situation Awareness: Review of Mica Endsley's 1995 Articles on Situation Awareness Theory and Measurement](https://journals.sagepub.com/doi/10.1518/001872008X288420). *Human Factors*, 50(3), 397–403.
 
-Aschenbrenner, L. (2024). Situational Awareness: The Decade Ahead. situational-awareness.ai.
+Aschenbrenner, L. (2024). [Situational Awareness: The Decade Ahead](https://situational-awareness.ai/). situational-awareness.ai.
 
-selfdriven Foundation (2026). Situational Awareness Framework for Organisations. selfdriven.ai.
+selfdriven Foundation (2026). [Situational Awareness Framework for Organisations](https://www.selfdriven.ai/situational-awareness-framework/organisations/). selfdriven.ai.
 
-Smith, S. (2024). Key Event Receipt Infrastructure (KERI) Design. WebOfTrust/keri.
+Smith, S. (2024). [Key Event Receipt Infrastructure (KERI) Design](https://weboftrust.github.io/ietf-keri/draft-ssmith-keri.html). WebOfTrust/ietf-keri. See also: [KERI Community Repository](https://github.com/WebOfTrust/keri).
 
-selfdriven Foundation (2026). Human Conductor Model: 8 Areas of Focus Operational Framework. selfdriven.foundation.
-
----
+selfdriven Foundation (2026). [Human Conductor Model: 8 Areas of Focus Operational Framework](https://actuate.selfdriven.community/framework/areas-of-focus). selfdriven.foundation.
 
 ## As Podcast
 
