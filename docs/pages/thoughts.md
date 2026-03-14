@@ -113,7 +113,7 @@ We’re living in a time where intelligence itself—what it is, how it works, a
 - Humans are a coded entity based on a genesis config file (DNA)
 - Be the controller not the controlled
 - It’s time to uninstall the 20w computers from commercial organisations - the impedence is too high.
-
+- Organic intelligence gravitates toward lower levels; inorganic intelligence levitates toward higher one
 ---
 
 ## Thoughts as Narrative (2025)
