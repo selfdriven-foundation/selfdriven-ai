@@ -9,8 +9,6 @@ permalink: /situational-awareness-framework/organisations/deep-analysis
 
 **A deep analysis of Level 3 in the selfdriven Situational Awareness Framework for Organisations — and its implications for governance, identity, and human purpose**
 
-<img src="/assets/img/selfdriven-ai-before-after-situational-awareness-level.png" style="margin-top:20px; border-radius: 12px; width:100%; max-width: 800px;">
-
 - [selfdriven.foundation](https://selfdriven.foundation)
 - [selfdriven.ai/research](https://selfdriven.au/research)
 - March 2026
@@ -28,7 +26,7 @@ The selfdriven Situational Awareness Framework for Organisations adapts this fou
 
 The accompanying "before and after" diagram published at selfdriven.ai visualises this progression as a shift in the locus of control: from humans issuing instructions to tools, through humans co-deciding with machines, to humans defining context, values, and purpose while machines handle execution, adaptation, and optimisation at scale. This paper provides an overview of all three levels before dedicating its core analysis to Level 3 — the Emerging state — where the most profound organisational, ethical, and technical questions arise.
 
-
+<img src="/assets/img/selfdriven-ai-before-after-situational-awareness-level.png" style="margin-top:20px; border-radius: 12px; width:100%; max-width: 800px;">
 
 ## 2. The Three Levels: An Overview
 
