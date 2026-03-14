@@ -70,6 +70,7 @@ permalink: /research/
 - [Playing with Reality](https://www.penguinrandomhouse.com/books/700440/playing-with-reality-by-kelly-clancy/) <span style="color:#888888;font-size:0.68rem;">[IoMF:2?]</span>
 
 ## Videos
+- [UK Parliament Hearing on AI Risks, Impact, and Regulation](/resources/uk-parliament-hearing-on-ai-risks-impact-and-regulation)
 - [Jeff Booth, The Final Reset](https://youtu.be/lhHKljqRa-M)
 - [Yoshua Bengio with Steven Bartlett](https://youtu.be/zQ1POHiR8m8) <span style="color:#888888;font-size:0.68rem;">[IoMF:3+]</span>
 - [Mustafa Suleyman of Microsoft AI](https://youtu.be/XWGnWcmns_M) <span style="color:#888888;font-size:0.68rem;">[IoMF:2+]</span>
