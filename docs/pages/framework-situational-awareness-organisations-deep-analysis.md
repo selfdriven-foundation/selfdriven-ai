@@ -9,18 +9,16 @@ permalink: /situational-awareness-framework/organisations/deep-analysis
 
 **A deep analysis of Level 3 in the selfdriven Situational Awareness Framework for Organisations — and its implications for governance, identity, and human purpose**
 
+<img src="/assets/img/selfdriven-ai-before-after-situational-awareness-level.png" style="margin-top:20px; border-radius: 12px; width:100%; max-width: 800px;">
+
 - [selfdriven.foundation](https://selfdriven.foundation)
 - [selfdriven.ai/research](https://selfdriven.au/research)
 - March 2026
 - Classification: Public
 
-<img src="/assets/img/selfdriven-ai-before-after-situational-awareness-level.png" style="margin-top:10px; border-radius: 12px; width:100%; max-width: 800px;">
-
 ## Abstract
 
 This paper examines the selfdriven Situational Awareness Framework for Organisations, a three-level maturity model that maps the evolving relationship between human decision-makers and AI systems. While Levels 1 and 2 describe familiar territory — tool-centric operations and collaborative human-machine workflows — Level 3, designated "Emerging: Machine in Control, Human in Context," represents a fundamentally different organisational paradigm. Drawing on Endsley's foundational three-level situation awareness model (perception, comprehension, projection), the Human Conductor model pioneered by the selfdriven Foundation, and contemporary research in human-AI teaming, this paper provides an in-depth analysis of what Level 3 means in practice: how organisations transition to it, what governance architectures sustain it, and why cryptographic identity infrastructure — specifically KERI/ACDC self-sovereign identity — is essential to making it work safely.
-
-
 
 ## 1. Introduction: The Situational Awareness Imperative
 
@@ -162,8 +160,6 @@ This paper has argued that Level 3 is viable only when three conditions are met:
 
 The phrase "We define direction, not decisions" is not a retreat from human responsibility. It is the recognition that in a world of increasingly capable AI systems, the highest and most irreplaceable form of human contribution is not information processing or operational decision-making, but the definition of what matters, what boundaries constrain action, and what future the organisation is building toward. This is the situational awareness that Level 3 demands.
 
-
-
 ## References
 
 Endsley, M. R. (1995). Toward a Theory of Situation Awareness in Dynamic Systems. *Human Factors*, 37(1), 32–64.
@@ -186,4 +182,14 @@ selfdriven Foundation (2026). Human Conductor Model: 8 Areas of Focus Operationa
 
 ---
 
+## As Podcast
+
+<audio controls>
+	<source src="/assets/audio/research-the-danger-of-stability.m4a" type="audio/mp4">
+	Your browser does not support the audio element.
+</audio>
+
+---
+
 - [selfdriven Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations)
+
