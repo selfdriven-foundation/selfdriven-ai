@@ -14,11 +14,13 @@ permalink: /situational-awareness-framework/organisations/deep-analysis
 - March 2026
 - Classification: Public
 
+<img src="/assets/img/selfdriven-ai-before-after-situational-awareness-level.png" style="margin-top:10px; border-radius: 12px; width:100%; max-width: 800px;">
+
 ## Abstract
 
 This paper examines the selfdriven Situational Awareness Framework for Organisations, a three-level maturity model that maps the evolving relationship between human decision-makers and AI systems. While Levels 1 and 2 describe familiar territory — tool-centric operations and collaborative human-machine workflows — Level 3, designated "Emerging: Machine in Control, Human in Context," represents a fundamentally different organisational paradigm. Drawing on Endsley's foundational three-level situation awareness model (perception, comprehension, projection), the Human Conductor model pioneered by the selfdriven Foundation, and contemporary research in human-AI teaming, this paper provides an in-depth analysis of what Level 3 means in practice: how organisations transition to it, what governance architectures sustain it, and why cryptographic identity infrastructure — specifically KERI/ACDC self-sovereign identity — is essential to making it work safely.
 
-<img src="/assets/img/selfdriven-ai-before-after-situational-awareness-level.png" style="border-radius: 12px; width:100%; max-width: 800px;">
+
 
 ## 1. Introduction: The Situational Awareness Imperative
 
