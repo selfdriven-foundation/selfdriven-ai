@@ -183,7 +183,7 @@ selfdriven Foundation (2026). Human Conductor Model: 8 Areas of Focus Operationa
 ## As Podcast
 
 <audio controls>
-	<source src="/assets/audio/research-the-danger-of-stability.m4a" type="audio/mp4">
+	<source src="/assets/audio/research-ai-situational-analysis-level-3.m4a" type="audio/mp4">
 	Your browser does not support the audio element.
 </audio>
 
