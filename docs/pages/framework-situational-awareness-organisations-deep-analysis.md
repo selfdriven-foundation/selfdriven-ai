@@ -32,9 +32,9 @@ The accompanying "before and after" diagram published at selfdriven.ai visualise
 
 | Level | Situation | Core Characteristic | Strategic Risk | Horizon |
 |-------|-----------|---------------------|----------------|---------|
-| **1** | Legacy: Human-in-Control | Humans make all decisions; tools follow instructions | Obsolescence, bottlenecks | 2–3 years |
-| **2** | Transitional: Human + Machine | Shared decision-making; humans interpret and challenge AI outputs | Bias, algorithmic drift | 3–5 years |
-| **3** | Emerging: Machine-in-Control | Machines execute adaptively within human-defined ethical boundaries | Alignment loss, agency erosion | Long-term |
+| **1** | Legacy: Human-in-Control | Humans make all decisions; tools follow instructions | Obsolescence, bottlenecks | Now–3 years |
+| **2** | Transitional: Human + Machine | Shared decision-making; humans interpret and challenge AI outputs | Bias, algorithmic drift | Now–5 years |
+| **3** | Emerging: Machine-in-Control | Machines execute adaptively within human-defined ethical boundaries | Alignment loss, agency erosion | Now for Long-term |
 
 ### 2.1 Level 1 — Legacy: "Human in Control"
 
