@@ -9,16 +9,14 @@ permalink: /situational-awareness-framework/organisations/deep-analysis
 
 **A deep analysis of Level 3 in the selfdriven Situational Awareness Framework for Organisations — and its implications for governance, identity, and human purpose**
 
-selfdriven Foundation · selfdriven.ai · selfdriven.foundation
-March 2026 · Classification: Public
-
----
+- [selfdriven.foundation](https://selfdriven.foundation)
+- [selfdriven.ai/research](https://selfdriven.au/research)
+- March 2026
+- Classification: Public
 
 ## Abstract
 
 This paper examines the selfdriven Situational Awareness Framework for Organisations, a three-level maturity model that maps the evolving relationship between human decision-makers and AI systems. While Levels 1 and 2 describe familiar territory — tool-centric operations and collaborative human-machine workflows — Level 3, designated "Emerging: Machine in Control, Human in Context," represents a fundamentally different organisational paradigm. Drawing on Endsley's foundational three-level situation awareness model (perception, comprehension, projection), the Human Conductor model pioneered by the selfdriven Foundation, and contemporary research in human-AI teaming, this paper provides an in-depth analysis of what Level 3 means in practice: how organisations transition to it, what governance architectures sustain it, and why cryptographic identity infrastructure — specifically KERI/ACDC self-sovereign identity — is essential to making it work safely.
-
----
 
 ## 1. Introduction: The Situational Awareness Imperative
 
@@ -28,7 +26,7 @@ The selfdriven Situational Awareness Framework for Organisations adapts this fou
 
 The accompanying "before and after" diagram published at selfdriven.ai visualises this progression as a shift in the locus of control: from humans issuing instructions to tools, through humans co-deciding with machines, to humans defining context, values, and purpose while machines handle execution, adaptation, and optimisation at scale. This paper provides an overview of all three levels before dedicating its core analysis to Level 3 — the Emerging state — where the most profound organisational, ethical, and technical questions arise.
 
----
+
 
 ## 2. The Three Levels: An Overview
 
@@ -56,7 +54,7 @@ The relevance horizon at Level 2 is three to five years with adaptive governance
 
 The defining phrase of Level 3 is *"We define direction, not decisions."* This level is the primary subject of this paper and is examined in depth in the sections that follow.
 
----
+
 
 ## 3. Level 3: The Emerging Organisation
 
@@ -130,7 +128,7 @@ This reframing is essential. The common fear that Level 3 represents human obsol
 
 The transition from Level 2 to Level 3 is not a single event but a graduated process. Organisations move into Level 3 domain by domain, function by function, as their governance architecture matures, their identity infrastructure is deployed, and their human conductors develop the competencies required for their elevated role. The selfdriven Foundation's eight Areas of Focus provide a structured framework for this transition, allowing each area to progress at its own pace while maintaining coherence across the whole.
 
----
+
 
 ## 4. Connections to Broader Research
 
@@ -140,7 +138,7 @@ The framework also engages with the broader "situational awareness" discourse in
 
 The integration of KERI/ACDC self-sovereign identity infrastructure represents a novel contribution. While the HAT literature extensively discusses transparency and explainability, it rarely addresses the cryptographic provenance infrastructure needed to make transparency verifiable and tamper-evident at scale. The selfdriven approach treats identity not as an administrative convenience but as the load-bearing trust architecture of the entire Level 3 paradigm.
 
----
+
 
 ## 5. Implications and Future Directions
 
@@ -150,7 +148,7 @@ Several open questions remain for future research and development. How should th
 
 These questions are not merely theoretical. As AI systems continue to advance in capability and autonomy, every organisation will eventually face the transition the selfdriven framework describes. Those that develop the governance architectures, identity infrastructure, and human conductor competencies in advance will navigate the transition more safely and effectively than those that encounter Level 3 unprepared.
 
----
+
 
 ## 6. Conclusion
 
@@ -160,7 +158,7 @@ This paper has argued that Level 3 is viable only when three conditions are met:
 
 The phrase "We define direction, not decisions" is not a retreat from human responsibility. It is the recognition that in a world of increasingly capable AI systems, the highest and most irreplaceable form of human contribution is not information processing or operational decision-making, but the definition of what matters, what boundaries constrain action, and what future the organisation is building toward. This is the situational awareness that Level 3 demands.
 
----
+
 
 ## References
 

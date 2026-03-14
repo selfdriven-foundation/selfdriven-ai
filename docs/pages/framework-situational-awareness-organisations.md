@@ -80,4 +80,4 @@ permalink: /situational-awareness-framework/organisations/
 
 ---
 
-- [A deep analysis of Level 3 in the selfdriven Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/deep-analysis)
+- [A Deep Analysis of Level 3 in the selfdriven Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/deep-analysis)
