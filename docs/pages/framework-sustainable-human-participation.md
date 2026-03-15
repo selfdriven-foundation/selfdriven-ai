@@ -7,7 +7,7 @@ summary: >
 permalink: /framework/sustainable-human-participation
 ---
 
-# A Selfdriven Framework for Sustainable Human Participation
+# A selfdriven Framework for Sustainable Human Participation
 ## Human Work Constraints in an Age of Abundant Intelligence  
 
 Artificial intelligence is rapidly increasing the total amount of intelligence available to society. Tasks that once required significant human cognitive effort can now be performed instantly by machines. This transformation does not remove human participation from society, but it changes the nature and intensity of human engagement.
