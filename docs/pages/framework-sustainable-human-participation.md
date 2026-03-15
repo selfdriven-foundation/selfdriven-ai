@@ -14,7 +14,7 @@ Artificial intelligence is rapidly increasing the total amount of intelligence a
 
 In an environment saturated with machine-generated intelligence, the scarce resource becomes **human cognitive stability** rather than intelligence itself. Humans remain biologically constrained organisms operating within ecosystems of near-unlimited informational output.
 
-This paper introduces a **Selfdriven Framework for Sustainable Human Participation**, proposing that humans will need to intentionally limit their work exposure within high-intelligence environments. Rather than maximizing continuous productivity, societies may need to design systems that protect human cognitive health while enabling meaningful human verification, governance, and cultural participation.
+This paper introduces a **selfdriven Framework for Sustainable Human Participation**, proposing that humans will need to intentionally limit their work exposure within high-intelligence environments. Rather than maximizing continuous productivity, societies may need to design systems that protect human cognitive health while enabling meaningful human verification, governance, and cultural participation.
 
 The central insight is simple:
 
@@ -220,7 +220,7 @@ Future cultural values may shift toward:
 
 Human identity becomes less about constant work output and more about **responsible participation within intelligent systems**.
 
-## 8. The Selfdriven Participation Framework
+## 8. The selfdriven Participation Framework
 
 To maintain healthy societies within intelligence-rich environments, we can outline a simple framework.
 
