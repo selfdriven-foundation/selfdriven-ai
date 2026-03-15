@@ -14,7 +14,7 @@ Artificial intelligence is rapidly increasing the total amount of intelligence a
 
 In an environment saturated with machine-generated intelligence, the scarce resource becomes **human cognitive stability** rather than intelligence itself. Humans remain biologically constrained organisms operating within ecosystems of near-unlimited informational output.
 
-This paper introduces a **selfdriven Framework for Sustainable Human Participation**, proposing that humans will need to intentionally limit their work exposure within high-intelligence environments. Rather than maximizing continuous productivity, societies may need to design systems that protect human cognitive health while enabling meaningful human verification, governance, and cultural participation.
+This paper introduces a **selfdriven Framework for Sustainable Human Participation**, proposing that humans will need to intentionally limit their work exposure within high-intelligence environments. Rather than maximising continuous productivity, societies may need to design systems that protect human cognitive health while enabling meaningful human verification, governance, and cultural participation.
 
 The central insight is simple:
 
@@ -146,12 +146,13 @@ Without structural limits, burnout becomes systemic.
 
 ## 5. The Human Role Shift
 
-### From Producer to Verifier
+### From Producer to Conductor/Verifier
 
 As machine intelligence produces increasing volumes of work output, the human role begins to shift.
 
 Humans increasingly act as:
 
+- **conductors of organisational context**
 - **verifiers of machine output**
 - **ethical arbiters**
 - **context interpreters**
@@ -178,9 +179,7 @@ Humans may need structured limits on:
 - oversight responsibility
 - cognitive intensity
 
-Instead of maximizing work hours, societies may aim to optimize:
-
-**sustainable human cognition**
+Instead of maximising work hours, societies may aim to optimise: **sustainable human cognition**.
 
 Possible adaptations include:
 
@@ -265,7 +264,7 @@ To sustain human well-being in an AI-saturated world, societies may adopt princi
 
 Limit continuous exposure to high-intelligence decision environments.
 
-#### Normalize Limited Work Participation
+#### Normalise Limited Work Participation
 
 Individuals may contribute meaningfully with far fewer working hours.
 
@@ -275,7 +274,7 @@ Avoid concentrating AI oversight within small groups.
 
 #### Encourage Cognitive Recovery
 
-Rest and disengagement become institutionalized components of social systems.
+Rest and disengagement become institutionalised components of social systems.
 
 ## 10. Conclusion
 
@@ -283,13 +282,13 @@ Artificial intelligence dramatically expands the amount of intelligence availabl
 
 As intelligence becomes abundant, the challenge shifts from producing work to managing human exposure to it.
 
-Rather than maximizing human productivity, future societies may need to **limit human work participation** to prevent widespread cognitive burnout.
+Rather than maximising human productivity, future societies may need to **limit human work participation** to prevent widespread cognitive burnout.
 
 In this context, working fewer hours is not a failure of human relevance. It is an adaptation to a world where intelligence is abundant but **human attention remains scarce**.
 
 The long-term challenge of the AI era is therefore not technological capability but institutional design: building systems that allow humans to remain mentally healthy participants within ecosystems of superhuman intelligence.
 
-The success of future civilizations may depend less on how much intelligence they produce, and more on **how wisely humans choose to engage with it**.
+The success of future civilisations may depend less on how much intelligence they produce, and more on **how wisely humans choose to engage with it**.
 
 ---
 
