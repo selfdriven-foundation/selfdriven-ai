@@ -1,14 +1,15 @@
 ---
 layout: selfdriven
-title: Sustainable Human Participation - Framework - selfdrivenAI
+title: Sustainable Human Participation - Research - selfdrivenAI
 subtitle: Human Work Constraints in an Age of Abundant Intelligence
 summary: >
    Artificial intelligence is rapidly increasing the total amount of intelligence available to society. Tasks that once required significant human cognitive effort can now be performed instantly by machines. This transformation does not remove human participation from society, but it changes the nature and intensity of human engagement.
-permalink: /framework/sustainable-human-participation
+permalink: /research/sustainable-human-participation
 ---
 
-# Human Work Constraints in an Age of Abundant Intelligence  
-## A Selfdriven Framework for Sustainable Human Participation
+# Sustainable Human Participation
+
+**Human Work Constraints in an Age of Abundant Intelligence**
 
 Artificial intelligence is rapidly increasing the total amount of intelligence available to society. Tasks that once required significant human cognitive effort can now be performed instantly by machines. This transformation does not remove human participation from society, but it changes the nature and intensity of human engagement.
 
@@ -21,11 +22,9 @@ The central insight is simple:
 **The future problem is not too little intelligence.  
 It is too much intelligence for human minds to sustainably process.**
 
+## 1. Situational Awareness
 
-
-# 1. Situational Awareness
-
-## The Transition to Intelligence Abundance
+### The Transition to Intelligence Abundance
 
 For most of human history, intelligence was scarce.
 
@@ -58,17 +57,15 @@ at a rate far exceeding human cognitive throughput.
 
 The challenge therefore shifts from producing intelligence to **managing exposure to intelligence**.
 
+## 2. The Human Limits Layer
 
-
-# 2. The Human Limits Layer
-
-## Humans Are Biologically Constrained Cognitive Systems
+### Humans Are Biologically Constrained Cognitive Systems
 
 Despite technological acceleration, human cognition remains governed by biological limits.
 
 Key constraints include:
 
-### Limited Cognitive Throughput
+#### Limited Cognitive Throughput
 
 Humans cannot process unlimited information simultaneously.
 
@@ -79,7 +76,7 @@ Constraints include:
 - context switching cost
 - cognitive fatigue
 
-### Decision Fatigue
+#### Decision Fatigue
 
 Continuous decision environments degrade judgement quality.
 
@@ -90,7 +87,7 @@ Symptoms include:
 - emotional depletion
 - reduced impulse control
 
-### Emotional and Identity Load
+#### Emotional and Identity Load
 
 Humans interpret work through identity and meaning.
 
@@ -102,11 +99,9 @@ In environments where machines outperform humans in many cognitive domains, indi
 
 These psychological effects compound cognitive exhaustion.
 
+## 3. The Intelligence Abundance Layer
 
-
-# 3. The Intelligence Abundance Layer
-
-## AI Amplifies the Volume of Work Signals
+### AI Amplifies the Volume of Work Signals
 
 Artificial intelligence does not only automate work.
 
@@ -131,9 +126,7 @@ Without constraints, humans attempt to keep up.
 
 The result is **cognitive overload**.
 
-
-
-# 4. Burnout in Intelligence-Dense Environments
+## 4. Burnout in Intelligence-Dense Environments
 
 Traditional burnout emerged from physical labour intensity.
 
@@ -152,11 +145,9 @@ However, human minds cannot operate at sustained high-intensity cognition indefi
 
 Without structural limits, burnout becomes systemic.
 
+## 5. The Human Role Shift
 
-
-# 5. The Human Role Shift
-
-## From Producer to Verifier
+### From Producer to Verifier
 
 As machine intelligence produces increasing volumes of work output, the human role begins to shift.
 
@@ -175,11 +166,9 @@ However, verification itself requires attention, judgement, and responsibility.
 
 Thus human participation remains valuable but must occur within **biological limits**.
 
+## 6. The Human Work Constraint
 
-
-# 6. The Human Work Constraint
-
-## Why Humans May Need to Work Less
+### Why Humans May Need to Work Less
 
 In an intelligence-abundant society, continuous work engagement becomes harmful.
 
@@ -196,27 +185,25 @@ Instead of maximizing work hours, societies may aim to optimize:
 
 Possible adaptations include:
 
-### Limited Cognitive Work Windows
+#### Limited Cognitive Work Windows
 
 Humans may operate best in focused high-cognition windows such as:
 
 3–4 hours per day of intense cognitive engagement.
 
-### Rotational Oversight
+#### Rotational Oversight
 
 Communities distribute governance responsibilities across individuals rather than concentrating them permanently.
 
-### AI-Governed Human Exposure
+#### AI-Governed Human Exposure
 
 AI systems may monitor cognitive load and regulate human participation levels.
 
 In such systems, the goal becomes **human sustainability rather than maximum productivity**.
 
+## 7. Cultural Transition
 
-
-# 7. Cultural Transition
-
-## Moving Beyond the Busyness Identity
+### Moving Beyond the Busyness Identity
 
 Modern societies equate value with visible activity.
 
@@ -234,13 +221,11 @@ Future cultural values may shift toward:
 
 Human identity becomes less about constant work output and more about **responsible participation within intelligent systems**.
 
-
-
-# 8. The Selfdriven Participation Framework
+## 8. The Selfdriven Participation Framework
 
 To maintain healthy societies within intelligence-rich environments, we can outline a simple framework.
 
-## Zone 1 — Engagement
+### Zone 1 — Engagement
 
 Humans interact with AI systems to:
 
@@ -250,9 +235,7 @@ Humans interact with AI systems to:
 
 This zone requires curiosity but not constant intensity.
 
-
-
-## Zone 2 — Governance
+### Zone 2 — Governance
 
 Humans perform verification and judgement functions such as:
 
@@ -262,9 +245,7 @@ Humans perform verification and judgement functions such as:
 
 This zone requires focused cognitive engagement.
 
-
-
-## Zone 3 — Disengagement
+### Zone 3 — Disengagement
 
 Humans deliberately exit high-intelligence environments to recover cognitively.
 
@@ -277,31 +258,27 @@ Activities include:
 
 This zone is essential for maintaining long-term cognitive health.
 
-
-
-# 9. Design Principles for Post-Labour Societies
+## 9. Design Principles for Post-Labour Societies
 
 To sustain human well-being in an AI-saturated world, societies may adopt principles such as:
 
-### Protect Human Cognitive Health
+#### Protect Human Cognitive Health
 
 Limit continuous exposure to high-intelligence decision environments.
 
-### Normalize Limited Work Participation
+#### Normalize Limited Work Participation
 
 Individuals may contribute meaningfully with far fewer working hours.
 
-### Distribute Responsibility
+#### Distribute Responsibility
 
 Avoid concentrating AI oversight within small groups.
 
-### Encourage Cognitive Recovery
+#### Encourage Cognitive Recovery
 
 Rest and disengagement become institutionalized components of social systems.
 
-
-
-# 10. Conclusion
+## 10. Conclusion
 
 Artificial intelligence dramatically expands the amount of intelligence available to society. Yet human cognitive systems remain biologically constrained.
 
@@ -317,4 +294,4 @@ The success of future civilizations may depend less on how much intelligence the
 
 ---
 
-- [Sustainable Human Participation](/research/sustainable-human-participation)
+- [Sustainable Human Participation Framework](/framework/sustainable-human-participation)

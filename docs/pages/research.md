@@ -12,7 +12,7 @@ permalink: /research/
 - [Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/)
 - [Wait or Build Framework](/wait-or-build-framework/)
 - [Input, Injected-Intelligence, Output Framework](/input-injected-intelligence-output-framework)
-- [Sustainable Human Participation](/framework/sustainable-human-participation)
+- [Sustainable Human Participation Framework](/framework/sustainable-human-participation)
 
 ## Benchmarks
 - [ARC-AGI-2](https://arcprize.org/leaderboard)
@@ -30,6 +30,7 @@ permalink: /research/
 - [Google DeepMind](https://www.youtube.com/@googledeepmind) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Topics
+- [Sustainable Human Participation](/research/sustainable-human-participation)
 - [The Rising Tank](/research/the-rising-tank)
 - [It’s all so quiet — the busy-ness has gone.](https://www.selfdriven.business)
 - [The Quiet Life Initiative](https://www.selfdriven.business/initiatives/the-quiet-life) - Helping People Self-Actuate Beyond “Work Busyness”
