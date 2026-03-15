@@ -12,6 +12,7 @@ permalink: /research/
 - [Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/)
 - [Wait or Build Framework](/wait-or-build-framework/)
 - [Input, Injected-Intelligence, Output Framework](/input-injected-intelligence-output-framework)
+- [Sustainable Human Participation](/framework/sustainable-human-participation)
 
 ## Benchmarks
 - [ARC-AGI-2](https://arcprize.org/leaderboard)
