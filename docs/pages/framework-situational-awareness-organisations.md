@@ -80,4 +80,5 @@ permalink: /situational-awareness-framework/organisations/
 
 ---
 
+- [AI Capability Progression 2024–2026](/situational-awareness-framework/ai-capability-progression)
 - [A Deep Analysis of Level 3 in the selfdriven Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/deep-analysis)
