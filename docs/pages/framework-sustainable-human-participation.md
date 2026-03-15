@@ -292,4 +292,5 @@ The success of future civilisations may depend less on how much intelligence the
 
 ---
 
-- [Sustainable Human Participation](/research/sustainable-human-participation)
+- [AI Capability Progression 2024–2026](/situational-awareness-framework/ai-capability-progression)
+- [Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/)
