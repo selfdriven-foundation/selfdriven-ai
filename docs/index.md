@@ -3,21 +3,21 @@ layout: selfdriven
 title: selfdriven AI
 ---
 
-## Generative AI and Self-Actuating Communities
+# Generative AI and Self-Actuating Communities
 
 - [Research](/research/)
 - [Tech](/tech/)
 - [Usage](/usage/)
 - [Resources](/resources/)
 
-### Frameworks
+## Frameworks
 
 - [Impact on Mind Framework](/impact-on-mind-framework/)
 - [Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/)
 - [Wait or Build Framework](/wait-or-build-framework/)
 - [Input, Injected-Intelligence, Output Framework](/input-injected-intelligence-output-framework)
 
-### Related
+## Related
 
 - [selfdriven.fyi/intelligence](https://selfdriven.fyi/intelligence)
 - [selfdriven.fyi/cog-assist](https://selfdriven.fyi/cog-assist)
