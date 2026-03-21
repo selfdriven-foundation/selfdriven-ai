@@ -1,6 +1,6 @@
 ---
 layout: selfdriven
-title: Not Use All AI Tokens Syndrome (NUATS)
+title: Research - Not Use All AI Tokens Syndrome (NUATS)
 parent: Sustainable Human Participation
 grand_parent: Research
 nav_order: 9
@@ -25,11 +25,9 @@ version: 1.0
 author: selfdriven.ai
 ---
 
-# Not Use All AI Tokens Syndrome (NUATS)
+# Research, Not Use All AI Tokens Syndrome (NUATS)
 
-## A Behavioural Definition
-
-
+A Behavioural Definition
 
 ## 1. Definition
 
