@@ -26,9 +26,6 @@ author: selfdriven.ai
 ---
 
 # Not Use All AI Tokens Syndrome (NUATS)
-### Appendix to Sustainable Human Participation
-
----
 
 As artificial intelligence becomes a ubiquitous layer of cognition, a new behavioural pathology emerges: the compulsion to fully utilise available AI capacity simply because it exists. This paper defines **“Not Use All AI Tokens Syndrome (NUATS)”** as a counter-principle to this compulsion — a discipline of *intentional non-consumption* of AI resources.
 
