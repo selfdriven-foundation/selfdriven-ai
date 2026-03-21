@@ -291,6 +291,6 @@ The long-term challenge of the AI era is therefore not technological capability 
 
 The success of future civilizations may depend less on how much intelligence they produce, and more on **how wisely humans choose to engage with it**.
 
----
-- [Not Use All AI Tokens Syndrome (NUATS)](/framework/sustainable-human-participation/nuats)
+## Related
+- [Research, Not Use All AI Tokens Syndrome (NUATS)](/research/sustainable-human-participation/nuats)
 - [From 20W to 200W](/framework/sustainable-human-participation/20w-to-200w)
