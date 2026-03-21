@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Not Use All AI Tokens Syndrome (NUATS)
 parent: Sustainable Human Participation
 grand_parent: Research
