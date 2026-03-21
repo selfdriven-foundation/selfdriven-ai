@@ -4,7 +4,7 @@ title: Not Use All AI Tokens Syndrome (NUATS)
 parent: Sustainable Human Participation
 grand_parent: Research
 nav_order: 9
-permalink: /research/sustainable-human-participation/nuats-syndrome
+permalink: /research/sustainable-human-participation/nuats
 
 description: >
   A behavioural and systemic syndrome describing the compulsion to fully utilise
