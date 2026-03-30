@@ -239,7 +239,7 @@ This is a RISC-style instruction sequence for governance.
 
 
 
-## 7. Node.js `.then()` Mapped to Silicon
+## 7. Node.js .then() Mapped to Silicon
 
 **Application level**
 
