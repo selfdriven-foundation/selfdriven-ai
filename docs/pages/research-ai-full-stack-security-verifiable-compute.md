@@ -13,13 +13,18 @@ permalink: /research/ai-full-stack-security-verifiable-compute
 
 **From HTTPS to Silicon Under AI-Native Threat Models**
 
-## Abstract
-
 Modern information systems were designed under the assumption that attackers are constrained by expertise, time, and abstraction layers. AI agents invalidate these assumptions by reasoning across the entire stack simultaneously—from protocol parsing to CPU execution and even physical signal leakage.
 
 This paper reframes security as a problem of governing state transitions, and proposes a RISC-style verifiable instruction pipeline where every action is explicitly authorised, bounded, and provable.
 
+## Podcast
 
+*20min*
+
+<audio controls>
+	<source src="/assets/audio/research-ai-makes_traditional-security-layers-obsolete.m4a" type="audio/mp4">
+	Your browser does not support the audio element.
+</audio>
 
 ## 1. The Collapse of Layered Security
 
