@@ -30,6 +30,7 @@ permalink: /research/
 - [Google DeepMind](https://www.youtube.com/@googledeepmind) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Topics
+- [AI Full-Stack Security and Verifiable Compute](/research/ai-full-stack-security-verifiable-compute)
 - [Sustainable Human Participation](/research/sustainable-human-participation)
 - [The Rising Tank](/research/the-rising-tank)
 - [It’s all so quiet — the busy-ness has gone.](https://www.selfdriven.business)
