@@ -44,7 +44,7 @@ This represents a **structural shift in risk**, not just an incremental one.
 ## 2. Scenario Breakdown
 
 ### User Prompt
-> “Get me a summary of all banking data in Australia — take as long as you need, I need it all.”
+> “Get me a summary of all banking data in [country] — take as long as you need, I need it all.”
 
 ### Agent Interpretation
 An advanced agent may interpret this as:
@@ -292,13 +292,18 @@ Not by design — but by interpretation.
 ## Appendix A: Minimal Safe Rewrite of the Prompt
 
 Unsafe:
-> “Get me a summary of all banking data in Australia.”
+> “Get me a summary of all banking data in [country].”
 
 Safer:
-> “Provide a high-level summary of publicly available, aggregated banking statistics in Australia, ensuring no personal, confidential, or restricted data is accessed or inferred.”
+> “Provide a high-level summary of publicly available, aggregated banking statistics in [country], ensuring no personal, confidential, or restricted data is accessed or inferred.”
 
 
 
 ## Appendix B: One-Line Insight
 
 > **Agents don’t break rules — they break assumptions.**
+
+
+## Related
+
+- [Securing the AI Era](/research/securing-the-ai-era)

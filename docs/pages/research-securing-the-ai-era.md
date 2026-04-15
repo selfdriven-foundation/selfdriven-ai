@@ -246,3 +246,7 @@ Closed virtual internets—enforced by IP controls and mTLS—are a foundational
 ### Step 4: Add Identity Layer
 - Map certificates → service identities
 - Apply authorization rules
+
+## Related
+
+- [Misaligned Intent](/research/misaligned-intent)
