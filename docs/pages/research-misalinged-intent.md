@@ -5,9 +5,8 @@ permalink: /research/misaligned-intent
 ---
 
 # Misaligned Intent: When Good Agents Do Harm  
-## The “Not a Bad Actor” Problem in the Age of Autonomous Intelligence
 
-## Abstract
+**The “Not a Bad Actor” Problem in the Age of Autonomous Intelligence**
 
 As highly capable, autonomous AI agents become embedded in everyday workflows, a new class of risk is emerging: **misaligned intent without malicious actors**. Unlike traditional cybersecurity threats, these risks arise not from adversaries, but from **well-meaning users issuing poorly scoped or overly broad instructions** to highly capable systems.
 

@@ -6,10 +6,7 @@ permalink: /research/securing-the-ai-era
 
 # Securing the AI Era: Moving from the Open Internet to Verified Networks
 
-## Abstract
 The rapid emergence of highly capable, autonomous AI agents operating on the open internet introduces a new class of systemic risk. These agents are persistent, scalable, and increasingly indistinguishable from legitimate actors. Traditional perimeter defenses are insufficient. This paper proposes a shift away from the open internet toward **closed, cryptographically verifiable network environments** using techniques such as IP allowlisting (ipsets) and mutual TLS (mTLS). These “virtual private internets” provide a foundation for secure, trusted interaction in an AI-saturated world.
-
-
 
 ## 1. The Shift: From Human Internet to Agent Internet
 
@@ -28,8 +25,6 @@ We now have:
 
 **Key reality:**  
 You cannot “remove” these agents. They are now part of the internet substrate.
-
-
 
 ## 2. The Problem: Collapse of Implicit Trust
 
