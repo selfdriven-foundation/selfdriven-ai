@@ -4,9 +4,14 @@ title: Tech - selfdrivenAI
 permalink: /tech/
 ---
 
-## A selection of technology powering Generative AI for use within self-actuating communities.
+# A selection of technology powering Generative AI for use within self-actuating communities.
 
-### Models & Engines
+
+## Security
+- [Project Glasswing](https://anthropic.com/glasswing) - Securing critical software for the AI era
+- [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
+
+## Models & Engines
 - [Hugging Face (Open-Source Model Repository)](https://huggingface.co/)
 - [Hierarchical Reasoning Model](https://github.com/sapientinc/HRM)
 
