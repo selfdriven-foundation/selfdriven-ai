@@ -70,9 +70,7 @@ As team size grows:
 
 ### 3.1 Communication Graph Expansion
 
-\[
-\text{Connections} = \frac{n(n - 1)}{2}
-\]
+> Connections = n(n - 1) / 2
 
 At scale, this means:
 - More messages  
