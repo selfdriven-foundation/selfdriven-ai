@@ -11,7 +11,7 @@ permalink: /research/convergence-from-emergence
 ## Abstract  
 We are entering a phase where highly capable, autonomous agents operate in open environments with minimal central coordination. Initially, this produces **emergence**—unpredictable, localised behaviours. Over time, these behaviours begin to stabilise into patterns, interfaces, and shared expectations. This paper explores the transition from emergence to convergence, and argues that convergence is not imposed—it is **discovered, compressed, and reinforced**.
 
----
+
 
 ## 1. Emergence: The Starting Condition  
 
@@ -33,7 +33,7 @@ In AI-native environments, emergence is amplified because:
 
 **Result:** A chaotic but highly generative system.
 
----
+
 
 ## 2. Pressure Toward Convergence  
 
@@ -57,7 +57,7 @@ Intelligence consumes compute, bandwidth, attention.
 
 **Convergence is the response to pressure.**
 
----
+
 
 ## 3. What Converges  
 
@@ -70,7 +70,7 @@ Convergence does not happen everywhere equally. It tends to stabilise around:
 
 These become predictable surfaces between agents.
 
----
+
 
 ### 3.2 Identity  
 - Persistent identifiers  
@@ -79,7 +79,7 @@ These become predictable surfaces between agents.
 
 Agents converge on **who is acting**, not just what is done.
 
----
+
 
 ### 3.3 Intent Expression  
 - Task descriptions  
@@ -88,7 +88,7 @@ Agents converge on **who is acting**, not just what is done.
 
 Shared language emerges for expressing “what should happen”.
 
----
+
 
 ### 3.4 Verification  
 - Proofs  
@@ -97,7 +97,7 @@ Shared language emerges for expressing “what should happen”.
 
 Convergence favours systems that can **prove outcomes**, not just claim them.
 
----
+
 
 ## 4. The Convergence Loop  
 
@@ -117,7 +117,7 @@ Over time, this produces:
 **Key insight:**  
 > Convergence is compressed emergence.
 
----
+
 
 ## 5. Role of AI Agents  
 
@@ -136,7 +136,7 @@ AI agents accelerate both sides:
 Agents do not just participate in convergence—  
 they **actively construct it**.
 
----
+
 
 ## 6. Risks of Premature Convergence  
 
@@ -151,13 +151,13 @@ Convergence can collapse diversity into a few dominant systems.
 ### 6.3 False Trust  
 Widely adopted systems may still be unverifiable.
 
----
+
 
 **Design Principle:**  
 > Delay convergence where exploration is still valuable.  
 > Enforce convergence where trust and safety are critical.
 
----
+
 
 ## 7. Designing for Healthy Convergence  
 
@@ -168,28 +168,28 @@ To guide convergence effectively:
 - Transparent logs  
 - Deterministic outputs  
 
----
+
 
 ### 7.2 Keep Interfaces Minimal  
 - Small surface areas  
 - Clear contracts  
 - Composable primitives  
 
----
+
 
 ### 7.3 Preserve Optionality  
 - Modular systems  
 - Replaceable components  
 - Forkable standards  
 
----
+
 
 ### 7.4 Anchor Identity and Trust  
 - Self-sovereign identity (SSI)  
 - Verifiable credentials  
 - Decentralised trust roots  
 
----
+
 
 ## 8. From Organisations to Systems  
 
@@ -202,13 +202,13 @@ AI-native systems:
 This leads to a shift:
 
 | Old Model        | New Model        |
-|-----------------|-----------------|
+|--|--|
 | Structure first | Behaviour first |
 | Control         | Coordination    |
 | Authority       | Verifiability   |
 | Roles           | Capabilities    |
 
----
+
 
 ## 9. Implication: The End of Fixed Boundaries  
 
@@ -220,7 +220,7 @@ As convergence emerges:
 We move toward:
 > Networks of capability, coordinated through converged interfaces and trust layers.
 
----
+
 
 ## 10. Conclusion  
 
@@ -232,7 +232,7 @@ In AI-native environments, both are accelerating simultaneously.
 The goal is not to eliminate emergence, nor to force convergence—  
 but to **shape the conditions under which convergence becomes trustworthy, minimal, and reversible**.
 
----
+
 
 ## Appendix: One-Line Model  
 
