@@ -269,4 +269,4 @@ It is:
 
 ## Appendix: One-Line Security Model
 
-> **Security ∝ 1 / (Human Count × AI Capability)**
+> **ecurity decreases as the number of people and AI capability increase**
