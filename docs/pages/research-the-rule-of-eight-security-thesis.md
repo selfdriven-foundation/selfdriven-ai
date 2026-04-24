@@ -1,6 +1,6 @@
 ---
 layout: selfdriven
-title: The Rule of Eight (Security Thesis) 
+title: The Rule of Eight (Security Thesis)  
 subtitle: "Why AI forces organisations to shrink to eight humans to remain secure"
 permalink: /research/the-rule-of-eight-security-thesis
 ---
