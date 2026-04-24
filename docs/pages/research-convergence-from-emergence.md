@@ -11,6 +11,14 @@ permalink: /research/convergence-from-emergence
 ## Abstract  
 We are entering a phase where highly capable, autonomous agents operate in open environments with minimal central coordination. Initially, this produces **emergence**—unpredictable, localised behaviours. Over time, these behaviours begin to stabilise into patterns, interfaces, and shared expectations. This paper explores the transition from emergence to convergence, and argues that convergence is not imposed—it is **discovered, compressed, and reinforced**.
 
+## Podcast
+
+*Why AI agents organise without managers, 12min*
+
+<audio controls>
+	<source src="/assets/audio/research-why-ai-agents-organise-without-managers.m4a" type="audio/mp4">
+	Your browser does not support the audio element.
+</audio>
 
 
 ## 1. Emergence: The Starting Condition  
