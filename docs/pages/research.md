@@ -30,6 +30,8 @@ permalink: /research/
 - [Google DeepMind](https://www.youtube.com/@googledeepmind) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Topics
+- [Why AI collapses the optimal organisation size to eight humans](/research/the-rule-of-eight-org)
+- [Why AI forces organisations to shrink to eight humans to remain secure](/research/the-rule-of-eight-security-thesis)
 - [Internal AI as an Insider Threat Multiplier](/research/internal-threats-in-the-ai-era)
 - [Misaligned Intent](/research/misaligned-intent)
 - [Securing the AI Era](/research/securing-the-ai-era)
