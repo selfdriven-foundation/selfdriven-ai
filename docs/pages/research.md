@@ -30,6 +30,7 @@ permalink: /research/
 - [Google DeepMind](https://www.youtube.com/@googledeepmind) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Topics
+- [IP in the Age of Abundant Intelligence](/research/ip-in-the-age-of-abundant-intelligence)
 - [Convergence from Emergence](/research/convergence-from-emergence)
 - [Why AI collapses the optimal organisation size to eight humans](/research/the-rule-of-eight-org)
 - [Why AI forces organisations to shrink to eight humans to remain secure](/research/the-rule-of-eight-security-thesis)
