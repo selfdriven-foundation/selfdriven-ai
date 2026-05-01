@@ -3,7 +3,7 @@ layout: selfdriven
 title: selfdriven AI
 ---
 
-# Generative AI and Self-Actuating Communities
+# Generative AI & Self-Driven Communities
 
 - [Research](/research/)
 - [Tech](/tech/)
