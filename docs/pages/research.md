@@ -30,6 +30,7 @@ permalink: /research/
 - [Google DeepMind](https://www.youtube.com/@googledeepmind) <span style="color:#888888;font-size:0.68rem;">[IoMF:2]</span>
 
 ## Topics
+- [Astrology as a Simulation Interface](/topic/astrology/as-simulation-interface)
 - [From Value to Signal - Uranus in Gemini and the Rise of Intelligent Networks](/topic/astrology/from-value-to-signal)
 - [IP in the Age of Abundant Intelligence](/research/ip-in-the-age-of-abundant-intelligence)
 - [IP in the Age of Abundant Intelligence](/research/ip-in-the-age-of-abundant-intelligence)

@@ -248,3 +248,7 @@ This aligns with:
 - Decentralised coordination systems  
 
 And suggests that the defining infrastructure of the coming decade will not be platforms — but protocols.
+
+---
+
+- [Astrology as a Simulation Interface](/topic/astrology/as-simulation-interface)
