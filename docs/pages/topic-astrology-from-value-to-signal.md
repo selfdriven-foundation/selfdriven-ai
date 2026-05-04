@@ -251,4 +251,13 @@ And suggests that the defining infrastructure of the coming decade will not be p
 
 ---
 
+## As a Podcast
+
+<audio controls>
+	<source src="/assets/audio/selfdriven-ai-topic-astrology-as-interface-of-ai.m4a" type="audio/mp4">
+	Your browser does not support the audio element.
+</audio>
+
+---
+
 - [Astrology as a Simulation Interface](/topic/astrology/as-simulation-interface)

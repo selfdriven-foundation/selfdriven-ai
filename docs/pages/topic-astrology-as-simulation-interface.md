@@ -233,4 +233,13 @@ Resulting in:
 
 ---
 
+## As a Podcast
+
+<audio controls>
+	<source src="/assets/audio/selfdriven-ai-topic-astrology-as-interface-of-ai.m4a" type="audio/mp4">
+	Your browser does not support the audio element.
+</audio>
+
+---
+
 - [From Value to Signal - Uranus in Gemini and the Rise of Intelligent Networks](/topic/astrology/from-value-to-signal)
