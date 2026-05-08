@@ -83,6 +83,7 @@ permalink: /research/
 - [Playing with Reality](https://www.penguinrandomhouse.com/books/700440/playing-with-reality-by-kelly-clancy/) <span style="color:#888888;font-size:0.68rem;">[IoMF:2?]</span>
 
 ## Videos
+- [Simulation, Double Split Experiment](https://youtu.be/f_FcbzMt9L8)
 - [Mo Gawlet, We Are Entering The Most Dangerous Phase Of AI Yet AI](https://youtu.be/RljBVCnt9AQ)
 - [UK Parliament Hearing on AI Risks, Impact, and Regulation](https://selfdriven.institute/resources/uk-parliament-hearing-on-ai-risks-impact-and-regulation)
 - [Jeff Booth, The Final Reset](https://youtu.be/lhHKljqRa-M)
