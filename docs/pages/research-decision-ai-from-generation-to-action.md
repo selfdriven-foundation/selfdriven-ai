@@ -22,12 +22,14 @@ But autonomous systems need something different.
 
 They need to **decide**.
 
+## Podcast
+
 <audio controls preload="metadata" style="width: 100%;">
   <source src="https://raw.githubusercontent.com/selfdriven-foundation/selfdriven-institute/main/resources/podcasts/Why_verified_context_beats_AI_models.m4a" type="audio/mp4">
   Your browser does not support the audio element. <a href="https://github.com/selfdriven-foundation/selfdriven-institute/blob/main/resources/podcasts/Why_verified_context_beats_AI_models.m4a">Listen to the podcast</a>.
 </audio>
 
-[Slides: Distributed Decision Intelligence (PDF)](https://github.com/selfdriven-foundation/selfdriven-institute/blob/main/resources/slides/Distributed_Decision_Intelligence.pdf)
+[Distributed Decision Intelligence (PDF)](https://github.com/selfdriven-foundation/selfdriven-institute/blob/main/resources/slides/Distributed_Decision_Intelligence.pdf)
 
 
 ## Generative AI → Decision AI
