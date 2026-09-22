@@ -1,7 +1,7 @@
 ---
 layout: selfdriven
 title: From generating answers to making decisions - Research - selfdrivenAI
-permalink: /paper/decision-ai-from-generation-to-action
+permalink: /research/decision-ai-from-generation-to-action
 ---
 
 # Decision AI
