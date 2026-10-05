@@ -1,713 +1,325 @@
 ---
-layout: null
+layout: default
 title: AI Capability Progression 2024–2026
 permalink: /situational-awareness-framework/ai-capability-progression
 description: "Overview, Benchmarks, Task, Horizon, ARC-AGI-2, Key, Findings, Timeline"
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="shortcut icon" href="/assets/img/selfdriven-logo-round-blackcurrant-flamingo.png">
-<link rel="apple-touch-icon" href="/assets/img/selfdriven-logo-round-blackcurrant-flamingo.png" />
-<title>AI Capability Progression 2024–2026</title>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+{%- capture arrow -%}<svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>{%- endcapture -%}
+
+<section class="hero" aria-labelledby="progression-title">
+	<div class="hero-copy">
+		<p class="crumb"><a href="/">selfdriven AI</a> / <a href="/situational-awareness-framework/organisations/">Situational Awareness Framework</a></p>
+		<p class="eyebrow">Research summary · March 2026</p>
+		<h1 id="progression-title">AI capability <em>progression</em> 2024–2026</h1>
+		<p class="intro">Frontier AI capability has advanced faster in 2024–2026 than in any prior two-year period. Three benchmarks illustrate the pace — and the acceleration is real.</p>
+		<p class="hero-meta">Benchmark analysis · Frontier models · Sources: Epoch AI · Stanford HAI · METR · ARC Prize</p>
+		<ul class="jump" aria-label="Sections">
+			<li><a href="#overview">Overview</a></li>
+			<li><a href="#benchmarks">Benchmarks</a></li>
+			<li><a href="#metr">Task horizon</a></li>
+			<li><a href="#arc">ARC-AGI-2</a></li>
+			<li><a href="#findings">Findings</a></li>
+			<li><a href="#timeline">Timeline</a></li>
+		</ul>
+	</div>
+	<div class="hero-media">
+		<a class="hero-art" href="#metr" aria-label="METR task horizon: from about 2 minutes in January 2024 to about 8 hours in March 2026">
+			<span class="ward" aria-hidden="true">
+				<svg viewBox="0 0 640 470" preserveAspectRatio="xMidYMid meet" role="presentation">
+					<line class="grid-line" x1="0" y1="380" x2="640" y2="380"/>
+					<line class="grid-line" x1="0" y1="286.7" x2="640" y2="286.7"/>
+					<line class="grid-line" x1="0" y1="214" x2="640" y2="214"/>
+					<line class="grid-line" x1="0" y1="120.7" x2="640" y2="120.7"/>
+					<text class="kel-tag" x="628" y="376" text-anchor="end">1m</text>
+					<text class="kel-tag" x="628" y="282.7" text-anchor="end">10m</text>
+					<text class="kel-tag" x="628" y="210" text-anchor="end">1h</text>
+					<text class="kel-tag" x="628" y="116.7" text-anchor="end">10h</text>
+					<polyline class="trace-glow" points="60,351.9 125,323.8 190,295.7 255,262.8 320,235.9 385,205 450,176.9 515,148.8 580,129.8"/>
+					<polyline class="trace" points="60,351.9 125,323.8 190,295.7 255,262.8 320,235.9 385,205 450,176.9 515,148.8 580,129.8"/>
+					<g fill="#ffffff" opacity=".8">
+						<circle cx="60" cy="351.9" r="3.5"/><circle cx="125" cy="323.8" r="3.5"/><circle cx="190" cy="295.7" r="3.5"/><circle cx="255" cy="262.8" r="3.5"/><circle cx="320" cy="235.9" r="3.5"/><circle cx="385" cy="205" r="3.5"/><circle cx="450" cy="176.9" r="3.5"/><circle cx="515" cy="148.8" r="3.5"/>
+					</g>
+					<circle class="pulse" cx="580" cy="129.8" r="6"/>
+					<text class="readout" x="40" y="150" font-size="64" font-weight="600" letter-spacing="-2">~8 hr</text>
+					<text class="readout-label" x="42" y="182">MAR 2026 · 50% SUCCESS</text>
+					<text class="readout-label" x="76" y="368">~2 MIN · JAN 2024</text>
+				</svg>
+			</span>
+			<span class="art-label">METR · TASK HORIZON</span>
+			<span class="art-foot"><span>Task length doubling every 5–7 months</span> {{ arrow }}</span>
+		</a>
+	</div>
+</section>
+
+<section class="data-section" id="overview" aria-labelledby="overview-title">
+	<div class="section-heading">
+		<div>
+			<span class="scope-tag">01 — Overview</span>
+			<h2 id="overview-title">Two years of <em>accelerating</em> progress</h2>
+		</div>
+		<p class="section-note">Frontier AI capability has advanced faster in 2024–2026 than in any prior two-year period. The headline numbers:</p>
+	</div>
+	<div class="stats">
+		<div class="stat"><p class="stat-num">80%+</p><p class="stat-label">SWE-bench Verified — from 4% in early 2023</p></div>
+		<div class="stat"><p class="stat-num">94%</p><p class="stat-label">GPQA Diamond — from ~36% in early 2024</p></div>
+		<div class="stat"><p class="stat-num">~$1</p><p class="stat-label">Cost per million tokens — from $30+ in 2023 (a 30× drop)</p></div>
+		<div class="stat"><p class="stat-num">77%+</p><p class="stat-label">ARC-AGI-2 — from below 5% at launch in March 2025</p></div>
+	</div>
+	<p class="callout"><strong>Acceleration confirmed.</strong> Epoch AI found their Capabilities Index grew almost twice as fast over the last two years compared to the prior two — a ~90% acceleration beginning April 2024, coinciding with the rise of reasoning models and reinforcement learning at frontier labs.</p>
+</section>
+
+<section class="data-section" id="benchmarks" aria-labelledby="benchmarks-title">
+	<div class="section-heading">
+		<div>
+			<span class="scope-tag">02 — Benchmark trends</span>
+			<h2 id="benchmarks-title">Capability across three key metrics</h2>
+		</div>
+		<p class="section-note">SWE-bench (coding), GPQA Diamond (scientific reasoning) and AIME math competition scores — each showing consistent upward progression from March 2024 to March 2026.</p>
+	</div>
+	<figure class="chart-card">
+		<div class="chart-head">
+			<div>
+				<p class="chart-title">Benchmark score progression</p>
+				<p class="chart-sub">Best-in-class scores per benchmark, Mar 2024 – Mar 2026</p>
+			</div>
+			<ul class="legend">
+				<li><span class="key" style="background:var(--chart-1)"></span>SWE-bench (coding)</li>
+				<li><span class="key" style="background:var(--chart-2)"></span>GPQA Diamond (science)</li>
+				<li><span class="key" style="background:var(--chart-3)"></span>AIME math</li>
+			</ul>
+		</div>
+		<div class="chart-box"><canvas id="benchChart" role="img" aria-label="Line chart: SWE-bench rises from 18% to 80%, GPQA Diamond from 38% to 92%, AIME from 14% to 96%, March 2024 to March 2026"></canvas></div>
+		<figcaption class="chart-note">Data sourced from model cards, Stanford HAI AI Index 2025, and Epoch AI Benchmarking Hub. Scores reflect best published results per period across all frontier models.</figcaption>
+	</figure>
+</section>
+
+<section class="data-section" id="metr" aria-labelledby="metr-title">
+	<div class="section-heading">
+		<div>
+			<span class="scope-tag">03 — METR time horizon</span>
+			<h2 id="metr-title">Task length doubling every 5–7 months</h2>
+		</div>
+		<p class="section-note">METR measures the length of software engineering tasks an AI can complete with a 50% success rate. The log scale shows the exponential trend clearly — the linear view reveals the dramatic acceleration.</p>
+	</div>
+	<figure class="chart-card">
+		<div class="chart-head">
+			<div>
+				<p class="chart-title">AI task horizon (log scale)</p>
+				<p class="chart-sub">Exponential growth appears as a straight line on a log axis</p>
+			</div>
+			<ul class="legend">
+				<li><span class="key" style="background:var(--chart-1)"></span>Measured task length</li>
+				<li><span class="key dashed" style="color:var(--chart-ref)"></span>7-month doubling trend</li>
+			</ul>
+		</div>
+		<div class="chart-box"><canvas id="metrChart" role="img" aria-label="Log-scale line chart of AI task horizon rising from 2 minutes in January 2024 to 480 minutes in March 2026, tracking a 7-month doubling trend"></canvas></div>
+		<figcaption class="chart-note">The ringed point marks November 2025: Claude Opus 4.5 completing ~5-hour human tasks. Doubling pace accelerated from every 7 months (2024) to every ~5 months by mid-2025.</figcaption>
+	</figure>
+	<figure class="chart-card">
+		<div class="chart-head">
+			<div>
+				<p class="chart-title">AI task horizon (linear scale)</p>
+				<p class="chart-sub">The same data without log compression — the hockey stick shape</p>
+			</div>
+			<ul class="legend">
+				<li><span class="key" style="background:var(--chart-1)"></span>Measured task length</li>
+				<li><span class="key dashed" style="color:var(--chart-ref)"></span>7-month doubling trend</li>
+			</ul>
+		</div>
+		<div class="chart-box"><canvas id="metrLinear" role="img" aria-label="Linear-scale line chart of the same task horizon data, showing most growth in the final two data points"></canvas></div>
+		<figcaption class="chart-note">Linear scale makes the exponential shape visceral — the last two data points account for most of the total growth. This is what 9× improvement in 12 months looks like.</figcaption>
+	</figure>
+</section>
+
+<section class="data-section" id="arc" aria-labelledby="arc-title">
+	<div class="section-heading">
+		<div>
+			<span class="scope-tag">04 — ARC-AGI-2</span>
+			<h2 id="arc-title">The inflection benchmark</h2>
+		</div>
+		<p class="section-note">ARC-AGI-2 launched in March 2025 with all frontier models below 5%. Within a year, scores surged past the human baseline of 60%. This is the sharpest capability inflection on record.</p>
+	</div>
+	<figure class="chart-card">
+		<div class="chart-head">
+			<div>
+				<p class="chart-title">ARC-AGI-2 score progression</p>
+				<p class="chart-sub">Best AI score vs. human baseline (60%) — Mar 2025 to Mar 2026</p>
+			</div>
+			<ul class="legend">
+				<li><span class="key" style="background:var(--chart-1)"></span>Best AI score</li>
+				<li><span class="key dashed" style="color:var(--chart-ref)"></span>Human baseline</li>
+			</ul>
+		</div>
+		<div class="chart-box"><canvas id="arcChart" role="img" aria-label="Line chart: best ARC-AGI-2 score rises from 4% in March 2025 to 77% in March 2026, crossing the 60% human baseline"></canvas></div>
+		<figcaption class="chart-note">ARC-AGI-2 tests abstract reasoning that can't be brute-forced — easy for humans, hard for AI. Progress driven by refinement loops and test-time compute. Sources: ARC Prize Foundation, arcprize.org.</figcaption>
+	</figure>
+	<p class="callout"><strong>What changed:</strong> Progress wasn't just larger models — it was application-layer engineering. Refinement loops and structured test-time reasoning pushed scores from near-zero to beyond the human baseline in under 12 months. ARC-AGI-3 (interactive reasoning) launched March 2026 to reset the challenge.</p>
+</section>
+
+<section class="data-section" id="findings" aria-labelledby="findings-title">
+	<div class="section-heading">
+		<div>
+			<span class="scope-tag">05 — Key findings</span>
+			<h2 id="findings-title">What the data shows</h2>
+		</div>
+		<p class="section-note">Six observations from two years of frontier AI development.</p>
+	</div>
+	<ul class="scope-list">
+		<li><span class="scope-num">01</span><h4>The acceleration is real</h4><p>Epoch AI confirmed a ~90% acceleration in capability growth rate from April 2024, driven by reasoning models and reinforcement learning becoming standard at frontier labs.</p></li>
+		<li><span class="scope-num">02</span><h4>Coding crossed the threshold</h4><p>SWE-bench went from 4% (2023) to 80%+ (2026). AI can now resolve real GitHub issues at scale. Agentic coding workflows are no longer experimental.</p></li>
+		<li><span class="scope-num">03</span><h4>Open-weight models caught up</h4><p>The gap between closed and open-weight frontier models narrowed from 8% Elo in January 2024 to just 1.7% by February 2025. DeepSeek, Qwen, and Llama now compete directly.</p></li>
+		<li><span class="scope-num">04</span><h4>Competition compressed at the top</h4><p>The Elo gap between the #1 and #10 ranked model shrank from 11.9% to 5.4%. The #1 vs #2 gap shrank from 4.9% to 0.7%. No single lab dominates.</p></li>
+		<li><span class="scope-num">05</span><h4>Benchmarks saturate fast</h4><p>MMLU, GSM8K, and HumanEval are all effectively saturated at frontier tier. The field shifted to GPQA Diamond, ARC-AGI-2, Humanity's Last Exam, and METR as meaningful measures.</p></li>
+		<li><span class="scope-num">06</span><h4>Cost collapsed 30×</h4><p>GPT-4-level performance cost ~$30/M tokens in 2023. Today it costs under $1/M. Each order-of-magnitude reduction unlocks use cases that were previously economically impossible.</p></li>
+	</ul>
+</section>
+
+<section class="data-section" id="timeline" aria-labelledby="timeline-title">
+	<div class="section-heading">
+		<div>
+			<span class="scope-tag">06 — Model timeline</span>
+			<h2 id="timeline-title">Key releases &amp; inflection points</h2>
+		</div>
+		<p class="section-note">The models that moved the benchmarks, in order.</p>
+	</div>
+	<ol class="timeline">
+		<li><span class="tl-date">Mar 2024</span><div><p class="tl-event">Claude 3 Opus / GPT-4 Turbo</p><p class="tl-detail">Last generation before the reasoning model era. GPQA ~40%, SWE-bench ~18%.</p></div></li>
+		<li><span class="tl-date">Jun 2024</span><div><p class="tl-event">GPT-4o</p><p class="tl-detail">Multimodal as default. Real-time voice. Cost drop cycle begins.</p></div></li>
+		<li><span class="tl-date">Sep 2024</span><div><p class="tl-event">Claude 3.5 Sonnet</p><p class="tl-detail">New SWE-bench record. Computer use introduced. SWE-bench ~38%.</p></div></li>
+		<li><span class="tl-date">Nov 2024</span><div><p class="tl-event">OpenAI o1 + DeepSeek V3</p><p class="tl-detail">Test-time compute arrives. o1 scores 74% on IMO qualifier vs GPT-4o's 9%. DeepSeek signals China's capability.</p></div></li>
+		<li><span class="tl-date">Mar 2025</span><div><p class="tl-event">ARC-AGI-2 launched</p><p class="tl-detail">All frontier models score below 5%. Human baseline: 60%. The hockey stick benchmark begins.</p></div></li>
+		<li><span class="tl-date">May 2025</span><div><p class="tl-event">Claude 4 / GPT-4.5</p><p class="tl-detail">Reasoning as standard, not premium. GPQA crosses 80%+. SWE-bench ~64%.</p></div></li>
+		<li><span class="tl-date">Aug–Nov 2025</span><div><p class="tl-event">Gemini 3 / Claude 4.5 / Grok 4</p><p class="tl-detail">Claude Opus 4.5 completes 5-hour software tasks. ARC-AGI-2 breaks 45%. Gemini 3 hits 100% AIME 2025.</p></div></li>
+		<li><span class="tl-date">Mar 2026</span><div><p class="tl-event">Claude 4.6 / Gemini 3.1 Pro / GPT-5.4</p><p class="tl-detail">ARC-AGI-2 at 77–84%+. SWE-bench 80%+. 1M context windows. ARC-AGI-3 (interactive) released.</p></div></li>
+	</ol>
+</section>
+
+<div class="page-sources">
+	<p>selfdriven.ai · Compiled March 2026</p>
+	<p>Sources: Epoch AI · Stanford HAI AI Index 2025 · METR · ARC Prize Foundation · LXT · llm-stats.com</p>
+	<p>Data reflects best published scores across frontier models per period. Some scores estimated from trend data.</p>
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
-<style>
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-:root {
-  --bg: #f5f2ed;
-  --surface: #edeae3;
-  --surface2: #e5e1d8;
-  --border: #ddd8ce;
-  --text: #1a1410;
-  --muted: #5a4f44;
-  --muted2: #8a7d72;
-  --accent: #c8442f;
-  --accent-dim: rgba(200,68,47,0.10);
-  --card-radius: 20px;
-  --shadow: 0 2px 16px rgba(0,0,0,0.08);
-  --mono: 'JetBrains Mono', monospace;
-  --sans: 'Poppins', sans-serif;
-  --grid-line: transparent;
-  --nav-bg: rgba(245,242,237,0.92);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #0d0d0d;
-    --surface: #161616;
-    --surface2: #1e1e1e;
-    --border: #2a2a2a;
-    --text: #f0ede8;
-    --muted: #b0a89e;
-    --muted2: #7a7268;
-    --accent: #e85d4a;
-    --accent-dim: rgba(232,93,74,0.12);
-    --shadow: 0 2px 24px rgba(0,0,0,0.5);
-    --grid-line: rgba(255,255,255,0.018);
-    --nav-bg: rgba(13,13,13,0.92);
-  }
-}
-
-html { scroll-behavior: smooth; }
-
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: var(--sans);
-  line-height: 1.6;
-  min-height: 100vh;
-}
-
-body::after {
-  content: '';
-  position: fixed;
-  inset: 0;
-  background-image:
-    linear-gradient(var(--grid-line) 1px, transparent 1px),
-    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
-  background-size: 64px 64px;
-  pointer-events: none;
-  z-index: 0;
-}
-
-.container {
-  max-width: 1080px;
-  margin: 0 auto;
-  padding: 0 40px;
-  position: relative;
-  z-index: 1;
-}
-
-/* NAV */
-nav {
-  position: sticky;
-  top: 0;
-  z-index: 100;
-  background: var(--nav-bg);
-  backdrop-filter: blur(20px);
-  border-bottom: 1px solid var(--border);
-}
-.nav-inner {
-  display: flex;
-  align-items: center;
-  gap: 2px;
-  padding: 14px 0;
-  overflow-x: auto;
-  scrollbar-width: none;
-}
-.nav-inner::-webkit-scrollbar { display: none; }
-.nav-brand {
-  font-size: 13px;
-  font-weight: 700;
-  color: var(--accent);
-  letter-spacing: -0.01em;
-  margin-right: 20px;
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-nav a {
-  font-family: var(--mono);
-  font-size: 10px;
-  letter-spacing: 0.08em;
-  color: var(--muted2);
-  text-decoration: none;
-  padding: 6px 12px;
-  border-radius: 6px;
-  transition: all 0.2s;
-  text-transform: uppercase;
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-nav a:hover { color: var(--text); background: var(--surface2); }
-
-/* HEADER */
-header {
-  padding: 96px 0 88px;
-  border-bottom: 1px solid var(--border);
-  position: relative;
-}
-.header-glow {
-  position: absolute;
-  top: 0; left: -200px;
-  width: 700px; height: 500px;
-  background: radial-gradient(ellipse, rgba(232,93,74,0.10) 0%, transparent 65%);
-  pointer-events: none;
-  z-index: 0;
-}
-.eyebrow {
-  font-family: var(--mono);
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.14em;
-  color: var(--accent);
-  text-transform: uppercase;
-  margin-bottom: 32px;
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  position: relative;
-  z-index: 1;
-}
-.eyebrow::before {
-  content: '';
-  display: block;
-  width: 28px;
-  height: 2px;
-  background: var(--accent);
-  flex-shrink: 0;
-}
-.hero-title {
-  position: relative;
-  z-index: 1;
-  margin-bottom: 40px;
-}
-.hero-title .line {
-  display: block;
-  font-size: clamp(52px, 8vw, 88px);
-  font-weight: 900;
-  letter-spacing: -0.04em;
-  line-height: 1.15;
-  color: var(--text);
-}
-.hero-title .accent { color: var(--accent); }
-.header-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px 28px;
-  font-family: var(--mono);
-  font-size: 11px;
-  color: var(--muted2);
-  position: relative;
-  z-index: 1;
-}
-.header-meta span { display: flex; align-items: center; gap: 8px; }
-.header-meta span::before { content: '→'; color: var(--accent); }
-
-/* SECTIONS */
-section {
-  padding: 88px 0;
-  border-bottom: 1px solid var(--border);
-}
-.section-eyebrow {
-  font-family: var(--mono);
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.2em;
-  color: var(--accent);
-  text-transform: uppercase;
-  margin-bottom: 14px;
-}
-h2 {
-  font-size: clamp(28px, 4vw, 44px);
-  font-weight: 800;
-  letter-spacing: -0.03em;
-  line-height: 1.15;
-  margin-bottom: 16px;
-}
-.section-desc {
-  font-family: var(--mono);
-  font-size: 12px;
-  color: var(--muted);
-  max-width: 580px;
-  line-height: 1.75;
-  margin-bottom: 52px;
-}
-
-/* STAT CARDS */
-.stat-grid {
-  display: grid;
-  grid-template-columns: repeat(3,1fr);
-  gap: 16px;
-  margin-bottom: 48px;
-}
-@media(max-width:640px){ .stat-grid { grid-template-columns:1fr; } }
-.stat-card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--card-radius);
-  padding: 28px 24px 24px;
-  position: relative;
-  transition: border-color 0.25s, box-shadow 0.25s;
-}
-.stat-card::before {
-  content: '';
-  position: absolute;
-  top: 0; left: 0; right: 0;
-  height: 3px;
-  background: var(--accent);
-  border-radius: var(--card-radius) var(--card-radius) 0 0;
-}
-.stat-card:hover { border-color: rgba(232,93,74,0.3); box-shadow: var(--shadow); }
-.stat-label {
-  font-family: var(--mono);
-  font-size: 10px;
-  letter-spacing: 0.12em;
-  color: var(--muted2);
-  text-transform: uppercase;
-  margin-bottom: 14px;
-}
-.stat-value {
-  font-size: 42px;
-  font-weight: 900;
-  letter-spacing: -0.04em;
-  line-height: 1;
-  margin-bottom: 8px;
-}
-.stat-sub { font-family: var(--mono); font-size: 11px; color: var(--muted2); }
-
-/* CALLOUT */
-.callout {
-  background: var(--accent-dim);
-  border: 1px solid rgba(232,93,74,0.22);
-  border-left: 3px solid var(--accent);
-  border-radius: 12px;
-  padding: 20px 24px;
-  font-family: var(--mono);
-  font-size: 12px;
-  color: var(--muted);
-  line-height: 1.75;
-}
-.callout strong { color: var(--text); }
-
-/* CHART CARD */
-.chart-card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--card-radius);
-  padding: 32px;
-  margin-bottom: 24px;
-}
-.chart-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  flex-wrap: wrap;
-  gap: 16px;
-  margin-bottom: 28px;
-}
-.chart-title { font-size: 16px; font-weight: 700; letter-spacing: -0.01em; }
-.chart-sub { font-family: var(--mono); font-size: 11px; color: var(--muted2); margin-top: 4px; }
-.legend { display: flex; flex-wrap: wrap; gap: 14px; font-family: var(--mono); font-size: 11px; color: var(--muted2); }
-.legend-item { display: flex; align-items: center; gap: 7px; }
-.legend-dot { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
-.chart-note {
-  font-family: var(--mono);
-  font-size: 10px;
-  color: var(--muted2);
-  margin-top: 20px;
-  padding-top: 16px;
-  border-top: 1px solid var(--border);
-  line-height: 1.7;
-}
-
-/* FINDINGS */
-.findings-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 16px; }
-@media(max-width:640px){ .findings-grid { grid-template-columns:1fr; } }
-.finding-card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--card-radius);
-  padding: 24px;
-  transition: border-color 0.2s;
-}
-.finding-card:hover { border-color: rgba(232,93,74,0.25); }
-.finding-num { font-family: var(--mono); font-size: 10px; color: var(--accent); letter-spacing: 0.15em; margin-bottom: 10px; }
-.finding-title { font-size: 15px; font-weight: 700; margin-bottom: 10px; letter-spacing: -0.01em; }
-.finding-body { font-family: var(--mono); font-size: 11px; color: var(--muted); line-height: 1.75; }
-
-/* TIMELINE */
-.timeline { padding-left: 28px; margin-top: 40px; border-left: 1px solid var(--border); }
-.timeline-item { position: relative; margin-bottom: 36px; padding-left: 12px; }
-.timeline-item::before {
-  content: '';
-  position: absolute;
-  left: -21px; top: 7px;
-  width: 8px; height: 8px;
-  border-radius: 50%;
-  background: var(--accent);
-  box-shadow: 0 0 10px rgba(232,93,74,0.4);
-}
-.tl-date { font-family: var(--mono); font-size: 10px; letter-spacing: 0.12em; color: var(--accent); text-transform: uppercase; margin-bottom: 5px; }
-.tl-event { font-size: 14px; font-weight: 700; margin-bottom: 4px; }
-.tl-detail { font-family: var(--mono); font-size: 11px; color: var(--muted2); line-height: 1.6; }
-
-/* FOOTER */
-footer { padding: 56px 0; text-align: center; font-family: var(--mono); font-size: 11px; color: var(--muted2); line-height: 2; }
-
-/* SCROLL REVEAL */
-.reveal { opacity: 0; transform: translateY(28px); transition: opacity 0.55s ease, transform 0.55s ease; }
-.reveal.visible { opacity: 1; transform: none; }
-</style>
-</head>
-<body>
-
-<nav>
-  <div class="container">
-    <div class="nav-inner">
-    <img src="/assets/img/selfdriven-logo-ai-flamingo-transparent.png" alt="selfdriven.ai" style="height:28px;width:auto;flex-shrink:0;margin-right:20px;" id="nav-logo" />
-      <a href="#overview">Overview</a>
-      <a href="#benchmarks">Benchmarks</a>
-      <a href="#metr">Task Horizon</a>
-      <a href="#arc">ARC-AGI-2</a>
-      <a href="#findings">Findings</a>
-      <a href="#timeline">Timeline</a>
-    </div>
-  </div>
-</nav>
-
-<header>
-  <div class="container">
-    <div class="header-glow"></div>
-    <div class="eyebrow">Research Summary · March 2026</div>
-    <div class="hero-title">
-      <span class="line">AI Capability</span>
-      <span class="line accent">Progression</span>
-      <span class="line">2024–2026</span>
-    </div>
-    <div class="header-meta">
-      <span>Benchmark Analysis</span>
-      <span>Frontier Models</span>
-      <span>Sources: Epoch AI · Stanford HAI · METR · ARC Prize</span>
-    </div>
-  </div>
-</header>
-
-<section id="overview">
-  <div class="container">
-    <div class="section-eyebrow">01 — Overview</div>
-    <h2>Two years of<br>accelerating progress</h2>
-    <p class="section-desc">Frontier AI capability has advanced faster in 2024–2026 than in any prior two-year period. Three benchmarks illustrate the pace — and the acceleration is real.</p>
-    <div class="stat-grid">
-      <div class="stat-card reveal">
-        <div class="stat-label">SWE-bench Verified</div>
-        <div class="stat-value">80%+</div>
-        <div class="stat-sub">from 4% in early 2023</div>
-      </div>
-      <div class="stat-card reveal">
-        <div class="stat-label">GPQA Diamond</div>
-        <div class="stat-value">94%</div>
-        <div class="stat-sub">from ~36% in early 2024</div>
-      </div>
-      <div class="stat-card reveal">
-        <div class="stat-label">Cost per M tokens</div>
-        <div class="stat-value">~$1</div>
-        <div class="stat-sub">from $30+ in 2023 (30× drop)</div>
-      </div>
-    </div>
-    <div class="callout">
-      <strong>Acceleration confirmed.</strong> Epoch AI found their Capabilities Index grew almost twice as fast over the last two years compared to the prior two — a ~90% acceleration beginning April 2024, coinciding with the rise of reasoning models and reinforcement learning at frontier labs.
-    </div>
-  </div>
-</section>
-
-<section id="benchmarks">
-  <div class="container">
-    <div class="section-eyebrow">02 — Benchmark Trends</div>
-    <h2>Capability across<br>three key metrics</h2>
-    <p class="section-desc">SWE-bench (coding), GPQA Diamond (scientific reasoning), and AIME math competition scores — each showing consistent upward progression from March 2024 to March 2026.</p>
-    <div class="chart-card reveal">
-      <div class="chart-header">
-        <div>
-          <div class="chart-title">Benchmark score progression</div>
-          <div class="chart-sub">Best-in-class scores per benchmark, Mar 2024 – Mar 2026</div>
-        </div>
-        <div class="legend">
-          <div class="legend-item"><div class="legend-dot" style="background:#378ADD"></div>SWE-bench (coding)</div>
-          <div class="legend-item"><div class="legend-dot" style="background:#1D9E75"></div>GPQA Diamond (science)</div>
-          <div class="legend-item"><div class="legend-dot" style="background:#BA7517"></div>AIME math</div>
-        </div>
-      </div>
-      <div style="position:relative;width:100%;height:280px"><canvas id="benchChart"></canvas></div>
-      <div class="chart-note">Data sourced from model cards, Stanford HAI AI Index 2025, and Epoch AI Benchmarking Hub. Scores reflect best published results per period across all frontier models.</div>
-    </div>
-  </div>
-</section>
-
-<section id="metr">
-  <div class="container">
-    <div class="section-eyebrow">03 — METR Time Horizon</div>
-    <h2>Task length doubling<br>every 5–7 months</h2>
-    <p class="section-desc">METR measures the length of software engineering tasks an AI can complete with 50% success rate. The log scale shows the exponential trend clearly — the linear view reveals the dramatic acceleration.</p>
-
-    <div class="chart-card reveal">
-      <div class="chart-header">
-        <div>
-          <div class="chart-title">AI task horizon (log scale)</div>
-          <div class="chart-sub">Exponential growth appears as a straight line on a log axis</div>
-        </div>
-        <div class="legend">
-          <div class="legend-item"><div class="legend-dot" style="background:#1D9E75"></div>Measured task length</div>
-          <div class="legend-item"><div class="legend-dot" style="background:#378ADD;opacity:0.5"></div>7-month doubling trend</div>
-        </div>
-      </div>
-      <div style="position:relative;width:100%;height:300px"><canvas id="metrChart"></canvas></div>
-      <div class="chart-note">Red dot marks November 2025: Claude Opus 4.5 completing ~5-hour human tasks. Doubling pace accelerated from every 7 months (2024) to every ~5 months by mid-2025.</div>
-    </div>
-
-    <div class="chart-card reveal">
-      <div class="chart-header">
-        <div>
-          <div class="chart-title">AI task horizon (linear scale)</div>
-          <div class="chart-sub">The same data without log compression — the hockey stick shape</div>
-        </div>
-        <div class="legend">
-          <div class="legend-item"><div class="legend-dot" style="background:#1D9E75"></div>Measured task length</div>
-          <div class="legend-item"><div class="legend-dot" style="background:#378ADD;opacity:0.5"></div>7-month doubling trend</div>
-        </div>
-      </div>
-      <div style="position:relative;width:100%;height:300px"><canvas id="metrLinear"></canvas></div>
-      <div class="chart-note">Linear scale makes the exponential shape visceral — the last two data points account for most of the total growth. This is what 9× improvement in 12 months looks like.</div>
-    </div>
-  </div>
-</section>
-
-<section id="arc">
-  <div class="container">
-    <div class="section-eyebrow">04 — ARC-AGI-2</div>
-    <h2>The inflection<br>benchmark</h2>
-    <p class="section-desc">ARC-AGI-2 launched in March 2025 with all frontier models below 5%. Within a year, scores surged past the human baseline of 60%. This is the sharpest capability inflection on record.</p>
-    <div class="chart-card reveal">
-      <div class="chart-header">
-        <div>
-          <div class="chart-title">ARC-AGI-2 score progression</div>
-          <div class="chart-sub">Best AI score vs. human baseline (60%) — Mar 2025 to Mar 2026</div>
-        </div>
-        <div class="legend">
-          <div class="legend-item"><div class="legend-dot" style="background:#e85d4a"></div>Best AI score</div>
-          <div class="legend-item"><div class="legend-dot" style="background:#888;opacity:0.6"></div>Human baseline</div>
-        </div>
-      </div>
-      <div style="position:relative;width:100%;height:280px"><canvas id="arcChart"></canvas></div>
-      <div class="chart-note">ARC-AGI-2 tests abstract reasoning that can't be brute-forced — easy for humans, hard for AI. Progress driven by refinement loops and test-time compute. Sources: ARC Prize Foundation, arcprize.org.</div>
-    </div>
-    <div class="callout" style="margin-top:24px">
-      <strong>What changed:</strong> Progress wasn't just larger models — it was application-layer engineering. Refinement loops and structured test-time reasoning pushed scores from near-zero to beyond the human baseline in under 12 months. ARC-AGI-3 (interactive reasoning) launched March 2026 to reset the challenge.
-    </div>
-  </div>
-</section>
-
-<section id="findings">
-  <div class="container">
-    <div class="section-eyebrow">05 — Key Findings</div>
-    <h2>What the data shows</h2>
-    <p class="section-desc">Six observations from two years of frontier AI development.</p>
-    <div class="findings-grid">
-      <div class="finding-card reveal">
-        <div class="finding-num">01 —</div>
-        <div class="finding-title">The acceleration is real</div>
-        <div class="finding-body">Epoch AI confirmed a ~90% acceleration in capability growth rate from April 2024, driven by reasoning models and reinforcement learning becoming standard at frontier labs.</div>
-      </div>
-      <div class="finding-card reveal">
-        <div class="finding-num">02 —</div>
-        <div class="finding-title">Coding crossed the threshold</div>
-        <div class="finding-body">SWE-bench went from 4% (2023) to 80%+ (2026). AI can now resolve real GitHub issues at scale. Agentic coding workflows are no longer experimental.</div>
-      </div>
-      <div class="finding-card reveal">
-        <div class="finding-num">03 —</div>
-        <div class="finding-title">Open-weight models caught up</div>
-        <div class="finding-body">The gap between closed and open-weight frontier models narrowed from 8% Elo in January 2024 to just 1.7% by February 2025. DeepSeek, Qwen, and Llama now compete directly.</div>
-      </div>
-      <div class="finding-card reveal">
-        <div class="finding-num">04 —</div>
-        <div class="finding-title">Competition compressed at the top</div>
-        <div class="finding-body">The Elo gap between the #1 and #10 ranked model shrank from 11.9% to 5.4%. The #1 vs #2 gap shrank from 4.9% to 0.7%. No single lab dominates.</div>
-      </div>
-      <div class="finding-card reveal">
-        <div class="finding-num">05 —</div>
-        <div class="finding-title">Benchmarks saturate fast</div>
-        <div class="finding-body">MMLU, GSM8K, and HumanEval are all effectively saturated at frontier tier. The field shifted to GPQA Diamond, ARC-AGI-2, Humanity's Last Exam, and METR as meaningful measures.</div>
-      </div>
-      <div class="finding-card reveal">
-        <div class="finding-num">06 —</div>
-        <div class="finding-title">Cost collapsed 30×</div>
-        <div class="finding-body">GPT-4-level performance cost ~$30/M tokens in 2023. Today it costs under $1/M. Each order-of-magnitude reduction unlocks use cases that were previously economically impossible.</div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="timeline">
-  <div class="container">
-    <div class="section-eyebrow">06 — Model Timeline</div>
-    <h2>Key releases &<br>inflection points</h2>
-    <p class="section-desc">The models that moved the benchmarks, in order.</p>
-    <div class="timeline">
-      <div class="timeline-item reveal"><div class="tl-date">Mar 2024</div><div class="tl-event">Claude 3 Opus / GPT-4 Turbo</div><div class="tl-detail">Last generation before the reasoning model era. GPQA ~40%, SWE-bench ~18%.</div></div>
-      <div class="timeline-item reveal"><div class="tl-date">Jun 2024</div><div class="tl-event">GPT-4o</div><div class="tl-detail">Multimodal as default. Real-time voice. Cost drop cycle begins.</div></div>
-      <div class="timeline-item reveal"><div class="tl-date">Sep 2024</div><div class="tl-event">Claude 3.5 Sonnet</div><div class="tl-detail">New SWE-bench record. Computer use introduced. SWE-bench ~38%.</div></div>
-      <div class="timeline-item reveal"><div class="tl-date">Nov 2024</div><div class="tl-event">OpenAI o1 + DeepSeek V3</div><div class="tl-detail">Test-time compute arrives. o1 scores 74% on IMO qualifier vs GPT-4o's 9%. DeepSeek signals China's capability.</div></div>
-      <div class="timeline-item reveal"><div class="tl-date">Mar 2025</div><div class="tl-event">ARC-AGI-2 launched</div><div class="tl-detail">All frontier models score below 5%. Human baseline: 60%. The hockey stick benchmark begins.</div></div>
-      <div class="timeline-item reveal"><div class="tl-date">May 2025</div><div class="tl-event">Claude 4 / GPT-4.5</div><div class="tl-detail">Reasoning as standard, not premium. GPQA crosses 80%+. SWE-bench ~64%.</div></div>
-      <div class="timeline-item reveal"><div class="tl-date">Aug–Nov 2025</div><div class="tl-event">Gemini 3 / Claude 4.5 / Grok 4</div><div class="tl-detail">Claude Opus 4.5 completes 5-hour software tasks. ARC-AGI-2 breaks 45%. Gemini 3 hits 100% AIME 2025.</div></div>
-      <div class="timeline-item reveal"><div class="tl-date">Mar 2026</div><div class="tl-event">Claude 4.6 / Gemini 3.1 Pro / GPT-5.4</div><div class="tl-detail">ARC-AGI-2 at 77–84%+. SWE-bench 80%+. 1M context windows. ARC-AGI-3 (interactive) released.</div></div>
-    </div>
-  </div>
-</section>
-
-<footer>
-  <div class="container">
-    <p>selfdriven.ai · Compiled March 2026</p>
-    <p>Sources: Epoch AI · Stanford HAI AI Index 2025 · METR · ARC Prize Foundation · LXT · llm-stats.com</p>
-    <p style="margin-top:8px;opacity:0.5">Data reflects best published scores across frontier models per period. Some scores estimated from trend data.</p>
-  </div>
-</footer>
-
 <script>
-Chart.defaults.color = '#7a7268';
-Chart.defaults.borderColor = 'rgba(255,255,255,0.06)';
-Chart.defaults.font.family = "'JetBrains Mono', monospace";
-Chart.defaults.font.size = 11;
+(function () {
+	if (!window.Chart) return;
+	var charts = [];
+	function css(n) { return getComputedStyle(document.documentElement).getPropertyValue(n).trim(); }
+	function alpha(hex, a) {
+		var h = hex.replace('#', ''); if (h.length === 3) h = h.replace(/./g, '$&$&');
+		var n = parseInt(h, 16); return 'rgba(' + (n >> 16 & 255) + ',' + (n >> 8 & 255) + ',' + (n & 255) + ',' + a + ')';
+	}
 
-new Chart(document.getElementById('benchChart'), {
-  type: 'line',
-  data: {
-    labels: ['Mar 2024','Jun 2024','Sep 2024','Nov 2024','Feb 2025','May 2025','Aug 2025','Nov 2025','Mar 2026'],
-    datasets: [
-      { label:'SWE-bench', data:[18,26,38,49,57,64,71,77,80], borderColor:'#378ADD', backgroundColor:'rgba(55,138,221,0.07)', pointBackgroundColor:'#378ADD', borderWidth:2, pointRadius:4, tension:0.35, fill:true },
-      { label:'GPQA Diamond', data:[38,48,55,63,70,76,82,88,92], borderColor:'#1D9E75', backgroundColor:'rgba(29,158,117,0.07)', pointBackgroundColor:'#1D9E75', borderWidth:2, pointRadius:4, tension:0.35, fill:true },
-      { label:'AIME', data:[14,22,36,52,64,74,84,91,96], borderColor:'#BA7517', backgroundColor:'rgba(186,117,23,0.07)', pointBackgroundColor:'#BA7517', borderWidth:2, pointRadius:4, tension:0.35, fill:true }
-    ]
-  },
-  options: {
-    responsive:true, maintainAspectRatio:false,
-    interaction:{ mode:'index', intersect:false },
-    plugins:{ legend:{ display:false } },
-    scales:{ x:{ ticks:{ maxRotation:30 } }, y:{ min:0, max:100, ticks:{ callback: v => v+'%' } } }
-  }
-});
+	// Direct labels at the right end of each line, nudged apart so they never collide
+	var endLabels = {
+		id: 'endLabels',
+		afterDatasetsDraw: function (chart) {
+			var ctx = chart.ctx, items = [];
+			chart.data.datasets.forEach(function (ds, i) {
+				if (!ds.endLabel) return;
+				var meta = chart.getDatasetMeta(i); if (meta.hidden) return;
+				var pt = meta.data[meta.data.length - 1]; if (!pt) return;
+				items.push({ text: ds.endLabel, x: pt.x + 10, y: pt.y });
+			});
+			items.sort(function (a, b) { return a.y - b.y; });
+			for (var i = 1; i < items.length; i++) if (items[i].y - items[i - 1].y < 15) items[i].y = items[i - 1].y + 15;
+			ctx.save();
+			ctx.font = '500 12px "DM Sans", sans-serif';
+			ctx.fillStyle = css('--muted');
+			ctx.textBaseline = 'middle';
+			items.forEach(function (it) { ctx.fillText(it.text, it.x, it.y); });
+			ctx.restore();
+		}
+	};
 
-const metrData = [
-  {x:'Jan 2024',y:2,m:'GPT-4 / Claude 3'},{x:'Apr 2024',y:4,m:'Claude 3 Opus'},
-  {x:'Jul 2024',y:8,m:'GPT-4o'},{x:'Oct 2024',y:18,m:'Claude 3.5 Sonnet'},
-  {x:'Jan 2025',y:35,m:'o1 / DeepSeek R1'},{x:'Apr 2025',y:75,m:'Claude 4 / GPT-4.5'},
-  {x:'Jul 2025',y:150,m:'Gemini 3 / Claude 4.5'},{x:'Nov 2025',y:300,m:'Claude Opus 4.5 (~5hr tasks)'},
-  {x:'Mar 2026',y:480,m:'Claude 4.6 / GPT-5.4'},
-];
-const metrLabels = metrData.map(d=>d.x);
-const metrValues = metrData.map(d=>d.y);
-const metrTrend  = [2,4,8,16,32,64,128,256,512];
-const metrColors = metrData.map((_,i)=>i===7?'#e85d4a':'#1D9E75');
-const metrRadius = metrData.map((_,i)=>i===7?7:4);
-const metrTooltip = { callbacks:{ label: ctx => ctx.datasetIndex===1?'  Trend line':[`  ${ctx.parsed.y>=60?(ctx.parsed.y/60).toFixed(1)+' hrs':ctx.parsed.y+' min'}`,`  ${metrData[ctx.dataIndex].m}`] } };
+	function build() {
+		charts.forEach(function (c) { c.destroy(); }); charts = [];
+		var c1 = css('--chart-1'), c2 = css('--chart-2'), c3 = css('--chart-3'), ref = css('--chart-ref');
+		var ink = css('--ink'), muted = css('--muted'), line = css('--line'), paper = css('--paper');
+		Chart.defaults.color = muted;
+		Chart.defaults.borderColor = line;
+		Chart.defaults.font.family = '"DM Sans", "Helvetica Neue", Arial, sans-serif';
+		Chart.defaults.font.size = 12;
+		var narrow = window.matchMedia('(max-width: 760px)').matches;
+		var tooltip = { backgroundColor: css('--button-bg'), titleColor: css('--button-fg'), bodyColor: css('--button-fg'), padding: 10, cornerRadius: 6, boxPadding: 4, usePointStyle: true };
+		var base = {
+			responsive: true, maintainAspectRatio: false,
+			animation: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? false : { duration: 700 },
+			interaction: { mode: 'index', intersect: false },
+			layout: { padding: { right: narrow ? 8 : 104 } },
+			plugins: { legend: { display: false }, tooltip: tooltip },
+			scales: { x: { grid: { display: false }, ticks: { maxRotation: 0, autoSkip: true, autoSkipPadding: 12 } } }
+		};
+		function opts(extra) { return Chart.helpers.merge(Chart.helpers.clone(base), extra); }
+		function series(label, data, color, style, end) {
+			return { label: label, data: data, borderColor: color, backgroundColor: color, pointBackgroundColor: color, pointBorderColor: paper, pointBorderWidth: 2, pointStyle: style, pointRadius: 4, pointHoverRadius: 6, borderWidth: 2, tension: 0.3, fill: false, endLabel: narrow ? null : end };
+		}
+		var plugins = [endLabels];
 
-// LOG scale — fix ticks to cover full range including top
-new Chart(document.getElementById('metrChart'), {
-  type:'line',
-  data:{
-    labels: metrLabels,
-    datasets:[
-      { label:'Task duration', data:metrValues, borderColor:'#1D9E75', backgroundColor:'rgba(29,158,117,0.09)', pointBackgroundColor:metrColors, pointRadius:metrRadius, borderWidth:2.5, tension:0.3, fill:true },
-      { label:'Trend', data:metrTrend, borderColor:'rgba(55,138,221,0.4)', borderWidth:1.5, borderDash:[5,4], pointRadius:0, fill:false }
-    ]
-  },
-  options:{
-    responsive:true, maintainAspectRatio:false,
-    interaction:{ mode:'index', intersect:false },
-    plugins:{ legend:{ display:false }, tooltip: metrTooltip },
-    scales:{
-      x:{ ticks:{ maxRotation:30 } },
-      y:{
-        type:'logarithmic',
-        min:1,
-        max:1000,
-        ticks:{
-          callback: v => {
-            const labels = {1:'1m',2:'2m',5:'5m',10:'10m',30:'30m',60:'1hr',120:'2hr',300:'5hr',600:'10hr',1000:'~17hr'};
-            return labels[v] || null;
-          }
-        }
-      }
-    }
-  }
-});
+		charts.push(new Chart(document.getElementById('benchChart'), {
+			type: 'line', plugins: plugins,
+			data: {
+				labels: ['Mar 2024', 'Jun 2024', 'Sep 2024', 'Nov 2024', 'Feb 2025', 'May 2025', 'Aug 2025', 'Nov 2025', 'Mar 2026'],
+				datasets: [
+					series('SWE-bench', [18, 26, 38, 49, 57, 64, 71, 77, 80], c1, 'circle', 'SWE-bench'),
+					series('GPQA Diamond', [38, 48, 55, 63, 70, 76, 82, 88, 92], c2, 'rect', 'GPQA'),
+					series('AIME', [14, 22, 36, 52, 64, 74, 84, 91, 96], c3, 'triangle', 'AIME')
+				]
+			},
+			options: opts({ plugins: { tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + c.parsed.y + '%'; } } } }, scales: { y: { min: 0, max: 100, ticks: { callback: function (v) { return v + '%'; } } } } })
+		}));
 
-// LINEAR scale — hockey stick shape
-new Chart(document.getElementById('metrLinear'), {
-  type:'line',
-  data:{
-    labels: metrLabels,
-    datasets:[
-      { label:'Task duration', data:metrValues, borderColor:'#1D9E75', backgroundColor:'rgba(29,158,117,0.09)', pointBackgroundColor:metrColors, pointRadius:metrRadius, borderWidth:2.5, tension:0.3, fill:true },
-      { label:'Trend', data:metrTrend, borderColor:'rgba(55,138,221,0.4)', borderWidth:1.5, borderDash:[5,4], pointRadius:0, fill:false }
-    ]
-  },
-  options:{
-    responsive:true, maintainAspectRatio:false,
-    interaction:{ mode:'index', intersect:false },
-    plugins:{ legend:{ display:false }, tooltip: metrTooltip },
-    scales:{
-      x:{ ticks:{ maxRotation:30 } },
-      y:{
-        min:0,
-        max:540,
-        ticks:{
-          callback: v => {
-            const labels = {0:'0',60:'1hr',120:'2hr',180:'3hr',240:'4hr',300:'5hr',360:'6hr',420:'7hr',480:'8hr',540:'9hr'};
-            return labels[v] !== undefined ? labels[v] : null;
-          },
-          stepSize: 60
-        }
-      }
-    }
-  }
-});
+		var metrData = [
+			{ x: 'Jan 2024', y: 2, m: 'GPT-4 / Claude 3' }, { x: 'Apr 2024', y: 4, m: 'Claude 3 Opus' },
+			{ x: 'Jul 2024', y: 8, m: 'GPT-4o' }, { x: 'Oct 2024', y: 18, m: 'Claude 3.5 Sonnet' },
+			{ x: 'Jan 2025', y: 35, m: 'o1 / DeepSeek R1' }, { x: 'Apr 2025', y: 75, m: 'Claude 4 / GPT-4.5' },
+			{ x: 'Jul 2025', y: 150, m: 'Gemini 3 / Claude 4.5' }, { x: 'Nov 2025', y: 300, m: 'Claude Opus 4.5 (~5hr tasks)' },
+			{ x: 'Mar 2026', y: 480, m: 'Claude 4.6 / GPT-5.4' }
+		];
+		var metrLabels = metrData.map(function (d) { return d.x; });
+		var metrValues = metrData.map(function (d) { return d.y; });
+		var metrTrend = [2, 4, 8, 16, 32, 64, 128, 256, 512];
+		function fmt(v) { return v >= 60 ? (v / 60).toFixed(1) + ' hrs' : v + ' min'; }
+		var metrTooltip = { callbacks: { label: function (c) { return c.datasetIndex === 1 ? ' 7-month trend: ' + fmt(c.parsed.y) : [' ' + fmt(c.parsed.y), ' ' + metrData[c.dataIndex].m]; } } };
+		function metrSets() {
+			var measured = series('Task duration', metrValues, c1, 'circle', 'Measured');
+			measured.fill = true; measured.backgroundColor = alpha(c1, 0.08);
+			measured.pointRadius = metrData.map(function (_, i) { return i === 7 ? 7 : 4; });
+			measured.pointBorderColor = metrData.map(function (_, i) { return i === 7 ? ink : paper; });
+			measured.pointBorderWidth = metrData.map(function (_, i) { return i === 7 ? 3 : 2; });
+			var trend = { label: 'Trend', data: metrTrend, borderColor: ref, borderWidth: 1.5, borderDash: [5, 4], pointRadius: 0, pointHoverRadius: 0, fill: false, tension: 0, endLabel: narrow ? null : '7-mo doubling' };
+			return [measured, trend];
+		}
+		var logTicks = { 1: '1m', 2: '2m', 5: '5m', 10: '10m', 30: '30m', 60: '1hr', 120: '2hr', 300: '5hr', 600: '10hr', 1000: '~17hr' };
+		charts.push(new Chart(document.getElementById('metrChart'), {
+			type: 'line', plugins: plugins,
+			data: { labels: metrLabels, datasets: metrSets() },
+			options: opts({ plugins: { tooltip: metrTooltip }, scales: { y: { type: 'logarithmic', min: 1, max: 1000, ticks: { callback: function (v) { return logTicks[v] || null; } } } } })
+		}));
+		charts.push(new Chart(document.getElementById('metrLinear'), {
+			type: 'line', plugins: plugins,
+			data: { labels: metrLabels, datasets: metrSets() },
+			options: opts({ plugins: { tooltip: metrTooltip }, scales: { y: { min: 0, max: 540, ticks: { stepSize: 60, callback: function (v) { return v === 0 ? '0' : (v / 60) + 'hr'; } } } } })
+		}));
 
-const arcM = ['GPT-4o / Claude 3.5 (~4%)','Gemini 2 Pro (~5%)','o1 / DeepSeek R1 (~8%)','o3 (~20%)','Claude Opus 4.5 / Gemini 3 DT (~45%)','GPT-5.2 Pro (~54%)','Gemini 3.1 Pro (~77%)'];
-new Chart(document.getElementById('arcChart'), {
-  type:'line',
-  data:{
-    labels:['Mar 2025\n(launch)','May 2025','Jul 2025','Sep 2025','Nov 2025','Jan 2026','Mar 2026'],
-    datasets:[
-      { label:'Best AI score', data:[4,5,8,20,45,54,77], borderColor:'#e85d4a', backgroundColor:'rgba(232,93,74,0.09)', pointBackgroundColor:'#e85d4a', pointRadius:6, borderWidth:2.5, tension:0.3, fill:true },
-      { label:'Human baseline', data:[60,60,60,60,60,60,60], borderColor:'rgba(180,180,180,0.4)', borderWidth:1.5, borderDash:[6,4], pointRadius:0, fill:false }
-    ]
-  },
-  options:{
-    responsive:true, maintainAspectRatio:false,
-    interaction:{ mode:'index', intersect:false },
-    plugins:{ legend:{ display:false }, tooltip:{ callbacks:{ label: ctx => ctx.datasetIndex===1?'  Human baseline: 60%':[`  Best AI: ${ctx.parsed.y}%`,`  ${arcM[ctx.dataIndex]}`] } } },
-    scales:{ x:{ ticks:{ maxRotation:30 } }, y:{ min:0, max:100, ticks:{ callback: v => v+'%' } } }
-  }
-});
+		var arcM = ['GPT-4o / Claude 3.5 (~4%)', 'Gemini 2 Pro (~5%)', 'o1 / DeepSeek R1 (~8%)', 'o3 (~20%)', 'Claude Opus 4.5 / Gemini 3 DT (~45%)', 'GPT-5.2 Pro (~54%)', 'Gemini 3.1 Pro (~77%)'];
+		var best = series('Best AI score', [4, 5, 8, 20, 45, 54, 77], c1, 'circle', 'Best AI');
+		best.fill = true; best.backgroundColor = alpha(c1, 0.08); best.pointRadius = 5;
+		charts.push(new Chart(document.getElementById('arcChart'), {
+			type: 'line', plugins: plugins,
+			data: {
+				labels: ['Mar 2025', 'May 2025', 'Jul 2025', 'Sep 2025', 'Nov 2025', 'Jan 2026', 'Mar 2026'],
+				datasets: [best, { label: 'Human baseline', data: [60, 60, 60, 60, 60, 60, 60], borderColor: ref, borderWidth: 1.5, borderDash: [6, 4], pointRadius: 0, pointHoverRadius: 0, fill: false, endLabel: narrow ? null : 'Human 60%' }]
+			},
+			options: opts({ plugins: { tooltip: { callbacks: { label: function (c) { return c.datasetIndex === 1 ? ' Human baseline: 60%' : [' Best AI: ' + c.parsed.y + '%', ' ' + arcM[c.dataIndex]]; } } } }, scales: { y: { min: 0, max: 100, ticks: { callback: function (v) { return v + '%'; } } } } })
+		}));
+	}
 
-const obs = new IntersectionObserver(entries => {
-  entries.forEach(e => { if(e.isIntersecting){ e.target.classList.add('visible'); obs.unobserve(e.target); } });
-}, { threshold:0.1 });
-document.querySelectorAll('.reveal').forEach(el => obs.observe(el));
-</script>
-<script>
-// Strip black background from logo — replace dark pixels with transparent
-(function() {
-  const img = document.getElementById('nav-logo');
-  if (!img) return;
-  img.onload = function() {
-    const canvas = document.createElement('canvas');
-    canvas.width = img.naturalWidth;
-    canvas.height = img.naturalHeight;
-    canvas.style.cssText = img.style.cssText;
-    canvas.style.height = '28px';
-    canvas.style.width = 'auto';
-    const ctx = canvas.getContext('2d');
-    ctx.drawImage(img, 0, 0);
-    const data = ctx.getImageData(0, 0, canvas.width, canvas.height);
-    const px = data.data;
-    for (let i = 0; i < px.length; i += 4) {
-      const r = px[i], g = px[i+1], b = px[i+2];
-      // Make near-black pixels transparent
-      if (r < 40 && g < 40 && b < 40) {
-        px[i+3] = 0;
-      }
-    }
-    ctx.putImageData(data, 0, 0);
-    img.replaceWith(canvas);
-  };
-  // Trigger onload if already cached
-  if (img.complete) img.onload();
+	build();
+	var scheme = window.matchMedia('(prefers-color-scheme: dark)');
+	if (scheme.addEventListener) scheme.addEventListener('change', build);
+	var wasNarrow = window.matchMedia('(max-width: 760px)');
+	if (wasNarrow.addEventListener) wasNarrow.addEventListener('change', build);
 })();
 </script>
-</body>
-</html>

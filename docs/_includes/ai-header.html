@@ -1,0 +1,13 @@
+{%- assign nav_url = page.permalink | default: page.url -%}
+<header class="header">
+	<a class="logo" href="/" aria-label="selfdriven AI home"><img src="/assets/img/selfdriven-logo-ai-flamingo-transparent.png" alt="selfdriven AI" width="92" height="46" /></a>
+	<nav class="nav" aria-label="Main">
+		<a href="/research/"{% if nav_url contains "/research" or nav_url contains "framework" or nav_url contains "/topic" %} aria-current="page"{% endif %}>Research</a>
+		<a href="/tech"{% if nav_url contains "/tech" %} aria-current="page"{% endif %}>Tech</a>
+		<a href="/local"{% if nav_url contains "/local" %} aria-current="page"{% endif %}>Local</a>
+		<a href="/usage/"{% if nav_url contains "/usage" %} aria-current="page"{% endif %}>Usage</a>
+		<a href="/resources/"{% if nav_url contains "/resources" %} aria-current="page"{% endif %}>Resources</a>
+		<a href="/thoughts/"{% if nav_url contains "/thoughts" %} aria-current="page"{% endif %}>Thoughts</a>
+		<a href="https://selfdriven.foundation">Foundation <svg class="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7"/><path d="M8 7h9v9"/></svg></a>
+	</nav>
+</header>
